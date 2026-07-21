@@ -1,0 +1,48 @@
+# ========================
+# TrafficWatch .gitignore
+# ========================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Spark / Hadoop Temp
+tmp/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Node (stale artifact)
+node_modules/
+package-lock.json
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Original unorganized screenshot folders (now in docs/)
+Fedora_Linux - Hadoop Spark Installation ss/
+execute_trafficwatch_ss/
+
+# Original PDFs at root level (now in docs/)
+Traffic_Watch_Report.pdf
+hadoop_spark_installation_manual.pdf

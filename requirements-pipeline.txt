@@ -1,0 +1,3 @@
+-r requirements.txt
+pyspark==4.1.1
+matplotlib==3.10.9
