@@ -1,0 +1,1641 @@
+timestamp,latitude,longitude,speed_limit,severity_score,street_name,crash_type,region
+2026-06-18 11:16:26,24.89901,67.11423,60,2.55,M-9 Motorway (Karachi - Hyderabad),Road Closed,Pakistan
+2026-06-18 11:16:26,31.57162,74.22649,60,1.4,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,24.9144,67.19591,60,1.69,M-1 Motorway (Islamabad - Peshawar),Road Closed,Pakistan
+2026-06-18 11:16:26,27.79237,69.80162,60,1.26,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,31.55568,74.3919,60,1.78,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,26.04822,71.10005,60,1.99,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.99264,67.16487,60,1.0,M-1 Motorway (Islamabad - Peshawar),Road Works,Pakistan
+2026-06-18 11:16:26,26.71138,71.09756,60,1.0,M-1 Motorway (Islamabad - Peshawar),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.99795,67.15864,60,1.33,M-1 Motorway (Islamabad - Peshawar),Road Closed,Pakistan
+2026-06-18 11:16:26,31.52891,74.34384,60,1.41,Lyari Expressway,Road Closed,Pakistan
+2026-06-18 11:16:26,31.59916,74.3839,60,4.44,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.92964,67.1876,60,2.06,M-2 Motorway (Lahore - Islamabad),Road Closed,Pakistan
+2026-06-18 11:16:26,24.80346,67.03892,60,2.91,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.68627,72.98069,60,2.96,"Kashmir Highway, Islamabad",Road Works,Pakistan
+2026-06-18 11:16:26,32.36106,72.16864,60,2.69,N-5 National Highway (GT Road),Road Works,Pakistan
+2026-06-18 11:16:26,24.88328,67.07476,60,2.92,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.56261,74.20952,60,1.78,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.81188,67.12592,60,1.34,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,27.90157,70.54095,60,1.5,M-2 Motorway (Lahore - Islamabad),Road Closed,Pakistan
+2026-06-18 11:16:26,24.96599,67.18093,60,1.0,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,24.86277,67.06884,60,1.3,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.96617,67.15899,60,1.37,N-5 National Highway (GT Road),Road Works,Pakistan
+2026-06-18 11:16:26,33.65411,73.08864,60,2.6,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.47267,74.29001,60,2.24,Lyari Expressway,Road Closed,Pakistan
+2026-06-18 11:16:26,31.56795,74.24499,60,1.0,N-5 National Highway (GT Road),Road Works,Pakistan
+2026-06-18 11:16:26,31.57953,74.31551,60,2.87,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,27.16001,73.10466,60,1.0,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,24.92054,67.12736,60,1.0,Lyari Expressway,Road Closed,Pakistan
+2026-06-18 11:16:26,24.9434,67.00364,60,2.42,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,31.40605,74.27623,60,1.18,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.90239,67.02115,60,1.0,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.92757,67.05978,60,2.93,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.55954,74.23825,60,1.1,M-1 Motorway (Islamabad - Peshawar),Road Closed,Pakistan
+2026-06-18 11:16:26,24.86949,67.03682,60,1.25,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,33.60822,72.98317,60,3.05,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.85783,67.17306,60,3.07,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.97764,67.17513,60,3.1,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.67311,73.06324,60,1.83,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,31.47233,74.39503,60,1.0,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.66344,73.02902,60,1.0,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,25.40627,71.59859,60,2.24,Lyari Expressway,Road Closed,Pakistan
+2026-06-18 11:16:26,24.96138,67.02167,60,1.0,M-1 Motorway (Islamabad - Peshawar),Road Works,Pakistan
+2026-06-18 11:16:26,28.67052,67.87565,60,2.97,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,25.79678,67.94264,60,1.67,M-1 Motorway (Islamabad - Peshawar),Road Works,Pakistan
+2026-06-18 11:16:26,24.95214,67.18097,60,1.13,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,33.6215,73.09525,60,1.45,Lyari Expressway,Road Works,Pakistan
+2026-06-18 11:16:26,33.60066,72.99392,60,1.0,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.53852,74.24341,60,1.0,"Kashmir Highway, Islamabad",Road Works,Pakistan
+2026-06-18 11:16:26,31.50812,74.25723,60,1.0,M-1 Motorway (Islamabad - Peshawar),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.60096,73.06249,60,1.0,M-2 Motorway (Lahore - Islamabad),Road Works,Pakistan
+2026-06-18 11:16:26,24.92112,67.09391,60,1.0,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.60082,73.05011,60,2.4,M-1 Motorway (Islamabad - Peshawar),Road Works,Pakistan
+2026-06-18 11:16:26,33.61796,73.03766,60,2.8,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.53551,74.38372,60,1.78,N-5 National Highway (GT Road),Road Closed,Pakistan
+2026-06-18 11:16:26,31.02934,71.85733,60,3.38,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.57836,74.23283,60,1.0,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.62099,72.95199,60,1.04,M-1 Motorway (Islamabad - Peshawar),Road Closed,Pakistan
+2026-06-18 11:16:26,24.82187,67.08877,60,2.36,"Kashmir Highway, Islamabad",Road Works,Pakistan
+2026-06-18 11:16:26,31.42221,74.32092,60,1.0,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,29.61845,72.38672,60,1.22,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,31.41136,74.24772,60,1.0,Lahore Ring Road,Road Closed,Pakistan
+2026-06-18 11:16:26,31.54318,74.32255,60,1.26,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.41734,74.39782,60,1.98,Lyari Expressway,Road Works,Pakistan
+2026-06-18 11:16:26,33.67632,72.93206,60,2.39,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.96213,67.03141,60,3.05,M-1 Motorway (Islamabad - Peshawar),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.45342,74.3621,60,1.15,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,33.60188,72.9517,60,1.7,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.49878,74.34812,60,1.23,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.87895,67.12882,60,3.02,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.62921,73.08106,60,3.45,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,26.89181,69.32979,60,3.52,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.90593,67.15553,60,1.46,M-2 Motorway (Lahore - Islamabad),Road Works,Pakistan
+2026-06-18 11:16:26,24.88678,67.06741,60,1.44,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,25.85378,72.21759,60,3.94,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.65142,72.97638,60,1.04,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,24.92634,67.05084,60,1.0,N-5 National Highway (GT Road),Road Works,Pakistan
+2026-06-18 11:16:26,27.09748,72.24116,60,1.77,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,32.96162,70.4596,60,2.87,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,33.67222,73.06226,60,1.0,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.43341,74.27336,60,1.76,Lahore Ring Road,Road Closed,Pakistan
+2026-06-18 11:16:26,33.65192,72.9595,60,1.92,M-1 Motorway (Islamabad - Peshawar),Traffic Jam,Pakistan
+2026-06-18 11:16:26,27.73523,69.89814,60,1.0,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.85932,67.04318,60,1.66,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.67968,72.90489,60,1.87,Lyari Expressway,Road Closed,Pakistan
+2026-06-18 11:16:26,31.59284,74.35076,60,4.26,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.63318,73.02009,60,1.59,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.42982,74.35917,60,2.38,N-5 National Highway (GT Road),Road Closed,Pakistan
+2026-06-18 11:16:26,28.14523,69.66446,60,1.82,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,31.56169,74.35414,60,2.74,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,24.96708,67.11942,60,2.67,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.62813,73.09997,60,1.0,N-5 National Highway (GT Road),Road Works,Pakistan
+2026-06-18 11:16:26,26.67771,72.35792,60,1.19,M-1 Motorway (Islamabad - Peshawar),Traffic Jam,Pakistan
+2026-06-18 11:16:26,32.89106,69.12748,60,1.0,"Kashmir Highway, Islamabad",Road Works,Pakistan
+2026-06-18 11:16:26,31.4113,74.25701,60,2.7,Lyari Expressway,Road Closed,Pakistan
+2026-06-18 11:16:26,27.04144,67.92733,60,2.63,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.55441,74.34132,60,2.75,M-2 Motorway (Lahore - Islamabad),Road Closed,Pakistan
+2026-06-18 11:16:26,31.38037,72.61288,60,3.18,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.92313,67.0463,60,2.09,M-9 Motorway (Karachi - Hyderabad),Road Closed,Pakistan
+2026-06-18 11:16:26,33.64005,73.01588,60,1.0,N-5 National Highway (GT Road),Road Works,Pakistan
+2026-06-18 11:16:26,31.50903,74.34817,60,1.0,M-2 Motorway (Lahore - Islamabad),Dangerous Conditions,Pakistan
+2026-06-18 11:16:26,32.8444,72.67979,60,1.46,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,28.09546,72.88516,60,2.91,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,30.27262,73.37347,60,1.39,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,26.39177,73.18031,60,1.54,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,29.21153,67.96014,60,3.09,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.58033,74.32492,60,1.25,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.84627,67.01661,60,3.24,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.69415,72.93029,60,2.52,M-1 Motorway (Islamabad - Peshawar),Road Closed,Pakistan
+2026-06-18 11:16:26,33.64515,73.02011,60,2.31,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,25.04959,70.62102,60,1.0,N-5 National Highway (GT Road),Road Works,Pakistan
+2026-06-18 11:16:26,24.95784,67.03228,60,1.0,M-2 Motorway (Lahore - Islamabad),Road Works,Pakistan
+2026-06-18 11:16:26,33.69013,73.05996,60,3.4,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.98198,67.07793,60,1.0,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.81863,67.00735,60,1.73,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,24.90889,67.07487,60,2.52,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,31.51411,74.30606,60,1.0,N-5 National Highway (GT Road),Road Closed,Pakistan
+2026-06-18 11:16:26,28.9659,71.21037,60,2.2,"Kashmir Highway, Islamabad",Road Works,Pakistan
+2026-06-18 11:16:26,33.61794,72.9825,60,1.0,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.98547,67.01188,60,3.09,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.45436,74.23131,60,3.16,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.59646,74.35299,60,1.0,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,31.54354,74.35993,60,1.91,"Kashmir Highway, Islamabad",Road Works,Pakistan
+2026-06-18 11:16:26,33.67961,72.90246,60,3.11,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,25.85653,71.53114,60,1.66,Lahore Ring Road,Road Closed,Pakistan
+2026-06-18 11:16:26,33.69511,72.90453,60,2.56,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.6636,73.02796,60,1.91,M-2 Motorway (Lahore - Islamabad),Road Works,Pakistan
+2026-06-18 11:16:26,31.44034,74.23803,60,1.65,M-9 Motorway (Karachi - Hyderabad),Road Closed,Pakistan
+2026-06-18 11:16:26,31.43783,74.23075,60,1.0,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,31.56593,74.28083,60,1.66,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.88121,67.07939,60,1.96,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,26.00564,68.19867,60,1.84,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,31.54562,74.21428,60,1.0,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,28.744,69.56267,60,1.93,M-9 Motorway (Karachi - Hyderabad),Road Closed,Pakistan
+2026-06-18 11:16:26,24.98405,67.1195,60,1.0,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,33.69465,72.91189,60,1.16,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,25.80621,69.5926,60,1.62,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.46048,74.2246,60,2.22,N-5 National Highway (GT Road),Road Closed,Pakistan
+2026-06-18 11:16:26,31.54857,74.23788,60,1.0,M-2 Motorway (Lahore - Islamabad),Road Works,Pakistan
+2026-06-18 11:16:26,24.80418,67.00417,60,1.0,N-5 National Highway (GT Road),Road Closed,Pakistan
+2026-06-18 11:16:26,30.58572,72.19547,60,2.9,Lyari Expressway,Road Works,Pakistan
+2026-06-18 11:16:26,30.6173,69.18913,60,1.14,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,30.75036,68.86927,60,1.0,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,33.63541,73.09939,60,1.0,Lahore Ring Road,Road Closed,Pakistan
+2026-06-18 11:16:26,24.96159,67.19361,60,1.06,Lyari Expressway,Road Closed,Pakistan
+2026-06-18 11:16:26,29.6842,68.38599,60,3.55,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.42374,74.39216,60,1.0,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.55138,74.32263,60,2.72,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,31.42438,74.27017,60,2.0,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,26.05005,67.6382,60,1.0,M-2 Motorway (Lahore - Islamabad),Road Closed,Pakistan
+2026-06-18 11:16:26,33.61462,72.95897,60,3.35,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.40707,74.36076,60,2.59,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.60033,73.06316,60,1.0,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.68914,73.06865,60,1.0,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,32.93206,69.19454,60,2.94,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,25.57092,70.47583,60,1.63,M-9 Motorway (Karachi - Hyderabad),Road Closed,Pakistan
+2026-06-18 11:16:26,31.40632,74.29831,60,1.52,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.67265,73.00838,60,1.0,M-1 Motorway (Islamabad - Peshawar),Road Closed,Pakistan
+2026-06-18 11:16:26,31.6019,73.16453,60,3.77,M-1 Motorway (Islamabad - Peshawar),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.6626,73.09628,60,1.24,M-1 Motorway (Islamabad - Peshawar),Traffic Jam,Pakistan
+2026-06-18 11:16:26,30.34761,70.17548,60,1.0,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,31.53882,74.20366,60,1.09,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,28.46363,70.91341,60,1.0,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,31.46242,74.37893,60,1.0,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,33.63639,72.99684,60,1.92,M-1 Motorway (Islamabad - Peshawar),Road Works,Pakistan
+2026-06-18 11:16:26,24.83548,67.1544,60,1.69,N-5 National Highway (GT Road),Dangerous Conditions,Pakistan
+2026-06-18 11:16:26,31.44618,74.36981,60,2.67,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.57521,74.3874,60,1.0,M-2 Motorway (Lahore - Islamabad),Road Works,Pakistan
+2026-06-18 11:16:26,24.93029,67.19467,60,3.28,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.65091,68.00261,60,2.96,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.65492,73.0947,60,2.26,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,28.9371,70.87493,60,1.0,M-2 Motorway (Lahore - Islamabad),Road Works,Pakistan
+2026-06-18 11:16:26,31.4929,74.30383,60,2.01,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.89612,67.04411,60,2.78,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,33.65954,72.90161,60,1.39,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.42914,74.20197,60,2.82,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,26.09112,70.42523,60,2.39,M-1 Motorway (Islamabad - Peshawar),Road Works,Pakistan
+2026-06-18 11:16:26,29.94009,70.36386,60,3.08,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,29.79783,73.31808,60,1.0,Lahore Ring Road,Road Closed,Pakistan
+2026-06-18 11:16:26,33.60676,73.07077,60,1.0,M-9 Motorway (Karachi - Hyderabad),Road Closed,Pakistan
+2026-06-18 11:16:26,24.80681,67.08134,60,1.24,Lyari Expressway,Road Closed,Pakistan
+2026-06-18 11:16:26,24.86998,67.17655,60,1.71,N-5 National Highway (GT Road),Road Closed,Pakistan
+2026-06-18 11:16:26,31.43993,74.20476,60,2.62,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,24.83089,67.15456,60,1.0,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,28.16174,71.47615,60,2.64,M-9 Motorway (Karachi - Hyderabad),Road Closed,Pakistan
+2026-06-18 11:16:26,33.65507,73.04083,60,1.88,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,29.08633,70.55576,60,1.0,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,26.27641,69.91816,60,2.9,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,24.92535,67.13293,60,3.53,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.61132,72.93641,60,1.27,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,31.52887,69.21007,60,1.87,"Kashmir Highway, Islamabad",Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.86576,67.11398,60,1.13,N-5 National Highway (GT Road),Road Closed,Pakistan
+2026-06-18 11:16:26,32.54893,69.65545,60,1.39,M-2 Motorway (Lahore - Islamabad),Road Works,Pakistan
+2026-06-18 11:16:26,31.42102,74.26158,60,1.0,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,24.82516,67.10146,60,3.09,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,25.50874,68.26959,60,2.88,M-1 Motorway (Islamabad - Peshawar),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.93428,67.12383,60,2.02,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.93678,67.00895,60,1.87,N-5 National Highway (GT Road),Road Closed,Pakistan
+2026-06-18 11:16:26,33.61117,72.95785,60,1.0,N-5 National Highway (GT Road),Road Closed,Pakistan
+2026-06-18 11:16:26,26.13881,73.45967,60,2.1,M-1 Motorway (Islamabad - Peshawar),Road Closed,Pakistan
+2026-06-18 11:16:26,26.8502,70.26612,60,2.62,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,32.60631,71.95137,60,1.0,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,33.63386,73.06865,60,1.94,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.41082,74.32038,60,2.4,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,24.96423,67.02963,60,1.0,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,33.61971,72.961,60,1.0,Lahore Ring Road,Road Works,Pakistan
+2026-06-18 11:16:26,33.68711,72.97878,60,2.38,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,33.66877,72.97704,60,2.14,M-9 Motorway (Karachi - Hyderabad),Road Closed,Pakistan
+2026-06-18 11:16:26,31.53124,74.20962,60,1.16,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,29.42212,68.82481,60,2.73,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.66631,72.91774,60,2.45,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,29.33824,70.73496,60,1.87,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,31.5581,74.34405,60,1.0,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.63114,72.95666,60,1.13,M-2 Motorway (Lahore - Islamabad),Road Closed,Pakistan
+2026-06-18 11:16:26,24.96883,67.03623,60,1.19,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,27.42691,68.15921,60,1.18,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,32.00836,68.4132,60,1.0,M-1 Motorway (Islamabad - Peshawar),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.98333,67.14779,60,2.89,M-2 Motorway (Lahore - Islamabad),Road Closed,Pakistan
+2026-06-18 11:16:26,33.66548,73.09414,60,6.87,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.99138,67.02662,60,2.25,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,28.3371,71.1284,60,1.21,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.66876,72.95446,60,2.34,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.80747,67.11777,60,1.63,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,24.93396,67.09734,60,1.0,M-1 Motorway (Islamabad - Peshawar),Road Works,Pakistan
+2026-06-18 11:16:26,33.645,73.00116,60,1.97,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,28.67838,69.28449,60,2.91,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.40038,74.38363,60,2.82,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,33.60751,72.94315,60,1.0,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.90146,67.13445,60,1.87,M-9 Motorway (Karachi - Hyderabad),Road Works,Pakistan
+2026-06-18 11:16:26,31.18082,71.89253,60,2.52,N-5 National Highway (GT Road),Road Closed,Pakistan
+2026-06-18 11:16:26,33.63945,72.90675,60,1.0,Lyari Expressway,Road Closed,Pakistan
+2026-06-18 11:16:26,30.79434,67.85656,60,1.39,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,28.79557,69.31486,60,1.84,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,31.59788,74.30077,60,3.04,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,28.38292,68.19413,60,2.89,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.66102,72.91102,60,1.2,Lahore Ring Road,Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.65049,72.99186,60,1.14,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.92313,67.01553,60,1.0,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.41741,74.2064,60,1.05,M-1 Motorway (Islamabad - Peshawar),Road Closed,Pakistan
+2026-06-18 11:16:26,31.47268,74.32641,60,1.29,M-9 Motorway (Karachi - Hyderabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,31.55036,74.23137,60,2.45,"Kashmir Highway, Islamabad",Road Closed,Pakistan
+2026-06-18 11:16:26,31.57244,74.32657,60,2.09,Lyari Expressway,Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.67039,72.98367,60,2.42,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.61299,72.94923,60,2.19,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,33.66139,73.07175,60,1.0,"Shahrah-e-Faisal, Karachi",Road Works,Pakistan
+2026-06-18 11:16:26,31.41526,74.37923,60,2.99,Lyari Expressway,Road Works,Pakistan
+2026-06-18 11:16:26,31.46824,74.2323,60,2.33,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,31.4067,74.31709,60,1.75,M-2 Motorway (Lahore - Islamabad),Traffic Jam,Pakistan
+2026-06-18 11:16:26,24.92361,67.02848,60,1.0,"Shahrah-e-Faisal, Karachi",Road Closed,Pakistan
+2026-06-18 11:16:26,24.92324,67.13504,60,1.0,N-5 National Highway (GT Road),Traffic Jam,Pakistan
+2026-06-18 11:16:26,33.63696,72.91566,60,2.75,"Shahrah-e-Faisal, Karachi",Traffic Jam,Pakistan
+2026-06-18 11:16:26,51.436198,-0.499574,60,1.68,Kingston Road → Thames Street (B376),Traffic Jam,Global
+2026-06-18 11:16:26,51.573055,-0.498789,60,1.0,Oxford Road (A40) / Old Mill Road → Denham Avenue (A412),Road Works,Global
+2026-06-18 11:16:26,51.573109,-0.499382,60,1.0,Denham Avenue (A412) → Oxford Road (A40) / Old Mill Road,Road Works,Global
+2026-06-18 11:16:26,51.637795,-0.509735,60,4.4,A412 J17 → M4 J15,Traffic Jam,Global
+2026-06-18 11:16:26,51.348547,-0.500524,60,1.0,Kings Road → Grange Road,Road Works,Global
+2026-06-18 11:16:26,51.350297,-0.496763,60,1.0,Heathervale Road → Pinewood Grove,Road Works,Global
+2026-06-18 11:16:26,51.573109,-0.499382,60,1.92,Denham Avenue (A412) → Oxford Road (A40) / Old Mill Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.747399,-0.496173,60,1.0,Lower Sales → Chaulden Lane,Road Works,Global
+2026-06-18 11:16:26,51.46045,-0.517231,60,2.17,A3113 J14 → J16,Traffic Jam,Global
+2026-06-18 11:16:26,51.746373,-0.494243,60,1.3,Cangels Close → Benchleys Road,Road Works,Global
+2026-06-18 11:16:26,51.458018,-0.493822,60,1.0,Park Road (B378) → Horton Road,Road Works,Global
+2026-06-18 11:16:26,51.459465,-0.493741,60,1.0,Spelthorne → Park Road (B378),Road Works,Global
+2026-06-18 11:16:26,51.373708,-0.493218,60,1.6,Chertsey Road / Green Lane → Brighton Road / Station Road (B3121),Traffic Jam,Global
+2026-06-18 11:16:26,51.52879,-0.489875,60,1.0,High Street (A408) → Palmer's Moor Lane,Road Works,Global
+2026-06-18 11:16:26,51.301355,-0.489511,60,1.0,Portsmouth Road → Newark Lane (B367),Road Works,Global
+2026-06-18 11:16:26,51.746444,-0.48846,60,1.0,Puller Road → Anchor Lane,Road Closed,Global
+2026-06-18 11:16:26,51.746367,-0.487463,60,1.0,Anchor Lane → Sebright Road,Road Closed,Global
+2026-06-18 11:16:26,51.649674,-0.485841,60,1.61,Lynwood Heights → The Clump,Traffic Jam,Global
+2026-06-18 11:16:26,51.348692,-0.481571,60,1.0,Byfleet Road → Barnes Wallis Drive,Road Works,Global
+2026-06-18 11:16:26,51.346761,-0.480534,60,1.0,Barnes Wallis Drive → Byfleet Road,Road Works,Global
+2026-06-18 11:16:26,51.658283,-0.479917,60,1.9,Troutstream Way → Trout Rise,Traffic Jam,Global
+2026-06-18 11:16:26,51.455411,-0.473091,60,1.0,Falcon Drive → Everest Road,Road Closed,Global
+2026-06-18 11:16:26,51.454694,-0.473374,60,1.0,Everest Road → Falcon Drive,Road Closed,Global
+2026-06-18 11:16:26,51.757767,-0.471999,60,1.0,Queensway (B487) / Alexandra Road → Cherry Bounce,Road Closed,Global
+2026-06-18 11:16:26,51.517095,-0.471224,60,1.46,Apple Tree Roundabout → High Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.506933,-0.470706,60,1.61,Brandville Road → Falling Lane (A408),Traffic Jam,Global
+2026-06-18 11:16:26,51.764502,-0.471974,60,1.66,Townsend → Thriftfield,Traffic Jam,Global
+2026-06-18 11:16:26,51.371832,-0.464594,60,1.0,Portmore Quays → Bridge Road,Road Works,Global
+2026-06-18 11:16:26,51.372184,-0.464069,60,1.0,Balfour Road (A317) → Devonshire Road,Road Closed,Global
+2026-06-18 11:16:26,51.372678,-0.463934,60,1.0,Wey Road → Balfour Road (A317),Road Closed,Global
+2026-06-18 11:16:26,51.522894,-0.458943,60,1.0,Lavender Road → Apple Tree Roundabout (A408) / Apple Tree Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.522786,-0.46036,60,1.0,Apple Tree Roundabout (A408) / Apple Tree Avenue → Lavender Road,Road Closed,Global
+2026-06-18 11:16:26,51.432496,-0.456378,60,2.35,Feltham Road (B378) → Clarendon Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.323532,-0.456013,60,1.0,J10 → A320 J11,Road Works,Global
+2026-06-18 11:16:26,51.372384,-0.466362,60,1.48,Hamm Court / Weystone Road → Monument Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.470037,-0.452273,60,1.32,Hillingdon → Hillingdon,Traffic Jam,Global
+2026-06-18 11:16:26,51.719787,-0.450976,60,1.0,London Road / Nash Mills Lane → High Street / The Nap,Road Works,Global
+2026-06-18 11:16:26,51.716957,-0.450083,60,1.0,High Street / The Nap → London Road / Nash Mills Lane,Road Works,Global
+2026-06-18 11:16:26,51.447823,-0.447713,60,1.33,Clockhouse Lane (B3003) → Clockhouse Lane (B3003),Traffic Jam,Global
+2026-06-18 11:16:26,51.64684,-0.443813,60,1.0,Scots Hill / The Green → Frankland Road,Road Works,Global
+2026-06-18 11:16:26,51.647241,-0.44013,60,1.0,Hazelwood Road → Scots Hill / The Green,Road Works,Global
+2026-06-18 11:16:26,51.569657,-0.43812,60,1.74,Ickenham Road → Gilbey Close,Traffic Jam,Global
+2026-06-18 11:16:26,51.649277,-0.437325,60,1.68,Rickmansworth Road → New Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.3654,-0.436539,60,1.73,Seven Hills Road (B365) / High Beeches → Oatlands Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.262713,-0.436678,60,1.0,The Street → Ockham Road South (B2039),Road Works,Global
+2026-06-18 11:16:26,51.262599,-0.431974,60,1.14,Ockham Road South (B2039) → Longhurst Road,Road Works,Global
+2026-06-18 11:16:26,51.424072,-0.427446,60,1.33,Staines Road West (A308) → Chertsey Road,Road Works,Global
+2026-06-18 11:16:26,51.517742,-0.427222,60,1.39,Botwell Lane → Lilac Gardens,Traffic Jam,Global
+2026-06-18 11:16:26,51.699253,-0.424073,60,2.21,Hazelwood Lane → Hazelwood Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.420502,-0.423851,60,1.0,Cadbury Road (A244) / Burgoyne Road → Staines Road West (A308),Road Closed,Global
+2026-06-18 11:16:26,51.419845,-0.423949,60,1.0,Staines Road West (A308) → Cadbury Road (A244) / Burgoyne Road,Road Closed,Global
+2026-06-18 11:16:26,51.573152,-0.423058,60,1.38,West End Road / Kingsend → Bury Street / Eastcote Road (B466),Traffic Jam,Global
+2026-06-18 11:16:26,51.576924,-0.427297,60,1.5,Sharps Lane → West End Road / Kingsend,Traffic Jam,Global
+2026-06-18 11:16:26,51.420877,-0.431944,60,1.88,Alexandra Road → Sunbury Cross,Traffic Jam,Global
+2026-06-18 11:16:26,51.535898,-0.420568,60,1.93,Weymouth Road → Lansbury Drive / Raynton Drive,Traffic Jam,Global
+2026-06-18 11:16:26,51.666118,-0.420179,60,1.96,Langley Way → Cassiobury Drive,Traffic Jam,Global
+2026-06-18 11:16:26,51.465439,-0.417612,60,1.5,Great South-West Road (A30) / Hatton Road → Causeway (A312),Traffic Jam,Global
+2026-06-18 11:16:26,51.381773,-0.4149,60,1.0,Hersham Road (A244) → Ashley Road (B365),Road Closed,Global
+2026-06-18 11:16:26,51.730301,-0.415545,60,1.14,Bedmond Hill → Church Hill,Road Works,Global
+2026-06-18 11:16:26,51.521261,-0.414789,60,1.21,Warley Road → Shakespeare Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.721586,-0.410515,60,1.0,Church Hill / Sergehill Lane → Toms Lane,Road Closed,Global
+2026-06-18 11:16:26,51.720863,-0.410429,60,1.0,Toms Lane → Church Hill / Sergehill Lane,Road Closed,Global
+2026-06-18 11:16:26,51.719968,-0.410442,60,1.0,Bedmond Road → Toms Lane,Road Works,Global
+2026-06-18 11:16:26,51.443831,-0.410349,60,1.0,High Street (A244) / Highfield Road → Air Park Way,Road Closed,Global
+2026-06-18 11:16:26,51.44333,-0.408305,60,1.0,Air Park Way → High Street (A244) / Highfield Road,Road Closed,Global
+2026-06-18 11:16:26,51.505187,-0.406285,60,1.83,Willow Tree Lane → Bath Road (A4),Traffic Jam,Global
+2026-06-18 11:16:26,51.281291,-0.407104,60,1.0,Lower Farm Road → Leewood Way,Road Works,Global
+2026-06-18 11:16:26,51.525646,-0.40387,60,1.66,Lothian Avenue → Findhorn Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.792374,-0.40385,60,1.0,The Common → B487,Road Works,Global
+2026-06-18 11:16:26,51.277097,-0.403031,60,1.0,Leewood Way → Lower Farm Road,Road Works,Global
+2026-06-18 11:16:26,51.494415,-0.401664,60,1.2,The Parkway (A437) / Hayes Road → Spitfire Way,Road Works,Global
+2026-06-18 11:16:26,51.668247,-0.397922,60,1.0,Leavesden Road → Lowestoft Road,Road Works,Global
+2026-06-18 11:16:26,51.666223,-0.398718,60,1.62,Rickmansworth Road → Balmoral Road / Gammons Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.673528,-0.39629,60,1.94,Windsor Road → Lowestoft Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.558493,-0.394892,60,1.86,Hillingdon → West End Road (A4180),Traffic Jam,Global
+2026-06-18 11:16:26,51.577782,-0.394751,60,1.45,Boldmere Road → Elm Avenue / Field End Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.682685,-0.400768,60,1.51,A405 → Watford,Traffic Jam,Global
+2026-06-18 11:16:26,51.599,-0.392401,60,1.0,Pinner Green / Elm Park Road → Chesswood Way,Road Works,Global
+2026-06-18 11:16:26,51.529449,-0.389901,60,1.5,Willow Tree Lane → Ruislip Road (B455),Traffic Jam,Global
+2026-06-18 11:16:26,51.530917,-0.389713,60,1.55,Ruislip Road (B455) → Willow Tree Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.656305,-0.387544,60,1.0,Watford → Waterfields Way (A411),Road Closed,Global
+2026-06-18 11:16:26,51.661828,-0.384881,60,1.48,Potters Bar → A411,Traffic Jam,Global
+2026-06-18 11:16:26,51.410076,-0.383878,60,1.0,Lower Sunbury Road / Kempton Road → Kenton Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.499412,-0.383319,60,1.49,Norwood Road (A3005) → A3005 / The Green,Traffic Jam,Global
+2026-06-18 11:16:26,51.593826,-0.382145,60,1.0,Bridge Street / High Street → Station Approach,Road Works,Global
+2026-06-18 11:16:26,51.409981,-0.38198,60,1.0,Lower Sunbury Road / Kempton Road → Pucks Corner,Road Works,Global
+2026-06-18 11:16:26,51.591487,-0.380997,60,1.0,Cecil Park → Bridge Street / High Street,Road Works,Global
+2026-06-18 11:16:26,51.484812,-0.380702,60,1.0,Vicarage Farm Road → The Croft,Road Works,Global
+2026-06-18 11:16:26,51.410258,-0.390261,60,1.0,Kenton Avenue → Lower Sunbury Road / Kempton Road,Road Closed,Global
+2026-06-18 11:16:26,51.590558,-0.380135,60,1.55,Harrow → Bridge Street / High Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.50508,-0.37911,60,4.18,A3005 → Caragh Mews,Traffic Jam,Global
+2026-06-18 11:16:26,51.401597,-0.380387,60,1.35,Walton Road (B369) → Island Farm Road / Pool Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.498559,-0.377977,60,1.94,A3005 → Regina Road / Dagmar Mews,Traffic Jam,Global
+2026-06-18 11:16:26,51.516118,-0.376673,60,1.0,Greenford Avenue → Lady Margaret Road,Road Closed,Global
+2026-06-18 11:16:26,51.516022,-0.375594,60,1.0,Lady Margaret Road → Greenford Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.514709,-0.375541,60,1.68,Carlyle Avenue → Uxbridge Road The Broadway (A4020) / Uxbridge Road High Street (A4020),Traffic Jam,Global
+2026-06-18 11:16:26,51.275373,-0.3769,60,1.15,Groveside → Leatherhead Road,Road Works,Global
+2026-06-18 11:16:26,51.277034,-0.374132,60,1.17,Leatherhead Road → Groveside,Road Works,Global
+2026-06-18 11:16:26,51.541099,-0.37052,60,1.0,Ealing → Kensington Road,Road Works,Global
+2026-06-18 11:16:26,51.710499,-0.370506,60,1.0,North Orbital Road (A405) → Woodside Road,Road Closed,Global
+2026-06-18 11:16:26,51.709298,-0.369374,60,1.0,Woodside Road → North Orbital Road (A405),Road Closed,Global
+2026-06-18 11:16:26,51.547642,-0.368781,60,1.0,Petts Hill / Wood End Lane → Church Road,Road Works,Global
+2026-06-18 11:16:26,51.472023,-0.367181,60,1.17,Bath Road (A3006) → Alexandra Road / Clovelly Road,Road Works,Global
+2026-06-18 11:16:26,51.548937,-0.366736,60,1.0,Petts Hill / Wood End Lane → Church Road,Road Works,Global
+2026-06-18 11:16:26,51.549991,-0.371676,60,2.26,Dabbs Hill Lane → Mandeville Road (A312),Traffic Jam,Global
+2026-06-18 11:16:26,51.549065,-0.366539,60,1.41,Petts Hill / Wood End Lane → Church Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.41657,-0.366447,60,1.0,High Street (A3008) → Station Road,Road Closed,Global
+2026-06-18 11:16:26,51.415695,-0.369217,60,1.0,Station Road → High Street (A3008),Road Closed,Global
+2026-06-18 11:16:26,51.473528,-0.366276,60,1.0,Civic Street → Bath Road (A3006),Road Works,Global
+2026-06-18 11:16:26,51.482378,-0.367518,60,1.0,Church Road (A3063) → Great West Road (A4) / Lampton Road,Road Works,Global
+2026-06-18 11:16:26,51.564825,-0.366268,60,1.37,Alexandra Avenue (A4090) → Alexandra Avenue (A4090),Traffic Jam,Global
+2026-06-18 11:16:26,51.445634,-0.366954,60,1.0,Warburton Road → Hospital Bridge Road (B358),Road Closed,Global
+2026-06-18 11:16:26,51.480449,-0.364995,60,1.18,Great West Road (A4) / Lampton Road → Church Road (A3063),Road Works,Global
+2026-06-18 11:16:26,51.62344,-0.36866,60,2.16,Little Oxhey Lane (B4542) → Royston Park Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.274162,-0.364005,60,1.59,Timber Close → Dorking Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.364063,-0.364259,60,1.56,High Street (A307) → Home Farm Close,Traffic Jam,Global
+2026-06-18 11:16:26,51.618598,-0.366548,60,1.0,Little Oxhey Lane (B4542) → Royston Park Road,Road Works,Global
+2026-06-18 11:16:26,51.615152,-0.368333,60,1.0,Royston Grove → Oxhey Lane (A4008),Road Closed,Global
+2026-06-18 11:16:26,51.617551,-0.36345,60,1.0,Oxhey Lane (A4008) → Royston Grove,Road Closed,Global
+2026-06-18 11:16:26,51.481496,-0.362514,60,1.19,Hounslow → Heston Road (A3005),Road Works,Global
+2026-06-18 11:16:26,51.35015,-0.363293,60,2.19,Elmbridge → Claremont Lane / Milbourne Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.546299,-0.36451,60,1.62,Summit Road → Ealing,Traffic Jam,Global
+2026-06-18 11:16:26,51.618183,-0.361193,60,1.32,Ass House Lane → A4008,Road Works,Global
+2026-06-18 11:16:26,51.614923,-0.360388,60,1.0,Uxbridge Road → Little Oxhey Lane (B4542),Road Works,Global
+2026-06-18 11:16:26,51.517919,-0.358103,60,1.0,Fleming Road → Pascal Road,Road Closed,Global
+2026-06-18 11:16:26,51.612017,-0.357584,60,1.61,Uxbridge Road → Harrow,Traffic Jam,Global
+2026-06-18 11:16:26,51.296476,-0.356699,60,1.19,Leatherhead → Cock Lane,Road Works,Global
+2026-06-18 11:16:26,51.293981,-0.356475,60,1.0,Lodge Road → Cock Lane,Road Works,Global
+2026-06-18 11:16:26,51.3974,-0.355421,60,1.52,Molesey Park Road → Walton Road (B369) / Manor Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.723522,-0.354445,60,1.0,Dell Rise → Ruscombe Drive,Road Closed,Global
+2026-06-18 11:16:26,51.724521,-0.353459,60,1.0,Ruscombe Drive → Dell Rise,Road Closed,Global
+2026-06-18 11:16:26,51.37556,-0.34787,60,1.39,Oaken Lane → Kingston Bypass (A309),Traffic Jam,Global
+2026-06-18 11:16:26,51.441147,-0.345721,60,1.0,Hampton Road (A311) → Staines Road (A305),Road Closed,Global
+2026-06-18 11:16:26,51.610112,-0.344323,60,1.0,A409 → Boxtree Road (B459),Road Works,Global
+2026-06-18 11:16:26,51.736206,-0.345874,60,2.28,Saint Stephen's Hill / Watford Road (B4630) → North Orbital Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.63111,-0.34507,60,1.0,Gleed Avenue → Common Road (A409) / Hive Road,Road Closed,Global
+2026-06-18 11:16:26,51.6314,-0.344102,60,1.0,Common Road (A409) / Hive Road → Gleed Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.731572,-0.343587,60,1.0,Park Street / Hawfield Gardens → North Orbital Road,Road Works,Global
+2026-06-18 11:16:26,51.608457,-0.343012,60,1.0,High Road (A409) → Uxbridge Road (A410),Road Closed,Global
+2026-06-18 11:16:26,51.610022,-0.34551,60,1.0,Uxbridge Road (A410) → High Road (A409),Road Closed,Global
+2026-06-18 11:16:26,51.508941,-0.347042,60,2.28,Windmill Lane (A4127) → Lower Boston Road (A3002),Traffic Jam,Global
+2026-06-18 11:16:26,51.758919,-0.341915,60,1.38,Normandy Road / Kimberley Road → Folly Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.507074,-0.340224,60,1.62,Boston Road → Uxbridge Road (A4020),Traffic Jam,Global
+2026-06-18 11:16:26,51.755323,-0.340814,60,1.39,Worley Road → Dickens Close,Traffic Jam,Global
+2026-06-18 11:16:26,51.748066,-0.341471,60,1.98,Belmont Hill → Chequer Street (A1081) / London Road (A1081),Traffic Jam,Global
+2026-06-18 11:16:26,51.370189,-0.343315,60,1.0,Greenways → Kingston Bypass (A309),Road Closed,Global
+2026-06-18 11:16:26,51.471346,-0.338869,60,1.0,Saint John's Road (B363) → Woodland Gardens / Woodlands Grove,Road Closed,Global
+2026-06-18 11:16:26,51.471684,-0.34165,60,1.0,Woodland Gardens / Woodlands Grove → Saint John's Road (B363),Road Closed,Global
+2026-06-18 11:16:26,51.75622,-0.339391,60,1.0,Folly Lane (A5183) / Normandy Road → Saint Peter's Street (A1081),Road Works,Global
+2026-06-18 11:16:26,51.588928,-0.338684,60,1.0,Lowick Road / Torver Road → Station Road (A409) / Marlborough Hill,Road Closed,Global
+2026-06-18 11:16:26,51.589848,-0.339472,60,1.0,Station Road (A409) / Railway Approach (A409) → Lowick Road / Torver Road,Road Closed,Global
+2026-06-18 11:16:26,51.508809,-0.337992,60,1.0,Boston Road (A3002) / Broadway → Lower Boston Road (A3002),Road Works,Global
+2026-06-18 11:16:26,51.753208,-0.337746,60,1.39,Hatfield Road (A1057) → London Road (A1081) / Holywell Hill (A5183),Traffic Jam,Global
+2026-06-18 11:16:26,51.358748,-0.338695,60,1.15,High Street / The Green → The Causeway / Coverts Road,Road Works,Global
+2026-06-18 11:16:26,51.236635,-0.338042,60,1.0,Ashcombe Road → Chalkpit Lane (A2003) / Station Road (A2003),Road Closed,Global
+2026-06-18 11:16:26,51.234873,-0.3368,60,1.0,Chalkpit Lane (A2003) / Station Road (A2003) → Ashcombe Road,Road Closed,Global
+2026-06-18 11:16:26,51.73075,-0.336766,60,1.0,Shenley Lane (B5378) → A5183,Road Works,Global
+2026-06-18 11:16:26,51.436301,-0.33667,60,1.1,Strawberry Vale (A310) → Shacklegate Lane (B360),Road Works,Global
+2026-06-18 11:16:26,51.43364,-0.338194,60,1.1,Shacklegate Lane (B360) → Strawberry Vale (A310),Road Works,Global
+2026-06-18 11:16:26,51.478352,-0.338211,60,1.24,Ridgeway Road → College Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.750557,-0.338296,60,1.61,Half Moon Mews → Catherine Street (A5183),Traffic Jam,Global
+2026-06-18 11:16:26,51.357572,-0.337567,60,1.0,Church Road / Coverts Road → Cornwall Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.35827,-0.336067,60,1.0,Cornwall Avenue → Church Road / Coverts Road,Road Works,Global
+2026-06-18 11:16:26,51.441859,-0.336903,60,1.0,Abbottsmede Close → Cross Deep (A310),Road Closed,Global
+2026-06-18 11:16:26,51.441955,-0.335404,60,1.0,Cross Deep (A310) → Abbottsmede Close,Road Closed,Global
+2026-06-18 11:16:26,51.558925,-0.335164,60,1.97,Harrow Road → Whitton Avenue East (A4090),Traffic Jam,Global
+2026-06-18 11:16:26,51.679582,-0.336797,60,1.15,Radlett Road / New Road → Aldenham,Road Works,Global
+2026-06-18 11:16:26,51.680531,-0.33489,60,1.0,Aldenham → Radlett Road / New Road,Road Works,Global
+2026-06-18 11:16:26,51.754219,-0.334478,60,1.0,Oak Tree Gardens → Saint Peter's Street (A1081),Road Works,Global
+2026-06-18 11:16:26,51.747673,-0.335397,60,1.64,Riverside Road → London Road (A1081),Traffic Jam,Global
+2026-06-18 11:16:26,51.508949,-0.333491,60,1.65,Broadway / Eccleston Road → Lower Boston Road (A3002),Traffic Jam,Global
+2026-06-18 11:16:26,51.753876,-0.332916,60,1.47,Saint Peter's Road → Saint Peter's Street (A1081),Traffic Jam,Global
+2026-06-18 11:16:26,51.747612,-0.33148,60,1.41,Alma Road → Chequer Street / Holywell Hill (A5183),Traffic Jam,Global
+2026-06-18 11:16:26,51.454626,-0.333978,60,1.0,B361 → London Road,Road Works,Global
+2026-06-18 11:16:26,51.749625,-0.331526,60,1.0,Inkerman Road → Alma Road,Road Closed,Global
+2026-06-18 11:16:26,51.749291,-0.330141,60,1.0,Alma Road → Inkerman Road,Road Closed,Global
+2026-06-18 11:16:26,51.591955,-0.332463,60,2.06,Masons Avenue → Forward Drive / Masons Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.471862,-0.328296,60,1.7,Saint John's Road (B363) → London Road (A315) / Spur Road (B454),Traffic Jam,Global
+2026-06-18 11:16:26,51.749975,-0.325642,60,1.0,Stanhope Road (B691) → Hatfield Road (A1057),Road Closed,Global
+2026-06-18 11:16:26,51.751619,-0.325141,60,1.0,Hatfield Road (A1057) → Stanhope Road (B691),Road Closed,Global
+2026-06-18 11:16:26,51.730805,-0.323225,60,1.61,Shenley Lane (B5378) → A5183,Traffic Jam,Global
+2026-06-18 11:16:26,51.425926,-0.323111,60,1.0,Marston Road → Manor Road / Ferry Road (A313),Road Works,Global
+2026-06-18 11:16:26,51.474032,-0.322817,60,1.0,Twickenham Road (A310) → Twickenham Road (A310) / Park Road,Road Closed,Global
+2026-06-18 11:16:26,51.295275,-0.322081,60,1.0,Epsom Road (B2122) / Saint John's Road → Church Road (B2033) / Highlands Road (B2033),Road Closed,Global
+2026-06-18 11:16:26,51.293335,-0.326039,60,1.0,Church Road (B2033) / Highlands Road (B2033) → Epsom Road (B2122) / Saint John's Road,Road Closed,Global
+2026-06-18 11:16:26,51.508729,-0.321917,60,1.0,Regina Terrace → Leeland Terrace,Road Closed,Global
+2026-06-18 11:16:26,51.679771,-0.32135,60,1.0,The Pathway → Watling Street (A5183),Road Works,Global
+2026-06-18 11:16:26,51.766759,-0.317859,60,1.0,Furse Avenue → Saint Albans Road (B651) / Sandridge Road (B651),Road Closed,Global
+2026-06-18 11:16:26,51.560331,-0.319587,60,1.6,East Lane (A4088) → Harrow Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.752574,-0.316879,60,1.0,Sandfield Road → Stanhope Road (B691) / Clarence Road,Road Works,Global
+2026-06-18 11:16:26,51.540028,-0.315359,60,1.0,Bilton Road → Walmgate Road,Road Works,Global
+2026-06-18 11:16:26,51.460173,-0.315064,60,2.01,The Avenue → Saint Margaret's Road (A3004) / Saint Margaret's Drive,Traffic Jam,Global
+2026-06-18 11:16:26,51.766584,-0.321837,60,1.0,Saint Albans Road (B651) / Sandridge Road (B651) → The Ridgeway,Road Closed,Global
+2026-06-18 11:16:26,51.226412,-0.313157,60,1.0,New Road / Tilehurst Lane → Reigate Road (A25),Road Closed,Global
+2026-06-18 11:16:26,51.552422,-0.31266,60,2.13,High Road (A404) / Napier Road → Watford Road (A404),Traffic Jam,Global
+2026-06-18 11:16:26,51.394345,-0.310879,60,1.0,Maple Road → Portsmouth Road (A307),Road Closed,Global
+2026-06-18 11:16:26,51.48783,-0.311839,60,1.0,Great West Road (A4) → Windmill Road (B452),Road Works,Global
+2026-06-18 11:16:26,51.358913,-0.310938,60,1.0,Merritt Gardens → Ellingham Road,Road Works,Global
+2026-06-18 11:16:26,51.487294,-0.310034,60,1.0,Windmill Road (B452) → Great West Road (A4),Road Works,Global
+2026-06-18 11:16:26,51.36113,-0.309282,60,1.0,Saint Catherines Close → Merritt Gardens,Road Works,Global
+2026-06-18 11:16:26,51.39514,-0.312809,60,1.0,Portsmouth Road (A307) → Maple Road,Road Closed,Global
+2026-06-18 11:16:26,51.620497,-0.315617,60,2.5,The Common (A4140) / Hilltop Way → London Road (A410) / Marsh Lane (A4140),Traffic Jam,Global
+2026-06-18 11:16:26,51.58515,-0.310734,60,1.0,Willowcourt Avenue → Kenton Lane,Road Works,Global
+2026-06-18 11:16:26,51.586078,-0.308053,60,1.0,Kenton Lane → Sedgecombe Avenue,Road Works,Global
+2026-06-18 11:16:26,51.363839,-0.308048,60,1.91,Clayton Road → Merritt Gardens,Traffic Jam,Global
+2026-06-18 11:16:26,51.533048,-0.307411,60,1.18,Western Avenue (A40) → Ealing Road (A4005),Road Works,Global
+2026-06-18 11:16:26,51.586125,-0.307928,60,1.0,Kenton Road (A4006) → Woodcock Hill,Road Closed,Global
+2026-06-18 11:16:26,51.586054,-0.306772,60,1.0,Woodcock Hill → Kenton Road (A4006),Road Closed,Global
+2026-06-18 11:16:26,51.519286,-0.306205,60,1.0,Castlebar Road (B455) → The Firs,Road Works,Global
+2026-06-18 11:16:26,51.619,-0.306023,60,1.34,Canons Corner / Court Drive → Church Road / Stanmore Hill (A4140),Traffic Jam,Global
+2026-06-18 11:16:26,51.762352,-0.30747,60,1.0,Marshalswick Lane / Marshal's Drive → Rose Walk,Road Closed,Global
+2026-06-18 11:16:26,51.584794,-0.311726,60,1.53,Willowcourt Avenue → Kenton Park Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.749066,-0.305261,60,1.0,Hedley Road → Cambridge Road,Road Works,Global
+2026-06-18 11:16:26,51.747568,-0.304593,60,1.11,Drakes Drive → Hedley Road,Road Works,Global
+2026-06-18 11:16:26,51.509217,-0.305329,60,1.0,Ealing Green (B455) → Balmain Close,Road Closed,Global
+2026-06-18 11:16:26,51.509344,-0.304191,60,1.0,Balmain Close → Ealing Green (B455),Road Closed,Global
+2026-06-18 11:16:26,51.400881,-0.303627,60,1.0,Penrhyn Road / B3365 → Surbiton Hill Road / Beaufort Road,Road Works,Global
+2026-06-18 11:16:26,51.799543,-0.303312,60,1.0,Ferrers Lane → Amwell Lane / Bull Lane,Road Closed,Global
+2026-06-18 11:16:26,51.804737,-0.308759,60,1.0,Amwell Lane / Bull Lane → Ferrers Lane,Road Closed,Global
+2026-06-18 11:16:26,51.375148,-0.304236,60,1.78,Kingston Bypass → Upper Brighton Road / Southborough Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.375406,-0.303751,60,1.0,Kingston upon Thames → Upper Brighton Road / Southborough Road,Road Works,Global
+2026-06-18 11:16:26,51.379062,-0.302221,60,1.39,Upper Brighton Road / Southborough Road → Verona Drive,Road Works,Global
+2026-06-18 11:16:26,51.46127,-0.303017,60,1.0,Sheen Road (A305) / The Square → Paradise Road (A305),Road Closed,Global
+2026-06-18 11:16:26,51.381952,-0.301003,60,1.58,Upper Brighton Road / Southborough Road → Tolworth Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.397417,-0.299874,60,1.47,Surbiton Road / Beaufort Road → Ewell Road / Saint Mark's Hill,Traffic Jam,Global
+2026-06-18 11:16:26,51.395078,-0.299829,60,1.0,Church Hill Road → Surbiton Hill Road (A240) / Lambert's Road,Road Closed,Global
+2026-06-18 11:16:26,51.393272,-0.298691,60,1.0,Berrylands Road → Surbiton Road / Beaufort Road,Road Works,Global
+2026-06-18 11:16:26,51.390867,-0.298184,60,1.42,Kingsdowne Road (B3364) → Surbiton Hill Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.395304,-0.298952,60,1.0,Surbiton Hill Road (A240) / Saint Mark's Hill (B3370) → Villiers Avenue / King Charles' Road,Road Closed,Global
+2026-06-18 11:16:26,51.395718,-0.296803,60,1.0,Villiers Avenue / King Charles' Road → Ewell Road (A240) / Surbiton Hill Road (A240),Road Closed,Global
+2026-06-18 11:16:26,51.395828,-0.296706,60,1.0,Villiers Avenue → Cranes Drive,Road Closed,Global
+2026-06-18 11:16:26,51.412149,-0.296424,60,1.0,Cromwell Road → London Road (A308),Road Works,Global
+2026-06-18 11:16:26,51.410544,-0.294771,60,1.0,Cambridge Road (A2043) → Fairfield North / Old London Road,Road Works,Global
+2026-06-18 11:16:26,51.562395,-0.298071,60,1.64,Hirst Crescent → Forty Avenue / Preston Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.410981,-0.296727,60,1.0,Queen Elizabeth Road (A307) → Cambridge Road (A2043),Road Closed,Global
+2026-06-18 11:16:26,51.367055,-0.292221,60,1.81,Kingston upon Thames → Cox Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.520135,-0.291533,60,1.73,Corringway → Uxbridge Road (A4020) / Gunnersbury Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.552819,-0.291075,60,1.0,High Road (A404) → High Road (A404) / London Road,Road Closed,Global
+2026-06-18 11:16:26,51.55244,-0.291202,60,1.0,High Road (A404) / London Road → High Road (A404),Road Closed,Global
+2026-06-18 11:16:26,51.516629,-0.291484,60,1.73,A406 → A406,Traffic Jam,Global
+2026-06-18 11:16:26,51.478757,-0.290167,60,1.15,Broomfield Road → Kew Gardens Road (B353),Road Works,Global
+2026-06-18 11:16:26,51.480343,-0.288971,60,1.0,Kew Gardens Road (B353) → Broomfield Road,Road Works,Global
+2026-06-18 11:16:26,51.502867,-0.288622,60,1.0,Gunnersbury Avenue (A406) → Pope's Lane (B4491) / Gunnersbury Park,Road Closed,Global
+2026-06-18 11:16:26,51.382932,-0.287438,60,1.0,Ditton Road (B3364) → Broadway,Road Works,Global
+2026-06-18 11:16:26,51.382221,-0.284773,60,1.0,Broadway → Ditton Road (B3364),Road Works,Global
+2026-06-18 11:16:26,51.585323,-0.284283,60,1.36,Kenton Road (A4006) → Preston Hill,Traffic Jam,Global
+2026-06-18 11:16:26,51.384776,-0.293847,60,1.57,Ditton Road (B3364) → Broadway,Traffic Jam,Global
+2026-06-18 11:16:26,51.38423,-0.283534,60,1.0,Austyn Gardens → Ewell Road (A240),Road Closed,Global
+2026-06-18 11:16:26,51.382463,-0.285823,60,1.0,Ewell Road (A240) → Austyn Gardens,Road Closed,Global
+2026-06-18 11:16:26,51.479381,-0.282005,60,1.55,Beechwood Avenue → Kew Road (A307),Traffic Jam,Global
+2026-06-18 11:16:26,51.343005,-0.281491,60,1.75,Silk Croft → Haven Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.49646,-0.282007,60,1.61,Gunnersbury Lane (A4000) → Chiswick High Road (A205),Traffic Jam,Global
+2026-06-18 11:16:26,51.378588,-0.28064,60,1.0,Tolworth Junction (A240) → Kingston Bypass (A3),Road Closed,Global
+2026-06-18 11:16:26,51.538744,-0.279713,60,1.75,Conduit Way → Hanger Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.504271,-0.279627,60,1.4,Ealing → High Street (A4020) / Chatsworth Gardens,Road Works,Global
+2026-06-18 11:16:26,51.506774,-0.277564,60,1.12,High Street (A4020) / Chatsworth Gardens → Mill Hill Road,Road Works,Global
+2026-06-18 11:16:26,51.538483,-0.277016,60,1.26,North Circular Road → Premier Park Road,Road Works,Global
+2026-06-18 11:16:26,51.550823,-0.278506,60,2.0,Harrow Road (A404) / Oakington Manor Drive → Victoria Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.536944,-0.275592,60,1.0,Premier Park Road → North Circular Road,Road Works,Global
+2026-06-18 11:16:26,51.466589,-0.275276,60,1.6,Sheen Lane (B351) → Clifford Avenue (A205),Traffic Jam,Global
+2026-06-18 11:16:26,51.534508,-0.274924,60,1.49,Commercial Way → North Circular Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.403875,-0.27584,60,1.16,Cambridge Road / Boundary Close → Saint Johns Road,Road Works,Global
+2026-06-18 11:16:26,51.677475,-0.275492,60,1.0,Woodhall Lane → Cowley Hill / Stapleton Road,Road Works,Global
+2026-06-18 11:16:26,51.675936,-0.274047,60,1.0,Cowley Hill / Stapleton Road → Woodhall Lane,Road Works,Global
+2026-06-18 11:16:26,51.403079,-0.273253,60,1.0,Georgia Road → Cambridge Road / Boundary Close,Road Works,Global
+2026-06-18 11:16:26,51.543277,-0.274715,60,1.38,A406 → Harrow Road (A404),Traffic Jam,Global
+2026-06-18 11:16:26,51.464176,-0.272054,60,1.8,Sheen Lane (B351) → Clifford Avenue (A316) / Lower Richmond Road (A316),Traffic Jam,Global
+2026-06-18 11:16:26,51.343856,-0.272162,60,1.0,Marston → Hook Road (B284),Road Closed,Global
+2026-06-18 11:16:26,51.399061,-0.273347,60,1.54,South Park Grove → South Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.469068,-0.269626,60,1.92,Mortlake High Street → Clifford Avenue (A316),Traffic Jam,Global
+2026-06-18 11:16:26,51.401235,-0.267106,60,2.8,Fountain Roundabout (B283) → Cambridge Road / Boundary Close,Traffic Jam,Global
+2026-06-18 11:16:26,51.489404,-0.266207,60,1.43,Heathfield Terrace (A3000) → Ellsmere Road (A4) / Cedars Road (A4),Traffic Jam,Global
+2026-06-18 11:16:26,51.330126,-0.265839,60,1.0,Ashley Avenue (A24) → Worple Road,Road Works,Global
+2026-06-18 11:16:26,51.328535,-0.264414,60,1.0,Worple Road → Ashley Avenue (A24),Road Works,Global
+2026-06-18 11:16:26,51.575443,-0.26256,60,1.0,Wood Lane → Kingsbury Road (A4006) / Buck Lane,Road Works,Global
+2026-06-18 11:16:26,51.465118,-0.261809,60,1.0,Upper Richmond Road West (A205) → Park Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.462771,-0.262162,60,1.0,Park Avenue → Upper Richmond Road West (A205),Road Closed,Global
+2026-06-18 11:16:26,51.323628,-0.262189,60,1.0,Ashley Avenue (A24) → Treadwell Road,Road Works,Global
+2026-06-18 11:16:26,51.321456,-0.260593,60,1.0,Treadwell Road → Ashley Avenue (A24),Road Works,Global
+2026-06-18 11:16:26,51.547488,-0.260164,60,3.07,Hillside (A404) / Knatchbull Road → North Circular Road (A406),Traffic Jam,Global
+2026-06-18 11:16:26,51.531993,-0.260147,60,1.0,Acton Lane (B4492) → Chase Road / Minerva Road,Road Works,Global
+2026-06-18 11:16:26,51.531115,-0.260032,60,1.0,Chase Road / Minerva Road → Acton Lane (B4492),Road Works,Global
+2026-06-18 11:16:26,51.526262,-0.263109,60,1.81,Dragor Road → Chase Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.554992,-0.261073,60,1.82,Great Central Way → North Circular Road (A406),Traffic Jam,Global
+2026-06-18 11:16:26,51.546355,-0.259788,60,1.17,Brent → Craven Park (A404) / Hillside (A404),Road Works,Global
+2026-06-18 11:16:26,51.542675,-0.259509,60,1.12,Hillside (A404) / Knatchbull Road → Artesian Close,Road Works,Global
+2026-06-18 11:16:26,51.521995,-0.2597,60,1.0,Portal Way / Victoria Road → Victoria Road,Road Closed,Global
+2026-06-18 11:16:26,51.492522,-0.259288,60,1.5,Chiswick High Road (A315) → Chiswick High Road (A315),Traffic Jam,Global
+2026-06-18 11:16:26,51.509857,-0.257815,60,1.0,Goldsmiths Close → Western Avenue (A40) / Westway (A40),Road Works,Global
+2026-06-18 11:16:26,51.393665,-0.257681,60,1.0,Malden Road (A2043) → A3,Road Works,Global
+2026-06-18 11:16:26,51.506441,-0.261713,60,1.33,High Street / Birkbeck Road → The Vale Uxbridge Road / First Avenue,Road Works,Global
+2026-06-18 11:16:26,51.524146,-0.257202,60,1.0,Old Oak Lane / Old Oak Common Lane → Western Avenue (A40),Road Works,Global
+2026-06-18 11:16:26,51.524904,-0.256469,60,1.0,Wales Farm Road → Old Oak Lane / Old Oak Common Lane,Road Works,Global
+2026-06-18 11:16:26,51.614014,-0.255424,60,1.55,Hale Lane (A5100) → Dean's Lane (A5109),Traffic Jam,Global
+2026-06-18 11:16:26,51.64499,-0.255147,60,1.63,Elstree and Borehamwood → Elstree and Borehamwood,Traffic Jam,Global
+2026-06-18 11:16:26,51.394283,-0.254961,60,1.0,Beverley Way → Kingston Bypass,Road Works,Global
+2026-06-18 11:16:26,51.526682,-0.253883,60,1.37,Old Oak Lane / Old Oak Common Lane → Wales Farm Road,Road Works,Global
+2026-06-18 11:16:26,51.506693,-0.253272,60,1.8,The Vale Uxbridge Road / First Avenue → High Street / Birkbeck Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.541717,-0.276111,60,2.86,Abbey Road → Neasden Lane North,Traffic Jam,Global
+2026-06-18 11:16:26,51.485623,-0.254104,60,1.47,Burlington Lane (A316) / Paxton Road → Hogarth Roundabout (E30),Traffic Jam,Global
+2026-06-18 11:16:26,51.526182,-0.251578,60,1.0,Old Oak Lane (A4000) / Victoria Road (A4000) → Wells House Road,Road Works,Global
+2026-06-18 11:16:26,51.759298,-0.253872,60,1.42,Hatfield Road → Albatross Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.491991,-0.251717,60,2.42,Chiswick High Road (A315) / Upham Park Road → Hogarth Lane (E30),Traffic Jam,Global
+2026-06-18 11:16:26,51.556916,-0.249715,60,1.0,A4088 → High Road (A407),Road Works,Global
+2026-06-18 11:16:26,51.548986,-0.248956,60,2.31,High Road (A407) → A4088,Traffic Jam,Global
+2026-06-18 11:16:26,51.345323,-0.248521,60,1.0,Ewell Bypass (A240) → Cheam Road (B2200) / High Street (B2200),Road Works,Global
+2026-06-18 11:16:26,51.543606,-0.247719,60,1.0,Ambleside Road → Essex Road,Road Closed,Global
+2026-06-18 11:16:26,51.544809,-0.248165,60,1.0,Outgate Road → Ambleside Road,Road Closed,Global
+2026-06-18 11:16:26,51.548751,-0.249065,60,1.48,Church Road (A407) → Church Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.543742,-0.245495,60,1.45,Roundwood Road → Oldfield Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.3946,-0.248949,60,1.0,Malden Road (A2043) / Wickham Close → Blakes Terrace / West Barnes Lane,Road Closed,Global
+2026-06-18 11:16:26,51.620556,-0.252042,60,1.46,Northway Circus (A41) → The Broadway (A5100),Traffic Jam,Global
+2026-06-18 11:16:26,51.53415,-0.242013,60,1.71,Harrow Road / Furness Road → Manor Park Road / Park Parade,Traffic Jam,Global
+2026-06-18 11:16:26,51.550958,-0.2416,60,1.0,Cooper Road → High Road (A407),Road Works,Global
+2026-06-18 11:16:26,51.514323,-0.240408,60,1.51,Sundew Avenue → Western Avenue / Old Oak Common Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.549017,-0.241958,60,1.0,High Road (A407) → Dudden Hill Lane (A4088) / Villiers Road,Road Closed,Global
+2026-06-18 11:16:26,51.550012,-0.240246,60,1.0,Dudden Hill Lane (A4088) / Villiers Road → High Road (A407),Road Closed,Global
+2026-06-18 11:16:26,51.550527,-0.24092,60,1.0,Dudden Hill Lane (A4088) → Deacon Road,Road Closed,Global
+2026-06-18 11:16:26,51.550992,-0.240166,60,1.0,Deacon Road → Dudden Hill Lane (A4088),Road Closed,Global
+2026-06-18 11:16:26,51.577682,-0.23976,60,1.0,West Hendon Broadway (A5) → West Hendon Broadway (A5),Road Closed,Global
+2026-06-18 11:16:26,51.57928,-0.23952,60,1.0,Herbert Road → Station Road,Road Closed,Global
+2026-06-18 11:16:26,51.549158,-0.239136,60,1.18,High Road (A407) → Chapter Road,Road Works,Global
+2026-06-18 11:16:26,51.577828,-0.239917,60,1.0,Station Road (A504) → Edgware Road,Road Works,Global
+2026-06-18 11:16:26,51.506571,-0.240443,60,1.1,The Vale Uxbridge Road / Askew Road (B408) → Percy Road,Road Works,Global
+2026-06-18 11:16:26,51.579386,-0.241655,60,1.91,The Hyde / Garrick Road → Edgware Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.546922,-0.239155,60,1.15,Pound Lane → High Road (A407),Traffic Jam,Global
+2026-06-18 11:16:26,51.574507,-0.236641,60,1.58,Edgware Road → Station Road (A504),Traffic Jam,Global
+2026-06-18 11:16:26,51.506453,-0.236625,60,1.13,Shepherd's Bush Green (A219) → The Vale Uxbridge Road / Askew Road (B408),Road Works,Global
+2026-06-18 11:16:26,51.765432,-0.233622,60,1.0,Lemsford Road → Hatfield,Road Closed,Global
+2026-06-18 11:16:26,51.764461,-0.236037,60,1.0,Hatfield → Lemsford Road,Road Closed,Global
+2026-06-18 11:16:26,51.701796,-0.24416,60,2.85,Blackhorse Lane → Cecil Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.549097,-0.244203,60,2.26,Church Road → Willesden Lane (A4003) / Walm Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.765766,-0.233624,60,1.0,Wellfield Road (B197) → B6426,Road Closed,Global
+2026-06-18 11:16:26,51.76424,-0.233193,60,1.0,B6426 → Wellfield Road (B197),Road Closed,Global
+2026-06-18 11:16:26,51.548493,-0.232316,60,1.0,High Road (A407) → Chapter Road,Road Closed,Global
+2026-06-18 11:16:26,51.550638,-0.233387,60,1.0,Chapter Road → High Road (A407),Road Closed,Global
+2026-06-18 11:16:26,51.516438,-0.231988,60,1.0,Wood Lane (A219) → Artillery Lane,Road Works,Global
+2026-06-18 11:16:26,51.567758,-0.234665,60,1.5,North Circular Road → Humber Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.547011,-0.230687,60,1.85,Willesden Lane (A4003) / Walm Lane → Dudden Hill Lane (A4088),Traffic Jam,Global
+2026-06-18 11:16:26,51.405159,-0.229337,60,1.4,Church Walk → Bushey Road (A298),Traffic Jam,Global
+2026-06-18 11:16:26,51.549578,-0.227803,60,1.0,Saint Pauls Avenue → Jeymer Avenue / Park Avenue North,Road Closed,Global
+2026-06-18 11:16:26,51.551439,-0.228739,60,1.0,Jeymer Avenue / Park Avenue North → Saint Pauls Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.515218,-0.227724,60,1.0,A40 → Wood Lane (A219),Road Works,Global
+2026-06-18 11:16:26,51.508674,-0.224568,60,1.0,Ariel Way → Uxbridge Road (A4020),Road Works,Global
+2026-06-18 11:16:26,51.504833,-0.224661,60,1.0,Hammersmith and Fulham → Uxbridge Road (A4020),Road Works,Global
+2026-06-18 11:16:26,51.515453,-0.224398,60,1.0,Westway → Westway,Road Works,Global
+2026-06-18 11:16:26,51.687057,-0.224187,60,1.39,Saint Albans Road → Bignells Corner,Traffic Jam,Global
+2026-06-18 11:16:26,51.609267,-0.223757,60,1.67,Pursley Road → Wise Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.367112,-0.22467,60,1.17,London Road (A24) / Cheam Common Road → Wickham Avenue,Road Works,Global
+2026-06-18 11:16:26,51.515524,-0.223749,60,1.0,Wood Lane (A219) → Hammersmith and Fulham,Road Works,Global
+2026-06-18 11:16:26,51.365233,-0.222401,60,1.13,The Broadway / Park Road → London Road (A24) / Cheam Common Road,Road Works,Global
+2026-06-18 11:16:26,51.548619,-0.221681,60,1.0,Walm Lane (A407) / Chatsworth Road → Dean Road,Road Closed,Global
+2026-06-18 11:16:26,51.548855,-0.22316,60,1.0,Dean Road → Walm Lane (A407) / Chatsworth Road,Road Closed,Global
+2026-06-18 11:16:26,51.49134,-0.223334,60,1.47,Talgarth Road → Lillie Road (A3218) / Silverton Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.377416,-0.221195,60,1.0,Stonecot Hill → Malden Road (A2043) / Cheam Common Road (A2043),Road Works,Global
+2026-06-18 11:16:26,51.730894,-0.222892,60,1.0,Dixons Hill Close → Welham Manor,Road Works,Global
+2026-06-18 11:16:26,51.545829,-0.221559,60,1.0,High Road (A407) → Milverton Road,Road Closed,Global
+2026-06-18 11:16:26,51.545363,-0.219428,60,1.0,Milverton Road → High Road (A407),Road Closed,Global
+2026-06-18 11:16:26,51.407568,-0.220145,60,1.16,A298 → Martin Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.504372,-0.219253,60,1.0,Uxbridge Road (A4020) → Shepherd's Bush Green (A402),Road Works,Global
+2026-06-18 11:16:26,51.649959,-0.219079,60,1.63,Trinder Road / Wellhouse Lane → Barnet Road (A411) / Kerri Close,Traffic Jam,Global
+2026-06-18 11:16:26,51.292377,-0.21878,60,1.0,Waterhouse Lane → Brighton Road (A217),Road Closed,Global
+2026-06-18 11:16:26,51.292729,-0.222436,60,1.0,Brighton Road (A217) → Waterhouse Lane,Road Closed,Global
+2026-06-18 11:16:26,51.733624,-0.218217,60,1.0,Station Road → Welham Manor,Road Works,Global
+2026-06-18 11:16:26,51.733269,-0.218896,60,1.0,Charkham Mews → Station Road,Road Works,Global
+2026-06-18 11:16:26,51.480591,-0.217828,60,1.8,Queensmill Road → Lillie Road (A3218) / Silverton Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.509984,-0.216181,60,1.0,Holland Park Avenue (A402) / Royal Crescent → Bramley Road,Road Works,Global
+2026-06-18 11:16:26,51.765113,-0.220128,60,1.87,B197 → Great North Road (A1000) / Hertford Road (A1000),Traffic Jam,Global
+2026-06-18 11:16:26,51.465025,-0.214664,60,1.43,Putney Bridge Approach → Putney Hill / Disraeli Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.457147,-0.218736,60,3.52,Tibbet's Ride → Lower Richmond Road (B306),Traffic Jam,Global
+2026-06-18 11:16:26,51.590382,-0.213783,60,1.0,Great North Way (A1) → Brent Street,Road Works,Global
+2026-06-18 11:16:26,51.240883,-0.214319,60,1.0,Beaufort Close / Evesham Road → Nutley Lane / Yorke Road,Road Closed,Global
+2026-06-18 11:16:26,51.241134,-0.212447,60,1.0,Nutley Lane / Yorke Road → Beaufort Close / Evesham Road,Road Closed,Global
+2026-06-18 11:16:26,51.407433,-0.212109,60,1.59,Kingston Road (A238) / Cannon Hill Lane → Martin Way (B286),Traffic Jam,Global
+2026-06-18 11:16:26,51.553893,-0.212077,60,1.39,Shoot-up Hill / Walm Lane → Cricklewood Lane (A407) / Chichele Road (A407),Traffic Jam,Global
+2026-06-18 11:16:26,51.463687,-0.21187,60,1.54,Atney Road → Putney High Street (A219),Traffic Jam,Global
+2026-06-18 11:16:26,51.530824,-0.213029,60,1.81,Sixth Avenue → Fifth Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.225634,-0.213291,60,1.0,Sandcross Lane → Park Lane East / Eastnor Road,Road Closed,Global
+2026-06-18 11:16:26,51.453892,-0.211146,60,1.46,West Hill (A3) → West Hill (A3),Traffic Jam,Global
+2026-06-18 11:16:26,51.4694,-0.208966,60,1.79,Hurlingham Road → Putney High Street (A219),Traffic Jam,Global
+2026-06-18 11:16:26,51.49597,-0.208481,60,1.0,Hammersmith Road (A315) → Maclise Road,Road Closed,Global
+2026-06-18 11:16:26,51.377275,-0.208815,60,2.43,Kimpton Road → Oldfields Road (A217) / Kimpton Park Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.509037,-0.206678,60,1.9,Lansdowne Walk → Saint John's Gardens,Traffic Jam,Global
+2026-06-18 11:16:26,51.489652,-0.206215,60,1.0,Talgarth Road (A4) / West Cromwell Road (A4) → Lillie Road (A3218),Road Works,Global
+2026-06-18 11:16:26,51.347446,-0.206863,60,1.0,Sutton → Belmont Rise (A217) / The Crescent,Road Closed,Global
+2026-06-18 11:16:26,51.345208,-0.206045,60,1.0,Belmont Rise (A217) / The Crescent → Sutton,Road Closed,Global
+2026-06-18 11:16:26,51.424344,-0.205351,60,1.27,Worcester Road → Wimbledon Hill Road (A219),Traffic Jam,Global
+2026-06-18 11:16:26,51.517781,-0.205295,60,1.53,Westbourne Park Road (B412) / Saint Luke's Road → Ladbroke Grove (B450),Traffic Jam,Global
+2026-06-18 11:16:26,51.358071,-0.204394,60,1.53,Grove Road → Cheam Road (A232),Traffic Jam,Global
+2026-06-18 11:16:26,51.236915,-0.203543,60,1.45,Church Street (A25) → Lesbourne Road (B2034),Traffic Jam,Global
+2026-06-18 11:16:26,51.488689,-0.20496,60,1.51,Talgarth Road (A4) / West Cromwell Road (A4) → North End Road (A3219) / Dawes Road (A3219),Traffic Jam,Global
+2026-06-18 11:16:26,51.478321,-0.20414,60,1.57,Bishops Road → Parsons Green Lane / Pursers Cross Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.41324,-0.201889,60,1.62,Morden Road (A24) → Kingston Road (A238) / Kingswood Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.526331,-0.206349,60,1.61,Ladbroke Grove (B450) → Great Western Road (A4207) / Elgin Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.562338,-0.201128,60,1.56,Finchley Road (A598) / Hermitage Lane → Hendon Way (A41),Traffic Jam,Global
+2026-06-18 11:16:26,51.649438,-0.201783,60,1.0,Newlyn Road → High Street (A1000),Road Closed,Global
+2026-06-18 11:16:26,51.650788,-0.200859,60,1.0,High Street (A1000) → Newlyn Road,Road Closed,Global
+2026-06-18 11:16:26,51.653012,-0.203939,60,1.48,Cattley Close → High Street (A1000),Traffic Jam,Global
+2026-06-18 11:16:26,51.456846,-0.200287,60,1.63,Wandsworth High Street / Putney Bridge Road → West Hill Road / Portinscale Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.483839,-0.201319,60,1.42,Lillie Road (A3218) → Dawes Road (A3219),Traffic Jam,Global
+2026-06-18 11:16:26,51.510686,-0.199146,60,1.0,Ladbroke Square → Pembridge Road (A4206),Road Closed,Global
+2026-06-18 11:16:26,51.4342,-0.19826,60,1.77,Arthur Road → Arthur Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.570412,-0.19777,60,1.21,Barnet → Golders Green Road (A502) / Golders Green Crescent,Traffic Jam,Global
+2026-06-18 11:16:26,51.514199,-0.196367,60,1.53,Pembridge Villas (A4206) → Chepstow Crescent,Traffic Jam,Global
+2026-06-18 11:16:26,51.575472,-0.196475,60,1.0,Hoop Lane → Golders Green Road (A502),Road Works,Global
+2026-06-18 11:16:26,51.573259,-0.195768,60,1.15,Golders Green Road (A502) → Hoop Lane,Road Works,Global
+2026-06-18 11:16:26,51.47899,-0.199876,60,1.65,Cassidy Road → Fulham Broadway (B318),Traffic Jam,Global
+2026-06-18 11:16:26,51.797766,-0.196697,60,1.0,Broadwater Road (A1000) / Holwell Road → Ludwick Way,Road Works,Global
+2026-06-18 11:16:26,51.240976,-0.196307,60,1.13,Church Street (A25) / Reigate Road (A25) → Gatton Park Road / Batts Hill,Road Works,Global
+2026-06-18 11:16:26,51.473851,-0.196523,60,1.0,New King's Road (A308) / Irene Road → New King's Road (A308) / Peterborough Road,Road Closed,Global
+2026-06-18 11:16:26,51.49905,-0.198646,60,1.47,Earl's Court Road (B316) → Kensington Church Street (A4204),Traffic Jam,Global
+2026-06-18 11:16:26,51.784612,-0.19293,60,1.0,Ryelands → Hollybush Lane,Road Closed,Global
+2026-06-18 11:16:26,51.78466,-0.194668,60,1.0,Hollybush Lane → Ryelands,Road Closed,Global
+2026-06-18 11:16:26,51.587543,-0.192816,60,1.41,Lyttelton Road (A1) / Kingsley Way → Finchley Road (A598) / Regent's Park Road (A598),Traffic Jam,Global
+2026-06-18 11:16:26,51.504117,-0.192395,60,1.43,Vicarage Gardens (B405) → Kensington High Street (A315),Traffic Jam,Global
+2026-06-18 11:16:26,51.554034,-0.19068,60,1.53,Frognal Lane / West End Lane → Fortune Green Road (B510),Traffic Jam,Global
+2026-06-18 11:16:26,51.46753,-0.19011,60,3.03,Bridgend Road / Jews Row → New King's Road (A308),Traffic Jam,Global
+2026-06-18 11:16:26,51.681132,-0.191066,60,1.0,Bentley Heath Lane / Wrotham Park → Barnet Road (A1000),Road Works,Global
+2026-06-18 11:16:26,51.681503,-0.18898,60,1.0,Barnet Road (A1000) → Bentley Heath Lane / Wrotham Park,Road Works,Global
+2026-06-18 11:16:26,51.462427,-0.189432,60,1.4,Wandsworth → Swandon Way (A217),Traffic Jam,Global
+2026-06-18 11:16:26,51.479532,-0.187063,60,1.48,Gunter Grove (A3220) / Ashburnham Road (A3220) → Wandsworth Bridge Road (A217),Traffic Jam,Global
+2026-06-18 11:16:26,51.440434,-0.186874,60,1.62,Burntwood Lane (B229) → Earlsfield Road (B234) / Penwith Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.681503,-0.18898,60,1.0,Waggon Road / White House Road → Barnet Road (A1000),Road Closed,Global
+2026-06-18 11:16:26,51.681721,-0.186672,60,1.0,Barnet Road (A1000) → Waggon Road / White House Road,Road Closed,Global
+2026-06-18 11:16:26,51.460656,-0.1908,60,2.83,Smugglers Way → Townmead Road / Carnwath Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.462657,-0.186179,60,1.0,A214 → Wandsworth Bridge Road / Jews Row,Road Works,Global
+2026-06-18 11:16:26,51.593508,-0.186066,60,1.8,Pinkham Way North Circular Road / Bobby Moore Way → Falloden Way (A1),Traffic Jam,Global
+2026-06-18 11:16:26,51.386682,-0.185956,60,1.47,Netley Road → Reigate Avenue (A217),Traffic Jam,Global
+2026-06-18 11:16:26,51.572344,-0.185252,60,1.0,Reynolds Close → North End Way (A502) / North End Road (A502),Road Works,Global
+2026-06-18 11:16:26,51.491921,-0.184747,60,1.25,Wetherby Gardens → Old Brompton Road (A3218),Traffic Jam,Global
+2026-06-18 11:16:26,51.433213,-0.185691,60,1.9,Garratt Lane (A217) → Haydons Road (A218) / Gap Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.388797,-0.183802,60,1.0,Bishopsford Road (A217) → Saint Helier Avenue (A297),Road Closed,Global
+2026-06-18 11:16:26,51.501642,-0.183576,60,1.41,Kensington Gore → Kensington Church Street (A4204),Traffic Jam,Global
+2026-06-18 11:16:26,51.570783,-0.183239,60,1.19,North End Way (A502) / North End Road (A502) → Reynolds Close,Road Works,Global
+2026-06-18 11:16:26,51.44801,-0.183642,60,1.0,Garratt Lane (A217) / Penwith Road → Trinity Road (A214) / Windmill Road,Road Works,Global
+2026-06-18 11:16:26,51.389198,-0.184764,60,1.0,Saint Helier Avenue (A297) → Bishopsford Road (A217),Road Closed,Global
+2026-06-18 11:16:26,51.463988,-0.182581,60,1.23,York Road (A3205) → York Road (A3205),Traffic Jam,Global
+2026-06-18 11:16:26,51.43293,-0.180694,60,2.09,Garratt Lane (A217) → B235,Traffic Jam,Global
+2026-06-18 11:16:26,51.611537,-0.182056,60,1.65,Thyra Grove → Ballards Lane (A598),Traffic Jam,Global
+2026-06-18 11:16:26,51.611537,-0.182056,60,1.0,Thyra Grove → Ballards Lane (A598),Road Works,Global
+2026-06-18 11:16:26,51.607574,-0.184579,60,1.53,Essex Park → Kingsway,Traffic Jam,Global
+2026-06-18 11:16:26,51.609532,-0.181637,60,1.0,Moss Hall Grove → Kingsway,Road Works,Global
+2026-06-18 11:16:26,51.49794,-0.179652,60,1.0,Queen's Gate → Gloucester Road (B325),Road Closed,Global
+2026-06-18 11:16:26,51.497858,-0.180806,60,1.0,Gloucester Road (B325) → Queen's Gate,Road Closed,Global
+2026-06-18 11:16:26,51.557851,-0.179739,60,1.0,Hampstead High Street (A502) / Heath Street (A502) → Admiral's Walk / The Mount Square,Road Closed,Global
+2026-06-18 11:16:26,51.458277,-0.179158,60,1.76,Marcilly Road → Fairfield Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.611529,-0.178909,60,1.18,Kingsway → Moss Hall Grove,Road Works,Global
+2026-06-18 11:16:26,51.416655,-0.179078,60,1.65,Christchurch Road → Tooting High Street / Blackshaw Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.418207,-0.178136,60,1.0,Priory Road → Tooting High Street / Blackshaw Road,Road Works,Global
+2026-06-18 11:16:26,51.532784,-0.178097,60,1.15,Abercorn Place → Saint John's Wood Road (A5205) / Lisson Grove,Road Works,Global
+2026-06-18 11:16:26,51.419594,-0.176685,60,1.0,Tooting High Street / Blackshaw Road → Priory Road,Road Works,Global
+2026-06-18 11:16:26,51.530616,-0.176619,60,1.0,Saint John's Wood Road (A5205) / Lisson Grove → Abbey Road / Garden Road,Road Works,Global
+2026-06-18 11:16:26,51.695609,-0.176524,60,1.57,Hatfield Road → Barnet Road / Southgate Road (A111),Traffic Jam,Global
+2026-06-18 11:16:26,51.532727,-0.176467,60,1.37,Finchley Road (A41) / Wellington Road (A41) → Abbey Road (B507),Road Works,Global
+2026-06-18 11:16:26,51.578421,-0.178388,60,1.71,Spencer Drive → Holne Chase,Traffic Jam,Global
+2026-06-18 11:16:26,51.542053,-0.177317,60,1.0,Belsize Road → Finchley Road (A41),Road Works,Global
+2026-06-18 11:16:26,51.458561,-0.174924,60,1.66,North Side Wandsworth Common (A3) → Saint John's Hill (A3036),Traffic Jam,Global
+2026-06-18 11:16:26,51.72334,-0.177004,60,1.13,Great North Road (A1000) → Grubbs Lane,Road Works,Global
+2026-06-18 11:16:26,51.636032,-0.177027,60,1.52,Great North Road / Walfield Avenue → Friern Barnet Lane (B550),Traffic Jam,Global
+2026-06-18 11:16:26,51.485675,-0.176986,60,2.19,Fulham Road (A308) / Drayton Gardens → Battersea Bridge Road (A3220) / Cheyne Walk (A3220),Traffic Jam,Global
+2026-06-18 11:16:26,51.534612,-0.173662,60,1.0,Avenue Road (B525) → Finchley Road (A41) / Wellington Road (A41),Road Closed,Global
+2026-06-18 11:16:26,51.485957,-0.175871,60,1.16,The Vale → Old Church Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.423012,-0.173355,60,2.67,Tooting High Street / Blackshaw Road → Christchurch Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.600698,-0.17429,60,1.5,North Circular Road (A406) → High Road (A1000) / Strawberry Vale,Traffic Jam,Global
+2026-06-18 11:16:26,51.505856,-0.172905,60,1.91,Bayswater Road (A402) / Brook Street → Kensington Gore (A315) / Kensington Road (A315),Traffic Jam,Global
+2026-06-18 11:16:26,51.234905,-0.172536,60,1.6,Brighton Road (A23) / Grovehill Road → Mill Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.512892,-0.17284,60,1.47,Bayswater Road (A402) / Westbourne Street → Bayswater Road (A402),Traffic Jam,Global
+2026-06-18 11:16:26,51.727584,-0.172083,60,1.13,Grubbs Lane → Great North Road (A1000),Road Works,Global
+2026-06-18 11:16:26,51.501901,-0.171956,60,1.37,Knightsbridge / Rutland Gardens → West Carriage Drive / Exhibition Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.493533,-0.173664,60,1.43,Old Brompton Road (A3218) → Fulham Road (A308) / Pond Place,Traffic Jam,Global
+2026-06-18 11:16:26,51.423547,-0.172635,60,1.0,High Street Collier's Wood / Blackshaw Road → Garratt Lane (A217) / Mitcham Road (A217),Road Works,Global
+2026-06-18 11:16:26,51.459198,-0.181517,60,2.17,Huguenot Place → Northcote Road (B229) / Saint John's Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.536863,-0.172502,60,1.0,Finchley Road (A41) / Boundary Road → Acacia Road,Road Closed,Global
+2026-06-18 11:16:26,51.424907,-0.170888,60,1.14,Mitcham Road (A217) → High Street Collier's Wood / Blackshaw Road,Road Works,Global
+2026-06-18 11:16:26,51.537775,-0.170882,60,1.0,Woronzow Road → Ordnance Hill,Road Closed,Global
+2026-06-18 11:16:26,51.477847,-0.173163,60,2.2,Battersea Square (A1105) / Westbridge Road (B305) → Battersea Bridge Road (A3220),Traffic Jam,Global
+2026-06-18 11:16:26,51.424175,-0.171798,60,1.0,Tooting High Street (A24) → Mellison Road,Road Closed,Global
+2026-06-18 11:16:26,51.423691,-0.170591,60,1.0,Mellison Road → Tooting High Street (A24),Road Closed,Global
+2026-06-18 11:16:26,51.48508,-0.170477,60,1.23,King's Road (A3217) / Glebe Place → King's Road (A3217),Traffic Jam,Global
+2026-06-18 11:16:26,51.469915,-0.175077,60,1.53,Lombard Road (B305) → Latchmere Road (A3220) / Battersea Bridge Road (A3220),Traffic Jam,Global
+2026-06-18 11:16:26,51.48508,-0.170477,60,1.0,King's Road (A3217) / Manresa Road → Chelsea Embankment (E30) / Cheyne Walk,Road Closed,Global
+2026-06-18 11:16:26,51.406983,-0.171838,60,1.48,Church Road / Lewis Road → Western Road (A236) / Bond Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.235056,-0.170248,60,1.31,Brighton Road (A23) → Brighton Road (A23),Traffic Jam,Global
+2026-06-18 11:16:26,51.480272,-0.178455,60,3.42,Edith Grove (A3220) → Westbridge Road (B305) / Parkgate Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.476603,-0.171212,60,1.44,Battersea Square (A1105) / Battersea Church Road → Battersea Bridge Road (A3220) / Parkgate Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.471022,-0.169483,60,1.0,Latchmere Road (A3220) / Battersea Bridge Road (A3220) → York Road / Falcon Road (A3207),Road Works,Global
+2026-06-18 11:16:26,51.493641,-0.168926,60,1.42,Brompton Road (A4) → Dovehouse Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.47925,-0.16888,60,1.88,Parkgate Road / Elcho Street → Battersea Bridge Road (A3220),Traffic Jam,Global
+2026-06-18 11:16:26,51.423547,-0.172635,60,1.0,Tooting High Street (A24) / High Street Collier's Wood (A24) → Mitcham Road (A217) / Renmuir Street,Road Closed,Global
+2026-06-18 11:16:26,51.421558,-0.168294,60,1.0,Mitcham Road (A217) → Tooting High Street (A24) / High Street Collier's Wood (A24),Road Closed,Global
+2026-06-18 11:16:26,51.484848,-0.16829,60,2.51,Chelsea Embankment (E30) / Albert Bridge Road → King's Road (A3217),Traffic Jam,Global
+2026-06-18 11:16:26,51.552126,-0.169023,60,1.0,Perceval Avenue → Rosslyn Hill (A502),Road Closed,Global
+2026-06-18 11:16:26,51.552622,-0.168026,60,1.0,Rosslyn Hill (A502) → Perceval Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.442224,-0.170562,60,1.52,Sandgate Lane → Trinity Road (A214) / Bellevue Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.331556,-0.16907,60,1.0,Manor Hill / Woodmansterne Street → A2022,Road Works,Global
+2026-06-18 11:16:26,51.478871,-0.167712,60,1.48,Albert Bridge Road (A3031) / Carriage Drive North → Battersea Bridge Road (A3220) / Westbridge Road (B305),Traffic Jam,Global
+2026-06-18 11:16:26,51.47592,-0.167626,60,2.9,Prince of Wales Drive → Cheyne Walk (E30),Traffic Jam,Global
+2026-06-18 11:16:26,51.483471,-0.166736,60,2.38,Royal Hospital Road (B302) → Battersea Bridge Road (A3220) / Cheyne Walk (A3220),Traffic Jam,Global
+2026-06-18 11:16:26,51.302502,-0.16651,60,1.0,High Road → Hazelwood Lane,Road Closed,Global
+2026-06-18 11:16:26,51.301978,-0.168683,60,1.0,Hazelwood Lane → High Road,Road Closed,Global
+2026-06-18 11:16:26,51.520024,-0.172639,60,1.87,Westway / Marylebone Flyover (A404) → Old Marylebone Road (A501),Traffic Jam,Global
+2026-06-18 11:16:26,51.483483,-0.167292,60,1.0,Chelsea Embankment (E30) → Cambridge Road / Prince of Wales Drive (A3220),Road Closed,Global
+2026-06-18 11:16:26,51.479542,-0.165479,60,1.0,Cambridge Road / Prince of Wales Drive (A3220) → Chelsea Embankment (E30),Road Closed,Global
+2026-06-18 11:16:26,51.550398,-0.164784,60,1.0,Howitt Road → Rosslyn Hill / Rowland Hill Street,Road Works,Global
+2026-06-18 11:16:26,51.48334,-0.177043,60,2.1,A308 / Edith Grove (A3220) → Sloane Square,Traffic Jam,Global
+2026-06-18 11:16:26,51.53721,-0.166968,60,1.53,A41 → Prince Albert Road (A5205),Traffic Jam,Global
+2026-06-18 11:16:26,51.48957,-0.163537,60,2.85,Sloane Square → Beaufort Street (A3212),Traffic Jam,Global
+2026-06-18 11:16:26,51.521233,-0.163031,60,1.0,Marylebone Road (A501) / Enford Street → Harewood Row,Road Closed,Global
+2026-06-18 11:16:26,51.573689,-0.163037,60,1.0,Denewood Road → Hampstead Lane (B519),Road Closed,Global
+2026-06-18 11:16:26,51.512518,-0.167277,60,1.64,Hyde Park Street → Cumberland Gate (A40),Traffic Jam,Global
+2026-06-18 11:16:26,51.472803,-0.162602,60,1.92,Albert Bridge Road (A3220) → York Road / Falcon Road (A3207),Traffic Jam,Global
+2026-06-18 11:16:26,51.572612,-0.162952,60,1.0,Hampstead Lane (B519) → Aylmer Road (A1),Road Closed,Global
+2026-06-18 11:16:26,51.499163,-0.164523,60,1.0,Brompton Road (A4) → Basil Street / Walton Place,Road Closed,Global
+2026-06-18 11:16:26,51.455093,-0.163854,60,1.0,Northcote Road (B229) → Webb's Road,Road Closed,Global
+2026-06-18 11:16:26,51.455567,-0.161879,60,1.0,Webb's Road → Northcote Road (B229),Road Closed,Global
+2026-06-18 11:16:26,51.464541,-0.161562,60,1.85,Queenstown Road (A3216) / Cedars Road (A3216) → Marcilly Road (A3),Traffic Jam,Global
+2026-06-18 11:16:26,51.514651,-0.165018,60,1.49,Bayswater Road (A402) / Hyde Park Street → Portman Square (A4380) / Gloucester Place (A4380),Traffic Jam,Global
+2026-06-18 11:16:26,51.459741,-0.160202,60,1.79,Clapham Common West Side (A205) → North Side Wandsworth Common / Spencer Park (B234),Traffic Jam,Global
+2026-06-18 11:16:26,51.515846,-0.160119,60,1.0,Seymour Street (A5204) → George Street,Road Closed,Global
+2026-06-18 11:16:26,51.516594,-0.160455,60,1.0,George Street → Seymour Street (A5204),Road Closed,Global
+2026-06-18 11:16:26,51.499215,-0.159523,60,1.65,Pont Street (B319) → Knightsbridge (A4),Traffic Jam,Global
+2026-06-18 11:16:26,51.502124,-0.158839,60,1.75,Duke of Wellington Place → Beauchamp Place (B319),Traffic Jam,Global
+2026-06-18 11:16:26,51.524937,-0.158789,60,1.24,Clarence Terrace / Outer Circle → Park Road (A41),Traffic Jam,Global
+2026-06-18 11:16:26,51.352292,-0.158304,60,1.0,Brambledown Road / Mount Park → Stanley Park Road,Road Closed,Global
+2026-06-18 11:16:26,51.516973,-0.158201,60,1.0,Gloucester Place (A4380) → Seymour Place,Road Works,Global
+2026-06-18 11:16:26,51.516961,-0.158262,60,1.0,Montagu Square / Montagu Street → Gloucester Place (A4380),Road Works,Global
+2026-06-18 11:16:26,51.525037,-0.160128,60,1.41,Gloucester Place (A4380) → Marylebone Road (A501),Traffic Jam,Global
+2026-06-18 11:16:26,51.625143,-0.157506,60,1.0,Oakleigh Road North (A109) → Manor Drive,Road Closed,Global
+2026-06-18 11:16:26,51.459897,-0.157672,60,1.0,Clapham Common West Side (A3) → Wakehurst Road,Road Closed,Global
+2026-06-18 11:16:26,51.498213,-0.166202,60,1.62,Brompton Road (A4) → Chesham Place,Traffic Jam,Global
+2026-06-18 11:16:26,51.520476,-0.155665,60,1.0,Paddington Street (B524) → Dorset Street,Road Closed,Global
+2026-06-18 11:16:26,51.54578,-0.154745,60,1.0,Haverstock Hill (A502) → Malden Crescent (B517) / Malden Road (B517),Road Works,Global
+2026-06-18 11:16:26,51.317642,-0.156149,60,1.29,Outwood Lane → Woodstock Road,Road Works,Global
+2026-06-18 11:16:26,51.497932,-0.154105,60,1.41,Belgrave Square (B310) → Sloane Street (A3216),Traffic Jam,Global
+2026-06-18 11:16:26,51.644856,-0.156967,60,1.0,Brookhill Road / B193 → Heddon Court Avenue,Road Works,Global
+2026-06-18 11:16:26,51.645353,-0.15408,60,1.14,Heddon Court Avenue → Brookhill Road / B193,Road Works,Global
+2026-06-18 11:16:26,51.520654,-0.153937,60,1.41,Paddington Street (B524) → Marylebone Road (A501),Traffic Jam,Global
+2026-06-18 11:16:26,51.52067,-0.153683,60,1.0,Marylebone High Street → Baker Street (A41) / Crawford Street,Road Works,Global
+2026-06-18 11:16:26,51.502473,-0.156003,60,1.54,Brompton Road / A315 → Duke of Wellington Place,Traffic Jam,Global
+2026-06-18 11:16:26,51.543907,-0.154845,60,1.35,Bridge Approach / Eton College Road → Haverstock Hill (A502),Traffic Jam,Global
+2026-06-18 11:16:26,51.191626,-0.15271,60,1.0,Cross Oak Lane → Axes Lane / Honeycrock Lane,Road Closed,Global
+2026-06-18 11:16:26,51.203384,-0.153485,60,1.0,Axes Lane / Honeycrock Lane → Cross Oak Lane,Road Closed,Global
+2026-06-18 11:16:26,51.575008,-0.155272,60,1.0,Hampstead Lane (B519) / Bishopswood Road → North Hill (B519),Road Closed,Global
+2026-06-18 11:16:26,51.575611,-0.15249,60,1.0,North Hill (B519) → Hampstead Lane (B519) / Bishopswood Road,Road Closed,Global
+2026-06-18 11:16:26,51.318599,-0.15144,60,1.0,Woodcote Grove Road (A237) / Lion Green Road (A237) → Outwood Lane,Road Works,Global
+2026-06-18 11:16:26,51.503299,-0.151138,60,1.47,Duke of Wellington Place (A4) → Cumberland Gate (A40),Traffic Jam,Global
+2026-06-18 11:16:26,51.52024,-0.151835,60,1.5,Paddington Street → Wigmore Street (A5204) / James Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.395742,-0.151027,60,1.46,Beddington Lane (B272) / Windmill Road (B272) → Merton,Traffic Jam,Global
+2026-06-18 11:16:26,51.488142,-0.150957,60,1.37,Pimlico Road (A3214) / Buckingham Palace Road (A3214) → Chelsea Bridge Road (A3216),Traffic Jam,Global
+2026-06-18 11:16:26,51.51292,-0.152018,60,1.0,Duke Street / Duke's Yard → Duke Street,Road Closed,Global
+2026-06-18 11:16:26,51.44558,-0.150677,60,1.47,Balham Hill / Oldridge Road → Balham Station Road / Chestnut Grove,Traffic Jam,Global
+2026-06-18 11:16:26,51.361983,-0.150626,60,1.43,Manor Road (A237) → Manor Road (A237),Traffic Jam,Global
+2026-06-18 11:16:26,51.523127,-0.150559,60,2.06,Park Crescent (A4201) / Park Square West (A4201) → A40 / Old Marylebone Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.502473,-0.156003,60,1.0,Knightsbridge → Piccadilly,Road Works,Global
+2026-06-18 11:16:26,51.496908,-0.168766,60,4.1,Thurloe Place → Piccadilly,Traffic Jam,Global
+2026-06-18 11:16:26,51.571238,-0.149883,60,1.0,Highgate High Street (B519) → South Grove / The Grove,Road Closed,Global
+2026-06-18 11:16:26,51.353149,-0.14984,60,1.0,Woodcote Road (A237) → Park Hill Road,Road Closed,Global
+2026-06-18 11:16:26,51.353012,-0.151969,60,1.0,Park Hill Road → Woodcote Road (A237),Road Closed,Global
+2026-06-18 11:16:26,51.506875,-0.152508,60,1.74,Cumberland Gate (A40) → Knightsbridge (A4),Traffic Jam,Global
+2026-06-18 11:16:26,51.489619,-0.15582,60,3.12,Pimlico Road (A3214) / Lower Sloane Street → Queenstown Road / Carriage Drive North,Traffic Jam,Global
+2026-06-18 11:16:26,51.569779,-0.151199,60,1.0,South Grove / The Grove → Highgate High Street (B519),Road Closed,Global
+2026-06-18 11:16:26,51.476541,-0.15261,60,2.02,Macduff Road → Queenstown Road (A3216),Traffic Jam,Global
+2026-06-18 11:16:26,51.503602,-0.149147,60,1.0,Hyde Park Corner → Piccadilly,Road Works,Global
+2026-06-18 11:16:26,51.478349,-0.148601,60,1.54,Wandsworth → Chelsea Bridge Road / Carriage Drive North,Traffic Jam,Global
+2026-06-18 11:16:26,51.499152,-0.147931,60,1.46,Grosvenor Gardens / A3217 → Duke of Wellington Place (A4),Traffic Jam,Global
+2026-06-18 11:16:26,51.474865,-0.153314,60,2.39,Albert Bridge Road (A3220) → Nine Elms Lane / Kirtling Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.473671,-0.148061,60,2.48,Silverthorne Road (B224) → Prince of Wales Drive,Traffic Jam,Global
+2026-06-18 11:16:26,51.454091,-0.14636,60,1.0,Cavendish Road (A205) / The Avenue (A205) → Nightingale Lane (B237) / Maud Chadburn Place,Road Works,Global
+2026-06-18 11:16:26,51.536664,-0.146261,60,1.0,Delancey Street → Gloucester Gate Bridge (A4201) / Prince Albert Road (A5205),Road Works,Global
+2026-06-18 11:16:26,51.533853,-0.146231,60,1.76,Osnaburgh Terrace (A4201) → Kentish Town Road (A400) / Camden High Street (A400),Traffic Jam,Global
+2026-06-18 11:16:26,51.345036,-0.146754,60,1.0,Sandy Lane South → Farm Lane,Road Works,Global
+2026-06-18 11:16:26,51.343199,-0.146021,60,1.18,Farm Lane → Sandy Lane South,Road Works,Global
+2026-06-18 11:16:26,51.397386,-0.156519,60,1.67,Merton → Beddington Lane (B272) / Windmill Road (B272),Traffic Jam,Global
+2026-06-18 11:16:26,51.516867,-0.145904,60,1.74,Cavendish Place / Dean's Mews → Portman Square (A41),Traffic Jam,Global
+2026-06-18 11:16:26,51.525263,-0.145771,60,1.37,Outer Circle / Saint Andrew's Place → Marylebone Road (A501) / Park Crescent (A4201),Traffic Jam,Global
+2026-06-18 11:16:26,51.515684,-0.152838,60,1.44,Portman Square (A41) → Langham Place (A4201) / Regent Street (A4201),Traffic Jam,Global
+2026-06-18 11:16:26,51.645029,-0.146155,60,1.57,A110 → Osidge Lane (B1453) / Avenue Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.517222,-0.143753,60,1.13,Langham Place (A4201) / Regent Street (A4201) → Cavendish Square,Road Works,Global
+2026-06-18 11:16:26,51.521987,-0.143596,60,1.0,Osnaburgh Street (A4201) → A4201 / Mortimer Street (A5204),Road Works,Global
+2026-06-18 11:16:26,51.610465,-0.143619,60,1.31,Barnet → Pegasus Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.618646,-0.144609,60,1.0,Oakleigh Road South (A109) → Brunswick Park Road,Road Closed,Global
+2026-06-18 11:16:26,51.575394,-0.142828,60,1.35,Cholmeley Park → Southwood Lane (B550) / Muswell Hill Road (B550),Traffic Jam,Global
+2026-06-18 11:16:26,51.369862,-0.142141,60,1.0,Croydon Road (A232) → Northway,Road Closed,Global
+2026-06-18 11:16:26,51.368873,-0.142181,60,1.0,Northway → Croydon Road (A232),Road Closed,Global
+2026-06-18 11:16:26,51.508241,-0.143325,60,1.41,Stratton Street → Piccadilly (A4),Traffic Jam,Global
+2026-06-18 11:16:26,51.52242,-0.145888,60,2.12,Park Crescent → Conduit Street (B406),Traffic Jam,Global
+2026-06-18 11:16:26,51.567669,-0.141645,60,1.54,Holbrook Close → Highgate Hill (B519) / Hornsey Lane (B540),Traffic Jam,Global
+2026-06-18 11:16:26,51.516126,-0.140961,60,1.26,Great Portland Street (A4201) / Margaret Street → Regent Street (A4201),Traffic Jam,Global
+2026-06-18 11:16:26,51.577459,-0.140899,60,2.01,Priory Gardens → Archway Road (A1) / Jackson's Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.687313,-0.140125,60,1.31,A10 J25 → A111 J24,Traffic Jam,Global
+2026-06-18 11:16:26,51.520596,-0.140078,60,1.48,Tottenham Court Road (A400) / Howland Street → Portland Place (A4201),Traffic Jam,Global
+2026-06-18 11:16:26,51.423479,-0.142523,60,1.43,Streatham Road / Rural Way → Ambleside Avenue (A214),Traffic Jam,Global
+2026-06-18 11:16:26,51.492624,-0.14038,60,1.0,Wilton Road → Vauxhall Bridge Road (A202) / Rochester Row (B324),Road Closed,Global
+2026-06-18 11:16:26,51.590216,-0.139342,60,1.6,Alexandra Palace Way (A1201) / Park Road (A1201) → Queens Avenue / Fortis Green,Traffic Jam,Global
+2026-06-18 11:16:26,51.505564,-0.136781,60,1.75,Waterloo Place → Piccadilly,Traffic Jam,Global
+2026-06-18 11:16:26,51.509049,-0.136702,60,1.44,Piccadilly Circus / Regent Street → Saint James's Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.347334,-0.136447,60,1.0,Foresters Drive (B272) / Timberslip Drive → Ridge Park,Road Closed,Global
+2026-06-18 11:16:26,51.346791,-0.1396,60,1.0,Ridge Park → Foresters Drive (B272) / Timberslip Drive,Road Closed,Global
+2026-06-18 11:16:26,51.521192,-0.136058,60,1.42,Goodge Street (A5204) / Charlotte Street → Goodge Street (A5204) / Charlotte Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.426798,-0.135795,60,3.4,Ambleside Avenue (A214) → Streatham Road / Rural Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.55709,-0.135582,60,1.46,Warrender Road → Fortess Road (A400) / Junction Road (A400),Traffic Jam,Global
+2026-06-18 11:16:26,51.541619,-0.13539,60,1.0,Saint Pancras Way (A5202) → Royal College Street (A5202),Road Closed,Global
+2026-06-18 11:16:26,51.49754,-0.13535,60,1.42,Broad Sanctuary / Great Smith Street (B326) → Bressenden Place,Traffic Jam,Global
+2026-06-18 11:16:26,51.508902,-0.135249,60,1.0,Regent Street (A4) → Saint James's Street (A4) / Bennet Street,Road Closed,Global
+2026-06-18 11:16:26,51.391028,-0.134643,60,1.85,Mitcham Road / Redhouse Road → Beddington Lane (B272) / Windmill Road (B272),Traffic Jam,Global
+2026-06-18 11:16:26,51.482533,-0.135456,60,1.0,Battersea Park Road / Cringle Street → Wandsworth Road (E30),Road Works,Global
+2026-06-18 11:16:26,51.482824,-0.134233,60,1.0,Wandsworth Road (E30) / Parry Street (E30) → Battersea Park Road / Cringle Street,Road Works,Global
+2026-06-18 11:16:26,51.532854,-0.13537,60,1.0,Eversholt Street (A4200) → Eversholt Street (A4200) / Phoenix Road,Road Closed,Global
+2026-06-18 11:16:26,51.495947,-0.133374,60,1.0,Greycoat Place / Great Peter Street → Marsham Street (B326),Road Works,Global
+2026-06-18 11:16:26,51.49491,-0.132371,60,1.0,Marsham Street (B326) → Greycoat Place / Great Peter Street,Road Works,Global
+2026-06-18 11:16:26,51.524991,-0.137935,60,1.61,Tottenham Court Road → Bedford Square / Montague Place (B506),Traffic Jam,Global
+2026-06-18 11:16:26,51.225784,-0.132452,60,1.0,Morris Road / South Station Approach → Mid Street,Road Closed,Global
+2026-06-18 11:16:26,51.225498,-0.131446,60,1.0,Mid Street → Morris Road / South Station Approach,Road Closed,Global
+2026-06-18 11:16:26,51.463064,-0.132134,60,1.0,Clapham High Street (A3) / Tremadoc Road → Clapham High Street (A3) / Saint Luke's Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.46166,-0.131498,60,1.0,Clapham High Street (A3) / Saint Luke's Avenue → Clapham High Street (A3) / Tremadoc Road,Road Closed,Global
+2026-06-18 11:16:26,51.483674,-0.13127,60,1.0,Wandsworth Road (E30) / Parry Street (E30) → Battersea Park Road / Cringle Street,Road Works,Global
+2026-06-18 11:16:26,51.430702,-0.131143,60,1.28,Streatham High Road (A23) / Becmead Avenue → Garrad's Road (B242),Traffic Jam,Global
+2026-06-18 11:16:26,51.507714,-0.131068,60,1.84,Cockspur Street / Haymarket → Piccadilly Circus,Traffic Jam,Global
+2026-06-18 11:16:26,51.483893,-0.130723,60,1.76,Wandsworth Road (E30) / Parry Street (E30) → Queenstown Road (A3216),Traffic Jam,Global
+2026-06-18 11:16:26,51.633486,-0.131892,60,1.0,Osidge Lane (B1453) / Avenue Road → Southgate Circus (A1004),Road Works,Global
+2026-06-18 11:16:26,51.328074,-0.130003,60,1.52,Woodcote Grove Road (A237) / Smitham Bottom Lane (A237) → Brighton Road (A23),Traffic Jam,Global
+2026-06-18 11:16:26,51.324367,-0.129291,60,1.0,Brighton Road (A23) → Coulsdon Road / Hartley Down,Road Works,Global
+2026-06-18 11:16:26,51.346093,-0.135937,60,1.0,Ambrey Way → Foresters Drive (B272),Road Closed,Global
+2026-06-18 11:16:26,51.347885,-0.128863,60,1.0,Foresters Drive (B272) → Ambrey Way,Road Closed,Global
+2026-06-18 11:16:26,51.510979,-0.128404,60,1.43,Saint Martin's Place (B404) → Shaftesbury Avenue (A401),Traffic Jam,Global
+2026-06-18 11:16:26,51.448938,-0.128211,60,1.0,Saxby Road → Chale Road,Road Closed,Global
+2026-06-18 11:16:26,51.450139,-0.128564,60,1.0,Chale Road → Saxby Road,Road Closed,Global
+2026-06-18 11:16:26,51.321256,-0.128147,60,1.14,Coulsdon Road / Hartley Down → Brighton Road (A23),Road Works,Global
+2026-06-18 11:16:26,51.506957,-0.128135,60,1.0,Charing Cross (A4) → Spring Gardens,Road Closed,Global
+2026-06-18 11:16:26,51.528813,-0.13241,60,1.44,Lidlington Place (A400) / Oakley Square (A400) → Woburn Place / Tavistock Place,Traffic Jam,Global
+2026-06-18 11:16:26,51.529092,-0.12799,60,1.47,Eversholt Street (A4200) / Polygon Road → Euston Road (A501),Traffic Jam,Global
+2026-06-18 11:16:26,51.484644,-0.127562,60,1.0,Wandsworth Road (E30) / Parry Street (E30) → Battersea Park Road / Cringle Street,Road Works,Global
+2026-06-18 11:16:26,51.633757,-0.132702,60,1.65,Osidge Lane (B1453) / Avenue Road → The Bourne (A111),Traffic Jam,Global
+2026-06-18 11:16:26,51.505587,-0.12684,60,1.4,Parliament Street → Charing Cross (A4),Traffic Jam,Global
+2026-06-18 11:16:26,51.56146,-0.1267,60,2.25,Holloway Road (A1) → Yerbury Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.484137,-0.126532,60,1.0,Parry Street (E30) → Wyvil Road,Road Works,Global
+2026-06-18 11:16:26,51.518941,-0.128817,60,1.91,Bedford Square → Saint Giles High Street (A40) / High Holborn (A40),Traffic Jam,Global
+2026-06-18 11:16:26,51.532244,-0.127713,60,2.89,Pancras Road (A5202) → Euston Road (A501) / Judd Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.50417,-0.126225,60,1.0,Charing Cross (A4) → Parliament Street,Road Closed,Global
+2026-06-18 11:16:26,51.503065,-0.126108,60,1.0,Charing Cross (A4) → A302,Road Closed,Global
+2026-06-18 11:16:26,51.439115,-0.126277,60,1.0,Streatham High Road → Streatham Place (A205) / Brixton Hill,Road Works,Global
+2026-06-18 11:16:26,51.497575,-0.125666,60,1.0,Abingdon Street / Great College Street → Lambeth Bridge (A3203),Road Works,Global
+2026-06-18 11:16:26,51.495425,-0.125242,60,1.11,Lambeth Bridge (A3203) / Horseferry Road (B323) → Abingdon Street / Great College Street,Road Works,Global
+2026-06-18 11:16:26,51.529469,-0.125121,60,1.74,Gray's Inn Road / Birkenhead Street → Upper Woburn Place (A4200),Traffic Jam,Global
+2026-06-18 11:16:26,51.508656,-0.125254,60,1.35,A4 → A4,Traffic Jam,Global
+2026-06-18 11:16:26,51.443298,-0.125619,60,1.0,Streatham Place (A205) → Streatham Hill (A23),Road Closed,Global
+2026-06-18 11:16:26,51.443221,-0.124856,60,1.0,Streatham Hill (A23) → Streatham Place (A205),Road Closed,Global
+2026-06-18 11:16:26,51.444743,-0.124428,60,1.0,Streatham Place (A205) / Christchurch Road (A205) → Streatham High Road / Leigham Court Road,Road Works,Global
+2026-06-18 11:16:26,51.484686,-0.126092,60,2.1,Parry Street (E30) / Nine Elms Lane (A3205) → Grosvenor Road (E30),Traffic Jam,Global
+2026-06-18 11:16:26,51.519066,-0.124125,60,1.48,Southampton Row (A4200) / Bloomsbury Place → Bloomsbury Street (A400),Traffic Jam,Global
+2026-06-18 11:16:26,51.340926,-0.124031,60,1.17,Plough Lane (B272) → The Bridle Road / The South Border,Road Works,Global
+2026-06-18 11:16:26,51.342726,-0.130028,60,1.0,The Bridle Road / The South Border → Plough Lane (B272),Road Works,Global
+2026-06-18 11:16:26,51.515827,-0.123822,60,1.38,Betterton Street / Endell Street (B401) → High Holborn (A40) / Museum Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.385425,-0.123514,60,2.07,Mitcham Road (A236) / Ockley Road → Mitcham Road (A236) / Therapia Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.511584,-0.126245,60,2.45,Cranbourn Street (B402) / Saint Martin's Lane (B404) → Strand (A4),Traffic Jam,Global
+2026-06-18 11:16:26,51.504675,-0.123226,60,1.0,Victoria Embankment (A3211) → Whitehall (A3212),Road Closed,Global
+2026-06-18 11:16:26,51.505191,-0.122924,60,1.44,Northumberland Avenue (A308) → Bridge Street (A302),Traffic Jam,Global
+2026-06-18 11:16:26,51.576626,-0.122738,60,1.0,Tregaron Avenue → Crouch End Hill (A103) / Coleridge Road,Road Works,Global
+2026-06-18 11:16:26,51.439209,-0.122525,60,1.0,Lambeth → Streatham Hill (A23),Road Closed,Global
+2026-06-18 11:16:26,51.439646,-0.125939,60,1.0,Streatham Hill (A23) → Lambeth,Road Closed,Global
+2026-06-18 11:16:26,51.507315,-0.126799,60,1.86,Charing Cross (A4) → Victoria Embankment (A3211),Traffic Jam,Global
+2026-06-18 11:16:26,51.530317,-0.123182,60,1.0,Euston Road (A501) → Gray's Inn Road (A501) / Argyle Street,Road Closed,Global
+2026-06-18 11:16:26,51.524703,-0.139817,60,3.55,Osnaburgh Street (A4201) → Pentonville Road / York Way (A5200),Traffic Jam,Global
+2026-06-18 11:16:26,51.416667,-0.12581,60,1.82,Greyhound Lane (B272) → Saint Helen's Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.578198,-0.123769,60,1.12,Crouch End Hill (A103) / The Broadway (A103) → Haslemere Road,Road Works,Global
+2026-06-18 11:16:26,51.575784,-0.122218,60,1.0,Haslemere Road → Crouch End Hill (A103) / Coleridge Road,Road Closed,Global
+2026-06-18 11:16:26,51.523996,-0.122352,60,1.0,B502 / B504 → Guilford Street (B502) / Lansdowne Terrace,Road Closed,Global
+2026-06-18 11:16:26,51.57502,-0.121737,60,1.0,Stroud Green Road / Hanley Road → Crouch End Hill (A103) / Coleridge Road,Road Works,Global
+2026-06-18 11:16:26,51.533558,-0.12166,60,1.27,Wharfdale Road (A5200) → York Way (A5200),Traffic Jam,Global
+2026-06-18 11:16:26,51.517457,-0.121485,60,3.48,Southampton Row (A4200) / Kingsway (A4200) → Great Windmill Street (A401),Traffic Jam,Global
+2026-06-18 11:16:26,51.336319,-0.122922,60,1.0,Woodcote Valley Road → Brighton Road (A23) / Purley Rise (A23),Road Closed,Global
+2026-06-18 11:16:26,51.335608,-0.121374,60,1.0,Brighton Road (A23) / Purley Rise (A23) → Woodcote Valley Road,Road Closed,Global
+2026-06-18 11:16:26,51.597939,-0.121359,60,1.0,Alexandra Park Road → A1201 / Muswell Hill (A504),Road Closed,Global
+2026-06-18 11:16:26,51.592214,-0.13361,60,1.0,A1201 / Muswell Hill (A504) → Alexandra Park Road,Road Closed,Global
+2026-06-18 11:16:26,51.576114,-0.120999,60,1.0,Oakington Way → Crouch Hill (A1201),Road Closed,Global
+2026-06-18 11:16:26,51.489897,-0.122834,60,1.57,Kennington Lane (E30) / Wandsworth Road (E30) → Lambeth Palace Road / Lambeth Bridge (A3203),Traffic Jam,Global
+2026-06-18 11:16:26,51.405252,-0.120121,60,2.76,Ederline Avenue → Streatham High Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.496718,-0.119991,60,1.81,Westminster Bridge Road (A302) → Albert Embankment / Lambeth Road (A3203),Traffic Jam,Global
+2026-06-18 11:16:26,51.729198,-0.119771,60,1.0,Newgate Street Village → Tylers Causeway,Road Closed,Global
+2026-06-18 11:16:26,51.730326,-0.126291,60,1.0,Tylers Causeway → Newgate Street Village,Road Closed,Global
+2026-06-18 11:16:26,51.522979,-0.125953,60,2.11,Tavistock Square / Tavistock Place → Aldwych,Traffic Jam,Global
+2026-06-18 11:16:26,51.615705,-0.119696,60,1.0,Bowes Road (A406) → Broomfield Lane,Dangerous Conditions,Global
+2026-06-18 11:16:26,51.615935,-0.119525,60,1.0,Broomfield Lane → Bowes Road (A406),Dangerous Conditions,Global
+2026-06-18 11:16:26,51.528689,-0.119501,60,1.97,Swinton Street / Gray's Inn Road (A5200) → Mabledon Place (B504),Traffic Jam,Global
+2026-06-18 11:16:26,51.51754,-0.124432,60,1.33,Museum Street / New Oxford Street (A40) → Clerkenwell Road (A401) / Gray's Inn Road (A5200),Traffic Jam,Global
+2026-06-18 11:16:26,51.509116,-0.124546,60,1.79,Duncannon Street → Lancaster Place (A301),Traffic Jam,Global
+2026-06-18 11:16:26,51.511281,-0.119134,60,2.73,Lancaster Place (A301) / Aldwych → Pall Mall / Haymarket,Traffic Jam,Global
+2026-06-18 11:16:26,51.361702,-0.122986,60,1.76,Plough Lane (B272) / Mollison Drive → Purley Way (A23),Traffic Jam,Global
+2026-06-18 11:16:26,51.361122,-0.117702,60,1.41,Foss Avenue → Epsom Road (A232),Traffic Jam,Global
+2026-06-18 11:16:26,51.513188,-0.117682,60,1.78,Aldwych (A4) → High Holborn (A40) / Southampton Row,Traffic Jam,Global
+2026-06-18 11:16:26,51.500678,-0.117502,60,2.51,Lambeth Palace Road (A3036) → Victoria Embankment (A3211),Traffic Jam,Global
+2026-06-18 11:16:26,51.360275,-0.118973,60,1.6,Hawker Road → Purley Way (A23),Traffic Jam,Global
+2026-06-18 11:16:26,51.515622,-0.119026,60,1.92,High Holborn (A40) / Southampton Row → Aldwych (A4),Traffic Jam,Global
+2026-06-18 11:16:26,51.402639,-0.118936,60,1.61,Kilmartin Avenue → Thornton Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.252264,-0.117095,60,1.23,Merstham Road / Oakwood Road → Big Common Lane / Little Common Lane,Road Works,Global
+2026-06-18 11:16:26,51.250857,-0.116761,60,1.0,Big Common Lane / Little Common Lane → Merstham Road / Oakwood Road,Road Works,Global
+2026-06-18 11:16:26,51.368425,-0.118614,60,2.57,Alton Road → Waddon Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.604065,-0.116065,60,1.0,Finsbury Road → Bounds Green Road (A109),Road Closed,Global
+2026-06-18 11:16:26,51.523812,-0.118332,60,1.55,Grenville Street (B504) → Gray's Inn Road (A5200) / Calthorpe Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.397417,-0.115839,60,1.45,Thornton Road → Galpin's Road / Warwick Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.459927,-0.12082,60,1.56,Clapham Park Road / Kings Avenue (B221) → Brixton Road (A23) / Coldharbour Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.52899,-0.115749,60,1.0,Swinton Street (A501) / King's Cross Road (A501) → Gray's Inn Road (A501) / Swinton Street (A501),Road Works,Global
+2026-06-18 11:16:26,51.442484,-0.115434,60,2.59,Norwood Road → Streatham Place / Streatham Hill (A23),Traffic Jam,Global
+2026-06-18 11:16:26,51.522077,-0.1153,60,1.58,Theobald's Road (A401) → Mecklenburgh Square,Traffic Jam,Global
+2026-06-18 11:16:26,51.624812,-0.115606,60,1.0,Cannon Hill (A1004) → Fox Lane,Road Closed,Global
+2026-06-18 11:16:26,51.624987,-0.114748,60,1.0,Fox Lane → Cannon Hill (A1004),Road Closed,Global
+2026-06-18 11:16:26,51.511351,-0.119199,60,1.35,Strand / Lancaster Place → Strand / Arundel Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.50266,-0.116278,60,1.51,Addington Street (A302) → Waterloo Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.495755,-0.114478,60,3.46,Kennington Road (A23) → Millbank (A3212),Traffic Jam,Global
+2026-06-18 11:16:26,51.510757,-0.11399,60,2.45,Blackfriars Underpass → Northumberland Avenue (A308),Traffic Jam,Global
+2026-06-18 11:16:26,51.52348,-0.114886,60,1.81,Guilford Street (B502) / Calthorpe Street → Theobald's Road (A401) / Clerkenwell Road (A401),Traffic Jam,Global
+2026-06-18 11:16:26,51.52015,-0.118613,60,1.74,Drake Street → Clerkenwell Road / Gray's Inn Road (A5200),Traffic Jam,Global
+2026-06-18 11:16:26,51.480233,-0.114103,60,1.36,South Lambeth Road (A203) → Harleyford Street (E30),Traffic Jam,Global
+2026-06-18 11:16:26,51.457571,-0.112114,60,1.0,Jelf Road → Effra Road (A204) / Mervan Road,Road Closed,Global
+2026-06-18 11:16:26,51.459353,-0.113659,60,1.0,Effra Road (A204) / Mervan Road → Jelf Road,Road Closed,Global
+2026-06-18 11:16:26,51.511022,-0.114947,60,1.57,Victoria Embankment (A3211) → Victoria Embankment (A3211),Traffic Jam,Global
+2026-06-18 11:16:26,51.518857,-0.111646,60,1.9,High Holborn (A40) → Theobald's Road (A401) / Clerkenwell Road (A401),Traffic Jam,Global
+2026-06-18 11:16:26,51.5948,-0.112013,60,1.1,Coburg Road → Hornsey Park Road (B138),Road Works,Global
+2026-06-18 11:16:26,51.567374,-0.112697,60,1.52,Hornsey Road (A103) → Stroud Green Road (A1201) / Upper Tollington Park,Traffic Jam,Global
+2026-06-18 11:16:26,51.59149,-0.111414,60,1.67,Turnpike Lane (A504) → Mayes Road (B151),Traffic Jam,Global
+2026-06-18 11:16:26,51.667555,-0.110546,60,1.0,The Ridgeway (A1005) → Hadley Road,Road Closed,Global
+2026-06-18 11:16:26,51.665299,-0.112273,60,1.22,Hadley Road → The Ridgeway (A1005),Traffic Jam,Global
+2026-06-18 11:16:26,51.481162,-0.110358,60,2.08,Foxley Road / Bolton Crescent → Durham Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.581299,-0.112875,60,1.0,Weston Park → Oakfield Road,Road Closed,Global
+2026-06-18 11:16:26,51.600033,-0.114082,60,1.42,Park Avenue (B151) → Lordship Lane (A109) / Station Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.531654,-0.110777,60,1.0,King's Cross Road (A201) → City Road (A1) / Islington High Street (A1),Road Works,Global
+2026-06-18 11:16:26,51.359308,-0.109732,60,1.0,Warham Road (B275) / Denning Avenue (B275) → Waddon Way,Road Works,Global
+2026-06-18 11:16:26,51.577271,-0.109609,60,1.0,Mount View Road → Weston Park,Road Closed,Global
+2026-06-18 11:16:26,51.668114,-0.111542,60,1.11,East Lodge Lane → Roundhedge Way,Road Works,Global
+2026-06-18 11:16:26,51.666876,-0.109263,60,1.0,Roundhedge Way → East Lodge Lane,Road Works,Global
+2026-06-18 11:16:26,51.322448,-0.110487,60,1.0,Beckett Avenue → Firs Road,Road Closed,Global
+2026-06-18 11:16:26,51.321017,-0.108947,60,1.0,Park Road → Beckett Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.531827,-0.108687,60,1.0,City Road (A1) / Saint John Street → Penton Rise,Road Works,Global
+2026-06-18 11:16:26,51.377749,-0.108455,60,1.0,Derby Road (A235) → Roman Way / Derby Road (A235),Road Works,Global
+2026-06-18 11:16:26,51.497342,-0.107947,60,1.58,Saint George's Road (A302) → Kennington Road (A23),Traffic Jam,Global
+2026-06-18 11:16:26,51.381344,-0.111593,60,1.5,Mitcham Road (A236) / Sumner Road South → London Road (A235),Traffic Jam,Global
+2026-06-18 11:16:26,51.395108,-0.107401,60,1.0,Haslemere Road → Brigstock Road (B266),Road Closed,Global
+2026-06-18 11:16:26,51.395863,-0.108068,60,1.0,Brigstock Road (B266) → Haslemere Road,Road Closed,Global
+2026-06-18 11:16:26,51.375592,-0.10714,60,1.0,Old Town → Mitcham Road / Factory Lane,Road Works,Global
+2026-06-18 11:16:26,51.525902,-0.112029,60,1.91,King's Cross Road / Calthorpe Street → Clerkenwell Road (A5201),Traffic Jam,Global
+2026-06-18 11:16:26,51.376653,-0.10763,60,1.26,Mitcham Road / Derby Road (A235) → Old Town,Road Works,Global
+2026-06-18 11:16:26,51.439046,-0.106489,60,1.0,Norwood Road (A215) → Probyn Road,Road Closed,Global
+2026-06-18 11:16:26,51.408319,-0.105914,60,1.0,Parchmore Road / Northwood Road → Georgia Road,Road Closed,Global
+2026-06-18 11:16:26,51.409192,-0.106553,60,1.0,Georgia Road → Parchmore Road / Northwood Road,Road Closed,Global
+2026-06-18 11:16:26,51.614246,-0.105558,60,1.0,Enfield → Green Lanes (A105),Road Closed,Global
+2026-06-18 11:16:26,51.614317,-0.109248,60,1.0,Green Lanes (A105) → Enfield,Road Closed,Global
+2026-06-18 11:16:26,51.607364,-0.105397,60,1.44,Wolves Lane → High Road (A105),Traffic Jam,Global
+2026-06-18 11:16:26,51.518275,-0.10527,60,1.7,New Bridge Street / Fleet Street → Rosebery Avenue (A401),Traffic Jam,Global
+2026-06-18 11:16:26,51.490946,-0.105254,60,1.0,Kennington Lane (A3204) → Kennington Road (A23) / Reedworth Street,Road Closed,Global
+2026-06-18 11:16:26,51.490635,-0.106356,60,1.13,Kennington Road (A23) → Kennington Park Road (A3),Road Works,Global
+2026-06-18 11:16:26,51.511133,-0.106918,60,1.47,Blackfriars Underpass (A3211) → A201,Traffic Jam,Global
+2026-06-18 11:16:26,51.505281,-0.112512,60,2.13,Waterloo Road → Blackfriars Road (A201),Traffic Jam,Global
+2026-06-18 11:16:26,51.50987,-0.104416,60,1.66,Blackfriars Road → Farringdon Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.507146,-0.104347,60,1.0,Blackfriars Road (A201) → Southwark Bridge Road (A300),Road Works,Global
+2026-06-18 11:16:26,51.280966,-0.107622,60,1.0,Mount Avenue → Chaldon Road / Roffe's Lane,Road Works,Global
+2026-06-18 11:16:26,51.512507,-0.104131,60,2.02,Farringdon Street / Fleet Street → Southwark Street (A3200),Traffic Jam,Global
+2026-06-18 11:16:26,51.491193,-0.103928,60,1.1,Kennington Park Road (A3) → Kennington Road (A23),Road Works,Global
+2026-06-18 11:16:26,51.430273,-0.104343,60,1.54,Knights Hill / Saint Julian's Farm Road → Christchurch Road (A205),Traffic Jam,Global
+2026-06-18 11:16:26,51.589434,-0.107744,60,1.49,Hornsey Park Road (B138) → High Road (A105),Traffic Jam,Global
+2026-06-18 11:16:26,51.489795,-0.108112,60,1.35,Kennington Road (A23) → Kennington Park Road (A3),Traffic Jam,Global
+2026-06-18 11:16:26,51.34097,-0.10284,60,1.83,Purley Bury Close → Mitchley Avenue (A2022) / Coombe Wood Hill,Traffic Jam,Global
+2026-06-18 11:16:26,51.518114,-0.103658,60,1.0,Farringdon Street (A201) → East Poultry Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.547679,-0.105829,60,1.32,Liverpool Road (B515) → Saint Paul's Road (A1199),Traffic Jam,Global
+2026-06-18 11:16:26,51.542067,-0.102986,60,1.94,Islington Green (A104) → Holloway Road (A1),Traffic Jam,Global
+2026-06-18 11:16:26,51.361751,-0.101314,60,1.66,Brighton Road (A235) / Bartlett Street → Haling Park Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.513817,-0.101208,60,1.35,Saint Paul's Church Yard → New Bridge Street (A201) / Farringdon Street (A201),Traffic Jam,Global
+2026-06-18 11:16:26,51.497317,-0.102979,60,1.36,Garden Row (A3202) → Elephant and Castle (A3),Traffic Jam,Global
+2026-06-18 11:16:26,51.489902,-0.104318,60,1.46,Kennington Road (A23) → Elephant and Castle (A3) / Walworth Road (A215),Traffic Jam,Global
+2026-06-18 11:16:26,51.341554,-0.099666,60,1.0,Penwortham Road → Whimbrel Close,Road Works,Global
+2026-06-18 11:16:26,51.593339,-0.098401,60,1.66,Boreham Road → Green Lanes (A105) / Turnpike Lane (A504),Traffic Jam,Global
+2026-06-18 11:16:26,51.547968,-0.098252,60,1.99,Highbury Park (A1201) / Highbury Hill → Highbury Corner (A1),Traffic Jam,Global
+2026-06-18 11:16:26,51.505325,-0.0982,60,1.46,Southwark Bridge Road (A300) → Blackfriars Road (A201),Traffic Jam,Global
+2026-06-18 11:16:26,51.34088,-0.098041,60,1.0,Whimbrel Close → Copperfield Close,Road Works,Global
+2026-06-18 11:16:26,51.358583,-0.097767,60,1.0,Bartlett Street (B275) → Sanderstead Road (B269) / Bynes Road,Road Works,Global
+2026-06-18 11:16:26,51.358834,-0.097772,60,1.0,Brighton Road (A235) → Brighton Road (A235),Road Works,Global
+2026-06-18 11:16:26,51.521585,-0.097433,60,1.5,Aldersgate Street / Fann Street → Clerkenwell Road (A5201) / Old Street (A5201),Traffic Jam,Global
+2026-06-18 11:16:26,51.36767,-0.09903,60,1.0,Lower Coombe Street / High Street (A235) → Park Lane / Saint Peter's Road (B274),Road Closed,Global
+2026-06-18 11:16:26,51.56813,-0.099381,60,1.99,Blackstock Road (A1201) → Green Lanes (A105),Traffic Jam,Global
+2026-06-18 11:16:26,51.537266,-0.100633,60,1.55,Islington Green → Canonbury Road (A1200) / New North Road (A1200),Traffic Jam,Global
+2026-06-18 11:16:26,51.577304,-0.098766,60,2.24,Saint Ann's Road (B152) → Seven Sisters Road (A503),Traffic Jam,Global
+2026-06-18 11:16:26,51.486422,-0.094665,60,1.56,Camberwell Road / Westmoreland Road → Newington Butts (A3) / Elephant and Castle (A3),Traffic Jam,Global
+2026-06-18 11:16:26,51.568011,-0.094154,60,1.77,Lordship Park (B105) / Brownswood Road (B105) → Endymion Road (B150),Traffic Jam,Global
+2026-06-18 11:16:26,51.436012,-0.093922,60,1.1,Lotus Close → Thurlow Park Road (A205),Road Works,Global
+2026-06-18 11:16:26,51.499648,-0.09609,60,1.44,Newington Causeway / Borough Road (A3202) → Marshalsea Road (A2) / Marshalsea Road (A3201),Traffic Jam,Global
+2026-06-18 11:16:26,51.58604,-0.093596,60,1.0,Belmont Road (B155) → Spur Road,Road Works,Global
+2026-06-18 11:16:26,51.468236,-0.091642,60,1.54,Champion Park (A2216) → Camberwell Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.488993,-0.091408,60,2.55,Albany Road (B214) / Portland Street → Walworth Road (A215) / Cadiz Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.287673,-0.095021,60,1.0,Money Road → Chaldon Road (B2031),Road Works,Global
+2026-06-18 11:16:26,51.586167,-0.09101,60,1.0,Spur Road → Belmont Road (B155),Road Works,Global
+2026-06-18 11:16:26,51.420766,-0.091475,60,1.0,Naseby Road → Central Hill (A214) / Roman Rise,Road Closed,Global
+2026-06-18 11:16:26,51.421412,-0.090664,60,1.0,Central Hill (A214) / Roman Rise → Naseby Road,Road Closed,Global
+2026-06-18 11:16:26,51.297589,-0.0927,60,1.0,Caterham-on-the-Hill → Salmons Lane,Road Closed,Global
+2026-06-18 11:16:26,51.482634,-0.091335,60,1.28,Camberwell Road (A215) / Urlwin Street → Wells Way,Road Works,Global
+2026-06-18 11:16:26,51.297526,-0.089896,60,1.0,Whyteleafe Road → Caterham-on-the-Hill,Road Closed,Global
+2026-06-18 11:16:26,51.637271,-0.089728,60,1.0,Bush Hill → Old Park Ridings / The Chine,Road Closed,Global
+2026-06-18 11:16:26,51.639999,-0.094482,60,1.0,Old Park Ridings / The Chine → Bush Hill,Road Closed,Global
+2026-06-18 11:16:26,51.55513,-0.089517,60,1.0,Petherton Road → Newington Green / Albion Road (B104),Road Works,Global
+2026-06-18 11:16:26,51.553925,-0.088567,60,1.0,Newington Green → Petherton Road,Road Works,Global
+2026-06-18 11:16:26,51.511054,-0.104758,60,3.26,Victoria Embankment → Lower Thames Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.506512,-0.088314,60,1.0,Southwark Street → King William Street (A10),Road Closed,Global
+2026-06-18 11:16:26,51.50922,-0.087187,60,1.0,Gracechurch Street (A10) / King William Street (A10) → Duke Street Hill (A200),Road Closed,Global
+2026-06-18 11:16:26,51.529118,-0.095108,60,1.36,Wakley Street (A501) → Old Street (E15),Traffic Jam,Global
+2026-06-18 11:16:26,51.513773,-0.100713,60,2.42,New Bridge Street (A201) / Farringdon Street (A201) → A10 / A3,Traffic Jam,Global
+2026-06-18 11:16:26,51.468387,-0.086827,60,1.0,Champion Park → Champion Park,Road Works,Global
+2026-06-18 11:16:26,51.283649,-0.086371,60,1.0,High Street / Whyteleafe Road → Church Hill / Stanstead Road,Road Works,Global
+2026-06-18 11:16:26,51.516849,-0.085836,60,1.0,Wormwood Street / Old Broad Street → Moorgate,Road Works,Global
+2026-06-18 11:16:26,51.282141,-0.085777,60,1.0,Church Hill / Stanstead Road → High Street / Whyteleafe Road,Road Works,Global
+2026-06-18 11:16:26,51.564741,-0.089106,60,1.69,Green Lanes (A105) / Brownswood Road → Manor Road / Lordship Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.511577,-0.083012,60,1.0,Fenchurch Street → Lower Thames Street (A3211) / St Mary At Hill,Road Closed,Global
+2026-06-18 11:16:26,51.431343,-0.089126,60,1.7,Croxted Road / Park Hall Road → College Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.427942,-0.084917,60,1.0,Dulwich Wood Avenue → College Road,Road Works,Global
+2026-06-18 11:16:26,51.539462,-0.084653,60,1.0,Southgate Road (B102) → Kingsland Road (A10),Road Works,Global
+2026-06-18 11:16:26,51.422519,-0.083415,60,1.0,Gipsy Hill → Westow Hill (A214) / Woodland Road,Road Closed,Global
+2026-06-18 11:16:26,51.422554,-0.082131,60,1.0,Woodland Road → Gipsy Hill,Road Closed,Global
+2026-06-18 11:16:26,51.281134,-0.081925,60,1.67,Station Avenue / Stafford Road → High Street / Whyteleafe Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.417101,-0.081567,60,1.37,Church Road (A212) → Westow Hill (A214) / Central Hill (A214),Traffic Jam,Global
+2026-06-18 11:16:26,51.547618,-0.081431,60,1.0,Docwra's Buildings → Balls Pond Road (A104),Road Closed,Global
+2026-06-18 11:16:26,51.547292,-0.081959,60,1.0,Balls Pond Road (A104) → Docwra's Buildings,Road Closed,Global
+2026-06-18 11:16:26,51.426795,-0.081343,60,1.2,College Road → Dulwich Wood Avenue,Road Works,Global
+2026-06-18 11:16:26,51.539248,-0.081093,60,1.0,Kingsland Road (A10) → Southgate Road (B102),Road Works,Global
+2026-06-18 11:16:26,51.512652,-0.082186,60,1.0,Lime Street → Leadenhall Street / Billiter Street,Road Closed,Global
+2026-06-18 11:16:26,51.561842,-0.081036,60,1.0,Stoke Newington High Street (A10) → Albion Road,Road Works,Global
+2026-06-18 11:16:26,51.561601,-0.081652,60,1.0,Albion Road → Stoke Newington High Street (A10),Road Closed,Global
+2026-06-18 11:16:26,51.526249,-0.08539,60,2.14,City Road (A501) → A10 / Curtain Road (A1202),Traffic Jam,Global
+2026-06-18 11:16:26,51.525595,-0.080313,60,1.64,Great Eastern Street (E15) → Old Street (A10) / Old Street (A5201),Traffic Jam,Global
+2026-06-18 11:16:26,51.419717,-0.079608,60,1.0,Westow Hill (A214) → Farquhar Road,Road Closed,Global
+2026-06-18 11:16:26,51.421718,-0.079522,60,1.0,Farquhar Road → Westow Hill (A214),Road Closed,Global
+2026-06-18 11:16:26,51.516464,-0.083822,60,1.41,Moorgate (A501) → Saint Botolph Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.419287,-0.085795,60,1.83,Harold Road → Church Road (A212) / Crystal Palace Parade (A212),Traffic Jam,Global
+2026-06-18 11:16:26,51.523197,-0.078428,60,2.45,Fairchild Place → Old Street (A5201) / Old Street (E15),Traffic Jam,Global
+2026-06-18 11:16:26,51.631118,-0.080382,60,1.62,Ridge Road → Great Cambridge Road (A10),Traffic Jam,Global
+2026-06-18 11:16:26,51.526088,-0.08363,60,1.52,Old Street (A5201) → Shoreditch High Street (A10),Traffic Jam,Global
+2026-06-18 11:16:26,51.52919,-0.077712,60,1.43,Basing Place → Old Street / Shoreditch High Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.283753,-0.078534,60,1.77,Croydon Road (B2208) → Station Avenue (B2030),Traffic Jam,Global
+2026-06-18 11:16:26,51.500973,-0.077531,60,1.23,Druid Street (A200) → Tower Bridge Road (E30),Traffic Jam,Global
+2026-06-18 11:16:26,51.523739,-0.079337,60,1.34,Great Eastern Street (A10) → Shoreditch High Street (A10),Traffic Jam,Global
+2026-06-18 11:16:26,51.510169,-0.076857,60,1.83,Cooper's Row → Tower Hill (A3211) / Byward Street (A3211),Traffic Jam,Global
+2026-06-18 11:16:26,51.653607,-0.088919,60,1.67,Chase Green → Willow Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.621072,-0.076279,60,1.0,Haselbury Road → Great Cambridge Road (A10),Road Closed,Global
+2026-06-18 11:16:26,51.621547,-0.079438,60,1.0,Great Cambridge Road (A10) → Haselbury Road,Road Closed,Global
+2026-06-18 11:16:26,51.527219,-0.077489,60,1.0,Kingsland Road (A10) / Old Street (A10) → Queensbridge Road (B108) / Horatio Street,Road Closed,Global
+2026-06-18 11:16:26,51.546564,-0.082727,60,1.82,Southgate Road (B102) / Mildmay Park → Kingsland High Street (A10) / Kingsland Road (A10),Traffic Jam,Global
+2026-06-18 11:16:26,51.489111,-0.077678,60,1.63,Old Kent Road (A2) → Grange Road (A2206) / Southwark Park Road (A2206),Traffic Jam,Global
+2026-06-18 11:16:26,51.525754,-0.07505,60,1.0,Club Row → Calvert Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.651339,-0.075114,60,1.0,Southbury Road (A110) → Burleigh Road / Seaford Road,Road Closed,Global
+2026-06-18 11:16:26,51.397435,-0.079149,60,1.45,Park Road / Tennison Road → Portland Road (A215) / South Norwood Hill (A215),Traffic Jam,Global
+2026-06-18 11:16:26,51.52982,-0.0746,60,1.73,Queensbridge Road (B108) / Horatio Street → Kingsland Road (A10) / Old Street (A10),Traffic Jam,Global
+2026-06-18 11:16:26,51.526344,-0.074801,60,1.0,Calvert Avenue → Bethnal Green Road (A1209),Road Closed,Global
+2026-06-18 11:16:26,51.490628,-0.073922,60,1.47,Chaucer Drive → Dunton Road (B203),Traffic Jam,Global
+2026-06-18 11:16:26,51.582408,-0.073814,60,1.46,High Road (A10) → Saint Ann's Road (B152),Traffic Jam,Global
+2026-06-18 11:16:26,51.282185,-0.075625,60,1.65,Godstone Road (B2030) → Crescent Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.622307,-0.073208,60,1.0,Chalfont Green / Hazelbury Green → Haselbury Road,Road Closed,Global
+2026-06-18 11:16:26,51.622332,-0.074783,60,1.0,Haselbury Road → Chalfont Green / Hazelbury Green,Road Closed,Global
+2026-06-18 11:16:26,51.509981,-0.073016,60,1.59,Royal Mint Street (B126) / Shorter Street → Tooley Street (A200),Traffic Jam,Global
+2026-06-18 11:16:26,51.5817,-0.075483,60,1.45,Saint Ann's Road (B152) → High Road (A10),Traffic Jam,Global
+2026-06-18 11:16:26,51.29854,-0.071848,60,1.0,Well Farm Heights → Wapses Lodge Roundabout,Road Works,Global
+2026-06-18 11:16:26,51.498016,-0.073733,60,1.6,Tower Bridge Road (E30) / A2198 → Jamaica Road (A200),Traffic Jam,Global
+2026-06-18 11:16:26,51.596489,-0.07267,60,1.57,Lordship Lane → Monument Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.54751,-0.06909,60,1.62,Amhurst Road (A104) / A107 → Kingsland High Street (A10) / Kingsland Road (A10),Traffic Jam,Global
+2026-06-18 11:16:26,51.615686,-0.067566,60,1.0,Enfield → Silver Street,Road Works,Global
+2026-06-18 11:16:26,51.509267,-0.066998,60,2.0,Cannon Street Road (B108) → Tower Bridge Approach (E30) / Mansell Street (E30),Traffic Jam,Global
+2026-06-18 11:16:26,51.249113,-0.06688,60,1.0,Needles Bank → Godstone,Road Closed,Global
+2026-06-18 11:16:26,51.252375,-0.066815,60,1.0,Godstone → Godstone Green Road / B2236,Road Closed,Global
+2026-06-18 11:16:26,51.252534,-0.066838,60,1.0,High Street (A25) → Oxted Road (A25),Road Closed,Global
+2026-06-18 11:16:26,51.429356,-0.066361,60,1.0,Wells Park Road → Longton Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.495715,-0.06577,60,1.73,Southwark Park Road (A2206) → Jamaica Road (A200) / Bevington Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.261058,-0.065508,60,1.0,Quarry Road → Godstone Road / Tupwood Lane,Road Works,Global
+2026-06-18 11:16:26,51.534673,-0.066716,60,1.0,Sportsman Place / Whiston Road → Hay Street / Moye Close,Road Closed,Global
+2026-06-18 11:16:26,51.616976,-0.063654,60,2.06,The Broadway → High Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.342821,-0.062309,60,1.27,Old Farleigh Road → Addington Road (A2022),Traffic Jam,Global
+2026-06-18 11:16:26,51.418959,-0.061413,60,1.0,Lawrie Park Road → Anerley Park,Road Works,Global
+2026-06-18 11:16:26,51.417752,-0.061314,60,1.0,Bromley → High Street (A234),Road Works,Global
+2026-06-18 11:16:26,51.418287,-0.060529,60,1.0,High Street (A234) → Anerley Road (A214) / Thicket Road,Road Closed,Global
+2026-06-18 11:16:26,51.429395,-0.060057,60,1.0,Kirkdale (A2216) → Westwood Hill (A212) / Sheenewood,Road Closed,Global
+2026-06-18 11:16:26,51.428153,-0.060487,60,1.0,Westwood Hill (A212) / Sheenewood → Kirkdale (A2216),Road Closed,Global
+2026-06-18 11:16:26,51.426636,-0.059643,60,1.0,Westwood Hill (A212) → Lawrie Park Gardens,Road Closed,Global
+2026-06-18 11:16:26,51.417881,-0.059322,60,1.12,Green Lane (A213) / Croydon Road (A213) → Crystal Palace Park Road / Thicket Road,Road Works,Global
+2026-06-18 11:16:26,51.591714,-0.059282,60,1.54,Meridian Way (A1055) / Leeside Road → Monument Way (A10) / The Hale (A503),Traffic Jam,Global
+2026-06-18 11:16:26,51.425406,-0.060861,60,1.0,Lawrie Park Gardens → Westwood Hill (A212),Road Closed,Global
+2026-06-18 11:16:26,51.243771,-0.063365,60,1.0,Eastbourne Road (B2236) / Love Lane → Oxted Road (A25) / Church Lane,Road Closed,Global
+2026-06-18 11:16:26,51.431739,-0.057822,60,1.0,Kirkdale (A2216) → Shrublands Close,Road Closed,Global
+2026-06-18 11:16:26,51.432102,-0.057312,60,1.0,Shrublands Close → Kirkdale (A2216),Road Closed,Global
+2026-06-18 11:16:26,51.664335,-0.056931,60,1.5,M11 J25 → Cambridge Gardens,Traffic Jam,Global
+2026-06-18 11:16:26,51.240908,-0.056623,60,1.0,Eastbourne Road (B2236) → Oxted Road (A25),Road Closed,Global
+2026-06-18 11:16:26,51.243244,-0.05704,60,1.0,Oxted Road (A25) → Eastbourne Road (B2236),Road Works,Global
+2026-06-18 11:16:26,51.491399,-0.057135,60,1.0,Southwark Park Road → Rotherhithe New Road (A2208),Road Works,Global
+2026-06-18 11:16:26,51.547153,-0.055009,60,1.0,Mare Street → Dalston Lane,Road Closed,Global
+2026-06-18 11:16:26,51.547284,-0.055296,60,1.0,Dalston Lane → Mare Street,Road Closed,Global
+2026-06-18 11:16:26,51.489669,-0.056165,60,1.0,Catlin Street (B204) → Raymouth Road (A2206),Road Works,Global
+2026-06-18 11:16:26,51.486905,-0.054736,60,1.56,Rotherhithe New Road (A2208) → Old Kent Road (A2),Traffic Jam,Global
+2026-06-18 11:16:26,51.448812,-0.051953,60,1.0,Boveney Road → Honor Oak Park (B238),Road Closed,Global
+2026-06-18 11:16:26,51.448845,-0.052975,60,1.0,Honor Oak Park (B238) → Boveney Road,Road Closed,Global
+2026-06-18 11:16:26,51.659918,-0.051634,60,1.69,Hertford Road (A1010) → Great Cambridge Road (A10),Traffic Jam,Global
+2026-06-18 11:16:26,51.550137,-0.053855,60,1.69,Dalston Lane → Urswick Road (A102),Traffic Jam,Global
+2026-06-18 11:16:26,51.714554,-0.051033,60,1.0,B156 / Flamstead End Road → Debenham Road,Road Closed,Global
+2026-06-18 11:16:26,51.715638,-0.0529,60,1.0,Debenham Road → B156 / Flamstead End Road,Road Closed,Global
+2026-06-18 11:16:26,51.448845,-0.052975,60,1.0,Forest Hill Road / Honor Oak Road → Stondon Park (B218),Road Works,Global
+2026-06-18 11:16:26,51.526157,-0.050212,60,1.44,Mile End Road (A11) → Roman Road (B119),Traffic Jam,Global
+2026-06-18 11:16:26,51.496915,-0.051249,60,1.0,Lower Road (A200) → Deal Porters Way,Road Works,Global
+2026-06-18 11:16:26,51.497818,-0.049463,60,1.0,Needleman Street → Lower Road (A200),Road Works,Global
+2026-06-18 11:16:26,51.450136,-0.048697,60,1.25,Stondon Park (B218) → Forest Hill Road / Honor Oak Road,Road Works,Global
+2026-06-18 11:16:26,51.425731,-0.048323,60,1.39,Stanton Way (A2218) → Newlands Park (A213),Traffic Jam,Global
+2026-06-18 11:16:26,51.550975,-0.051468,60,1.73,Lower Clapton Road (A107) → Kenworthy Road / Marsh Hill (B112),Traffic Jam,Global
+2026-06-18 11:16:26,51.63738,-0.049852,60,1.0,Hertford Road (A1010) → Nightingale Road (B137),Road Closed,Global
+2026-06-18 11:16:26,51.636352,-0.047526,60,1.0,Nightingale Road (B137) → Hertford Road (A1010),Road Closed,Global
+2026-06-18 11:16:26,51.635011,-0.047439,60,1.44,Hertford Road (A1010) / Cuckoo Hall Lane → Hertford Road (A1010),Traffic Jam,Global
+2026-06-18 11:16:26,51.461521,-0.047002,60,1.0,Southwark → St Asaph Road,Road Closed,Global
+2026-06-18 11:16:26,51.465968,-0.050139,60,1.0,St Asaph Road → Southwark,Road Closed,Global
+2026-06-18 11:16:26,51.643908,-0.046506,60,1.4,Hertford Road / Southfield Road → Nags Head Road (A110) / Southbury Road (A110),Traffic Jam,Global
+2026-06-18 11:16:26,51.692765,-0.050849,60,2.77,Goffs Lane → Great Cambridge Road (A10),Traffic Jam,Global
+2026-06-18 11:16:26,51.695585,-0.04475,60,1.52,College Road (B198) → Broxbourne,Traffic Jam,Global
+2026-06-18 11:16:26,51.681077,-0.042893,60,1.67,Hertford Road (A1010) → Great Cambridge Road (A10),Traffic Jam,Global
+2026-06-18 11:16:26,51.644569,-0.03931,60,1.0,Lea Valley Road (A110) → South Street,Road Closed,Global
+2026-06-18 11:16:26,51.644163,-0.03934,60,1.0,South Street → Lea Valley Road (A110),Road Works,Global
+2026-06-18 11:16:26,51.506721,-0.03755,60,1.0,Lavender Road → Salter Road (B205),Road Works,Global
+2026-06-18 11:16:26,51.64634,-0.036337,60,1.79,Lea Valley Road (A1055) → Baird Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.506737,-0.03766,60,1.0,Salter Road (B205) → Admiral Place,Road Works,Global
+2026-06-18 11:16:26,51.506512,-0.036119,60,1.0,Admiral Place → Salter Road (B205),Road Closed,Global
+2026-06-18 11:16:26,51.524881,-0.035051,60,1.0,Burdett Road (A1205) → Lawton Road,Road Works,Global
+2026-06-18 11:16:26,51.701672,-0.034508,60,1.0,Broxbourne → Crossbrook Street,Road Works,Global
+2026-06-18 11:16:26,51.70011,-0.034252,60,1.25,Crossbrook Street → Albury Grove Road,Road Works,Global
+2026-06-18 11:16:26,51.314793,-0.033656,60,1.0,Chelsham Common / Harrow Road → Chelsham Common Road,Road Closed,Global
+2026-06-18 11:16:26,51.31263,-0.034711,60,1.0,Chelsham Common Road → Chelsham Common / Harrow Road,Road Closed,Global
+2026-06-18 11:16:26,51.415954,-0.03385,60,1.0,Southend Road (A2015) / The Avenue → Brackley Road,Road Works,Global
+2026-06-18 11:16:26,51.678582,-0.034181,60,1.43,Holmwood Road → Monarch's Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.484584,-0.033123,60,1.0,Grove Street (B206) → Bestwood Street,Road Works,Global
+2026-06-18 11:16:26,51.613346,-0.036088,60,1.45,Cooks Ferry Roundabout → Hall Lane / North Circular Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.518468,-0.035055,60,1.44,Ben Jonson Road / Copperfield Road → Burdett Road (A1205),Traffic Jam,Global
+2026-06-18 11:16:26,51.547186,-0.029081,60,1.0,Lee Conservancy Road → Chapman Road,Road Works,Global
+2026-06-18 11:16:26,51.46793,-0.029384,60,1.0,Ashby Road → Lewisham Way (A20),Road Works,Global
+2026-06-18 11:16:26,51.512627,-0.027861,60,1.0,Saint Paul's Way (B140) → East India Dock Road (A13) / Commercial Road (A13),Road Works,Global
+2026-06-18 11:16:26,51.575775,-0.029829,60,1.86,Queens Road / Downsfield Road → Lea Bridge Road (A104),Traffic Jam,Global
+2026-06-18 11:16:26,51.520781,-0.027514,60,1.0,Devons Road (B140) / Saint Paul's Way (B140) → Burdett Road (A1205),Road Works,Global
+2026-06-18 11:16:26,51.664449,-0.027714,60,1.14,Mollison Avenue (A1055) → Newbury Avenue / Lytton Avenue,Road Works,Global
+2026-06-18 11:16:26,51.572688,-0.027738,60,1.0,Theydon Street → Lea Bridge Road (A104),Road Works,Global
+2026-06-18 11:16:26,51.572093,-0.02722,60,1.0,Lea Bridge Road (A104) → Boundary Road,Road Works,Global
+2026-06-18 11:16:26,51.440709,-0.029404,60,1.99,Perry Hill (A212) / Woolstone Road → Stanstead Road (A205),Traffic Jam,Global
+2026-06-18 11:16:26,51.416912,-0.033563,60,1.0,Brackley Road → Worsley Bridge Road / Greycot Road,Road Closed,Global
+2026-06-18 11:16:26,51.422469,-0.02714,60,1.0,Worsley Bridge Road / Greycot Road → Century Way,Road Closed,Global
+2026-06-18 11:16:26,51.666582,-0.027066,60,1.0,Newbury Avenue / Lytton Avenue → Mollison Avenue (A1055),Road Works,Global
+2026-06-18 11:16:26,51.475793,-0.031279,60,1.4,Amersham Road (A20) → Deptford Broadway / Tanner's Hill,Traffic Jam,Global
+2026-06-18 11:16:26,51.611345,-0.046341,60,1.77,Sterling Way → North Circular Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.511512,-0.025836,60,1.0,East India Dock Road (A13) → Farrance Street,Road Closed,Global
+2026-06-18 11:16:26,51.617129,-0.025657,60,2.25,New Road (A1009) / Old Church Road (A112) → North Circular Road (A1009),Traffic Jam,Global
+2026-06-18 11:16:26,51.427325,-0.029467,60,1.66,Bell Green (A212) → King Alfred Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.589876,-0.026508,60,1.0,Holmes Avenue / Wolsey Avenue → Chingford Road (A112) / Hoe Street (A112),Road Works,Global
+2026-06-18 11:16:26,51.592164,-0.025313,60,1.0,Winns Avenue → Forest Road (A503) / Melville Road,Road Closed,Global
+2026-06-18 11:16:26,51.426759,-0.023416,60,1.0,Bromley Road (A21) / Whitefoot Lane → Stanton Way / Kangley Bridge Road,Road Works,Global
+2026-06-18 11:16:26,51.427192,-0.024564,60,1.0,King Alfred Avenue → Bromley Road (A21) / Whitefoot Lane,Road Works,Global
+2026-06-18 11:16:26,51.376857,-0.022826,60,1.0,High Street (A232) → The Alders,Road Closed,Global
+2026-06-18 11:16:26,51.528615,-0.023825,60,1.92,Caxton Grove → Campbell Road / Trevithick Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.590501,-0.022496,60,1.16,Chingford Road (A112) / Hoe Street (A112) → Bemsted Road / Greenleaf Road,Road Works,Global
+2026-06-18 11:16:26,51.426022,-0.020772,60,1.51,Bromley Road (A21) / Whitefoot Lane → Stanton Way / Kangley Bridge Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.542863,-0.020743,60,1.0,Carpenters Road → Marshgate Lane,Road Closed,Global
+2026-06-18 11:16:26,51.54209,-0.020315,60,1.0,Marshgate Lane → Carpenters Road,Road Closed,Global
+2026-06-18 11:16:26,51.588079,-0.020646,60,1.44,Chingford Road / Forest Road (A503) → Church Hill / High Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.53911,-0.019632,60,1.0,Pudding Mill Lane → Bassett Lane,Road Works,Global
+2026-06-18 11:16:26,51.778437,-0.023032,60,1.0,London Road (B1197) → Ware Road (A1170),Road Closed,Global
+2026-06-18 11:16:26,51.473027,-0.015861,60,1.79,Blackheath Hill / Greenwich South Street (A2211) → Deptford Broadway / Deptford Church Street (A2209),Traffic Jam,Global
+2026-06-18 11:16:26,51.341952,-0.015796,60,1.54,Salcot Crescent → Salcot Crescent,Traffic Jam,Global
+2026-06-18 11:16:26,51.779168,-0.015141,60,1.0,Ware Road (A1170) → Springle Lane,Road Closed,Global
+2026-06-18 11:16:26,51.560981,-0.021809,60,1.83,Lea Bridge Road (A104) / Argall Way → Ruckholt Road (A106),Traffic Jam,Global
+2026-06-18 11:16:26,51.635715,-0.012928,60,1.31,Sewardstone Road (A112) → Lea Valley Road (A110),Traffic Jam,Global
+2026-06-18 11:16:26,51.425651,-0.012718,60,1.0,Southend Road / Braeside → Bromley Road (A21),Road Works,Global
+2026-06-18 11:16:26,51.461698,-0.013143,60,1.8,Rennell Street (A20) → Ladywell Road (B236),Traffic Jam,Global
+2026-06-18 11:16:26,51.427088,-0.011209,60,1.29,Bromley Road (A21) → Southend Road / Braeside,Road Works,Global
+2026-06-18 11:16:26,51.558511,-0.012039,60,1.0,Oliver Road → York Road,Road Closed,Global
+2026-06-18 11:16:26,51.685582,-0.026385,60,3.06,Eleanor Cross Road (A1010) → Highbridge Street (B194) / Beaulieu Drive,Traffic Jam,Global
+2026-06-18 11:16:26,51.54015,-0.008237,60,1.0,Carpenters Road → Montfichet Road,Road Closed,Global
+2026-06-18 11:16:26,51.538464,-0.008492,60,1.0,Montfichet Road → Carpenters Road,Road Closed,Global
+2026-06-18 11:16:26,51.488036,-0.006187,60,1.55,Cumberland Mills Square → Ferry Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.593212,-0.005139,60,1.0,Fulbourne Road (B160) → Forest Road (A503),Road Closed,Global
+2026-06-18 11:16:26,51.659787,-0.00412,60,1.0,Godwin Close → Godwin Close,Road Works,Global
+2026-06-18 11:16:26,51.254859,-0.005543,60,1.15,West Hill / East Hill Road → Westerham Road / Snatts Hill,Road Works,Global
+2026-06-18 11:16:26,51.762945,-0.004026,60,1.0,A1170 → Essex Road,Road Closed,Global
+2026-06-18 11:16:26,51.658007,-0.004922,60,1.0,Godwin Close → Godwin Close,Road Works,Global
+2026-06-18 11:16:26,51.762757,-0.003663,60,1.0,Essex Road → A1170,Road Closed,Global
+2026-06-18 11:16:26,51.76427,-0.003056,60,1.0,River Avenue / New River Close → Parrotts Field,Road Closed,Global
+2026-06-18 11:16:26,51.763743,-0.00534,60,1.0,Parrotts Field → River Avenue / New River Close,Road Closed,Global
+2026-06-18 11:16:26,51.253075,-0.004734,60,1.0,Woodhurst Park → East Hill (A25),Road Closed,Global
+2026-06-18 11:16:26,51.255044,-0.002562,60,1.0,East Hill (A25) → Woodland Rise,Road Closed,Global
+2026-06-18 11:16:26,51.443494,-0.002087,60,1.55,Sandhurst Road → Brownhill Road (A205),Traffic Jam,Global
+2026-06-18 11:16:26,51.552541,-0.000406,60,1.0,Drapers Road → Crownfield Road / Edith Road,Road Closed,Global
+2026-06-18 11:16:26,51.551998,-0.000251,60,1.0,Crownfield Road / Edith Road → Drapers Road,Road Closed,Global
+2026-06-18 11:16:26,51.551454,-0.000101,60,1.0,Major Road (A112) / Chobham Road (A112) → Crownfield Road / Edith Road,Road Closed,Global
+2026-06-18 11:16:26,51.551663,-0.000169,60,1.0,Crownfield Road / Edith Road → Major Road (A112) / Chobham Road (A112),Road Closed,Global
+2026-06-18 11:16:26,51.445531,-0.014532,60,2.09,Plassy Road → Saint Mildreds Road / Verdant Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.40745,-0.004296,60,1.77,Scott's Lane / Downs Bridge Road → Beckenham Lane / Station Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.40346,-0.000648,60,2.87,Hayes Lane (B251) → Bromley Road (A222),Traffic Jam,Global
+2026-06-18 11:16:26,51.434163,0.000742,60,1.25,Boundfield Road → Waters Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.500732,0.001903,60,1.0,Millennium Way → Blackwall Tunnel / Tunnel Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.500816,0.000589,60,1.0,Blackwall Tunnel / Tunnel Avenue → Millennium Way,Road Closed,Global
+2026-06-18 11:16:26,51.407312,0.000658,60,1.4,Downs Hill → Beckenham Lane (A222) / Bromley Road (A222),Traffic Jam,Global
+2026-06-18 11:16:26,51.582279,0.002905,60,1.0,Lea Bridge Road (A104) → Whipps Cross Road (A114),Road Works,Global
+2026-06-18 11:16:26,51.631017,0.002254,60,1.21,Station Road (A1069) → Shaftesbury Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.441727,0.004041,60,1.0,Dowanhill Road → Saint Mildreds Road (A205) / Brownhill Road (A205),Road Works,Global
+2026-06-18 11:16:26,51.543147,0.00399,60,1.58,Great Eastern Road → High Street / West Ham Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.444829,0.00436,60,1.0,Saint Mildreds Road (A205) / Brownhill Road (A205) → Sandhurst Road,Road Closed,Global
+2026-06-18 11:16:26,51.44225,0.003801,60,1.0,Sandhurst Road → Saint Mildreds Road (A205) / Brownhill Road (A205),Road Closed,Global
+2026-06-18 11:16:26,51.404463,0.004371,60,1.74,Queens Mead Road → Downs Hill,Traffic Jam,Global
+2026-06-18 11:16:26,51.532149,0.004077,60,1.0,Canning Road → Manor Road (A1011) / Mitre Road,Road Works,Global
+2026-06-18 11:16:26,51.794035,0.005265,60,1.0,Hollycross Road → B181,Road Works,Global
+2026-06-18 11:16:26,51.445594,0.007588,60,1.59,Westhorne Avenue / Baring Road (A2212) → Torridon Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.792009,0.007819,60,1.0,B181 → Hollycross Road,Road Works,Global
+2026-06-18 11:16:26,51.406793,0.008662,60,2.9,London Road / High Street → Park Hill Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.465272,0.009129,60,1.88,Lee Road (B212) / Blackheath Village (B212) → Lee Terrace (B220),Traffic Jam,Global
+2026-06-18 11:16:26,51.577219,0.01115,60,1.7,James Lane → Green Man Roundabout,Traffic Jam,Global
+2026-06-18 11:16:26,51.508371,0.016078,60,1.0,Western Gateway → A1020,Road Works,Global
+2026-06-18 11:16:26,51.521962,0.016005,60,1.0,Chargeable Lane → Barking Road (A124) / Croydon Road,Road Closed,Global
+2026-06-18 11:16:26,51.520736,0.016124,60,1.0,Barking Road (A124) / Croydon Road → Chargeable Lane,Road Closed,Global
+2026-06-18 11:16:26,51.571625,0.017067,60,1.49,Hollybush Hill (A1199) → Gainsborough Road (A106),Traffic Jam,Global
+2026-06-18 11:16:26,51.391101,0.016133,60,1.0,Letchworth Close → Hayes Lane (B265),Road Closed,Global
+2026-06-18 11:16:26,51.391181,0.017308,60,1.0,Hayes Lane (B265) → Letchworth Close,Road Closed,Global
+2026-06-18 11:16:26,51.388262,0.015786,60,1.0,Bourne Vale → B265,Road Works,Global
+2026-06-18 11:16:26,51.38828,0.011877,60,2.05,Pickhurst Lane (B251) / The Avenue → B265,Traffic Jam,Global
+2026-06-18 11:16:26,51.391181,0.017308,60,1.42,Hayes Road (B2212) → Bromley,Road Works,Global
+2026-06-18 11:16:26,51.391578,0.017508,60,1.5,Hayes Road (B2212) → Mead Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.474379,0.016565,60,1.0,Shooters Hill Road (A2) → Stratheden Parade,Road Works,Global
+2026-06-18 11:16:26,51.391748,0.017674,60,1.0,Letchworth Drive → Bromley Common (A21),Road Works,Global
+2026-06-18 11:16:26,51.735954,0.018969,60,1.0,Hoe Lane → Saint Leonards Road (B194) / Nazeing Road (B194),Road Works,Global
+2026-06-18 11:16:26,51.735778,0.015012,60,1.0,Saint Leonards Road (B194) / Nazeing Road (B194) → Hoe Lane,Road Works,Global
+2026-06-18 11:16:26,51.437185,0.018189,60,1.23,Heather Road → Chinbrook Road (B226),Road Works,Global
+2026-06-18 11:16:26,51.434916,0.020314,60,1.18,Chinbrook Road (B226) → Railway Children Walk,Road Works,Global
+2026-06-18 11:16:26,51.590623,0.021817,60,1.42,Woodford Road (A1199) → Hermitage Walk,Traffic Jam,Global
+2026-06-18 11:16:26,51.524072,0.021035,60,1.0,Foster Road → Balaam Street (B116),Road Closed,Global
+2026-06-18 11:16:26,51.52371,0.022007,60,1.0,Balaam Street (B116) → Foster Road,Road Closed,Global
+2026-06-18 11:16:26,51.573597,0.023518,60,3.87,Cambridge Park → Bush Road (A114),Traffic Jam,Global
+2026-06-18 11:16:26,51.613649,0.024456,60,1.44,Whitehall Road (A110) → Chingford Lane (A1009),Traffic Jam,Global
+2026-06-18 11:16:26,51.569854,0.019278,60,2.95,High Road Leytonstone → Centre Road / Aldersbrook Road (A116),Traffic Jam,Global
+2026-06-18 11:16:26,51.562726,0.023232,60,1.55,Dames Road (B161) / Harrow Road (B161) → Centre Road (A114),Traffic Jam,Global
+2026-06-18 11:16:26,51.435661,0.023678,60,1.0,Somertrees Avenue → Chinbrook Road (B226) / Grove Park Road (B226),Road Closed,Global
+2026-06-18 11:16:26,51.560057,0.025328,60,1.71,Woodford Road → Blake Hall Road (A1008) / Bush Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.435129,0.025651,60,1.0,Chinbrook Road (B226) / Grove Park Road (B226) → Somertrees Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.570337,0.026381,60,1.77,Seagry Road → Blake Hall Road (A1008) / Blake Hall Road (A114),Traffic Jam,Global
+2026-06-18 11:16:26,51.504077,0.026675,60,1.0,North Woolwich Road (A1020) / Mill Road → North Woolwich Road (A1020),Road Closed,Global
+2026-06-18 11:16:26,51.502424,0.025433,60,1.0,North Woolwich Road (A1020) → North Woolwich Road (A1020) / Fort Street,Road Closed,Global
+2026-06-18 11:16:26,51.575468,0.027746,60,2.23,Kingfisher Avenue → Blake Hall Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.44164,0.026223,60,1.11,Ashdale Road → Lewisham,Road Works,Global
+2026-06-18 11:16:26,51.441718,0.02968,60,1.0,Mottingham Lane → Winn Road,Road Works,Global
+2026-06-18 11:16:26,51.44337,0.030013,60,1.15,Sidcup Road (A20) → Winn Road,Road Works,Global
+2026-06-18 11:16:26,51.337596,0.030605,60,1.37,Main Road / Leaves Green Crescent → Blackness Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.341755,0.030385,60,1.0,Blackness Lane → Main Road / Leaves Green Crescent,Road Works,Global
+2026-06-18 11:16:26,51.337596,0.030605,60,1.4,Main Road / Leaves Green Crescent → Blackness Lane,Road Works,Global
+2026-06-18 11:16:26,51.527483,0.031682,60,1.22,Barking Road (A124) → Barking Road (A124),Traffic Jam,Global
+2026-06-18 11:16:26,51.624527,0.031136,60,1.29,High Road (A121) → High Road (A121),Traffic Jam,Global
+2026-06-18 11:16:26,51.541347,0.030202,60,1.0,Saint George's Road / Saint George's Avenue → Green Street (B167),Road Closed,Global
+2026-06-18 11:16:26,51.487164,0.024523,60,2.14,Blackwall Tunnel Approach (A102) → Woolwich Church Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.534907,0.031328,60,1.0,Terrace Road (A114) / Stopford Road (A114) → Green Street (B167),Road Closed,Global
+2026-06-18 11:16:26,51.488488,0.033705,60,1.0,Anchor and Hope Lane → Woolwich Church Street,Road Works,Global
+2026-06-18 11:16:26,51.642281,0.034438,60,1.12,Nursery Road → Ranger's Road (A1069),Road Works,Global
+2026-06-18 11:16:26,51.639761,0.033746,60,1.0,Ranger's Road (A1069) → Nursery Road,Road Works,Global
+2026-06-18 11:16:26,51.604144,0.030128,60,1.0,Charteris Road → Chigwell Road (A113) / Prospect Road,Road Closed,Global
+2026-06-18 11:16:26,51.488608,0.034655,60,1.0,Woolwich Church Street → Charlton Church Lane,Road Works,Global
+2026-06-18 11:16:26,51.616277,0.034714,60,1.0,Monkham's Lane → High Road Woodford Green (A104) / Knighton Drive,Road Closed,Global
+2026-06-18 11:16:26,51.617028,0.032884,60,1.0,High Road Woodford Green (A104) / Knighton Drive → Monkham's Lane,Road Closed,Global
+2026-06-18 11:16:26,51.406404,0.033879,60,1.0,Widmore Road (A222) / Plaistow Lane → Orchard Road,Road Closed,Global
+2026-06-18 11:16:26,51.603061,0.034584,60,1.0,Saint Barnabas Road → Chigwell Road (A113) / Prospect Road,Road Closed,Global
+2026-06-18 11:16:26,51.602912,0.034838,60,1.0,Chigwell Road (A113) / Prospect Road → Charteris Road,Road Closed,Global
+2026-06-18 11:16:26,51.409829,0.035055,60,1.0,Orchard Road → Widmore Road (A222) / Plaistow Lane,Road Closed,Global
+2026-06-18 11:16:26,51.345938,0.035424,60,1.4,Bromley → Main Road / Leaves Green Crescent,Traffic Jam,Global
+2026-06-18 11:16:26,51.535021,0.035559,60,1.39,Barking Road → Plashet Grove (B165),Traffic Jam,Global
+2026-06-18 11:16:26,51.439087,0.039693,60,1.0,Grove Park Road (B226) → Bromley,Road Closed,Global
+2026-06-18 11:16:26,51.441718,0.02968,60,1.0,Bromley → Grove Park Road (B226),Road Closed,Global
+2026-06-18 11:16:26,51.537392,0.039946,60,1.0,Katherine Road (B109) → Green Street (B167),Road Works,Global
+2026-06-18 11:16:26,51.598406,0.040095,60,1.5,Broadmead Road (A1009) / Prospect Road → Redbridge,Traffic Jam,Global
+2026-06-18 11:16:26,51.490817,0.040745,60,2.28,Woolwich Church Street → Gallions Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.383275,0.040633,60,1.0,Bromley Common (A21) → Link Way,Road Closed,Global
+2026-06-18 11:16:26,51.53703,0.036974,60,1.58,Green Street (B167) → Katherine Road (B109),Traffic Jam,Global
+2026-06-18 11:16:26,51.384128,0.042571,60,1.0,Link Way → Bromley Common (A21),Road Closed,Global
+2026-06-18 11:16:26,51.315914,0.04041,60,1.0,Main Road (A233) → Berry's Hill / Single Street,Road Works,Global
+2026-06-18 11:16:26,51.315541,0.043723,60,1.0,Berry's Hill / Single Street → Main Road (A233),Road Works,Global
+2026-06-18 11:16:26,51.625654,0.045781,60,1.59,Victoria Road → King's Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.625924,0.04315,60,1.36,King's Avenue → Victoria Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.492275,0.048608,60,1.0,A205 → Clevely Close,Road Works,Global
+2026-06-18 11:16:26,51.537478,0.053855,60,1.4,Keppel Road → Ron Leighton Way (A117) / High Street North (A117),Traffic Jam,Global
+2026-06-18 11:16:26,51.683027,-0.054127,60,6.23,A10 J25 → J27,Traffic Jam,Global
+2026-06-18 11:16:26,51.551603,0.053444,60,1.66,Romford Road (A118) → Church Road (B165),Traffic Jam,Global
+2026-06-18 11:16:26,51.803416,0.054704,60,1.0,High Street (B180) → Church Lane,Road Closed,Global
+2026-06-18 11:16:26,51.53988,0.055734,60,1.26,Southend Road → High Street North (A117) / Burges Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.553549,0.055599,60,2.13,Romford Road (A118) → Church Road (B165),Traffic Jam,Global
+2026-06-18 11:16:26,51.64533,0.053081,60,1.4,High Beech Road → Church Hill / King's Green,Traffic Jam,Global
+2026-06-18 11:16:26,51.516053,0.054863,60,1.21,Bradley Stone Road / Valiant Way → Woolwich Manor Way (A117),Road Works,Global
+2026-06-18 11:16:26,51.650258,0.057689,60,1.4,Church Hill / King's Green → Station Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.493471,0.057992,60,1.11,A205 → Woolwich Road,Road Works,Global
+2026-06-18 11:16:26,51.515865,0.058507,60,1.15,Woolwich Manor Way (A117) → Newham,Road Works,Global
+2026-06-18 11:16:26,51.649362,0.058545,60,1.0,Eleven Acre Rise → High Road (A121),Road Works,Global
+2026-06-18 11:16:26,51.552689,0.05332,60,2.01,High Street North (A117) / Station Road (A117) → Little Ilford Lane (B165),Traffic Jam,Global
+2026-06-18 11:16:26,51.450785,0.058781,60,1.69,Footscray Road (A211) → Court Yard (A208) / Well Hall Road (A208),Traffic Jam,Global
+2026-06-18 11:16:26,51.493029,0.056407,60,1.0,Woolwich Road → A205,Road Works,Global
+2026-06-18 11:16:26,51.517877,0.060012,60,1.0,Newham Way → High Street South,Road Works,Global
+2026-06-18 11:16:26,51.51624,0.060407,60,1.0,Tollgate Road → High Street South,Road Works,Global
+2026-06-18 11:16:26,51.555111,0.06071,60,1.0,Romford Road (A118) → Romford Road (A118),Road Works,Global
+2026-06-18 11:16:26,51.49359,0.060853,60,1.0,A205 → Woolwich Road,Road Works,Global
+2026-06-18 11:16:26,51.744706,0.061345,60,1.0,Parsloe Road → Common Road,Road Works,Global
+2026-06-18 11:16:26,51.493949,0.060956,60,1.59,A205 → Ferry Approach,Traffic Jam,Global
+2026-06-18 11:16:26,51.555417,0.061958,60,1.0,Ilford Hill → Little Ilford Lane (B165),Road Works,Global
+2026-06-18 11:16:26,51.451382,0.049166,60,1.84,Eltham Hill / Sherard Road → Bexley Road / Southend Crescent,Traffic Jam,Global
+2026-06-18 11:16:26,51.469645,0.063775,60,1.0,Donaldson Road → Well Hall Road (A205) / Academy Road (A205),Road Works,Global
+2026-06-18 11:16:26,51.470105,0.061384,60,1.0,Well Hall Road (A205) / Academy Road (A205) → Donaldson Road,Road Works,Global
+2026-06-18 11:16:26,51.443696,0.063945,60,1.5,A211 → A211,Traffic Jam,Global
+2026-06-18 11:16:26,51.649165,0.060444,60,1.23,High Road (A121) → Church Lane,Road Works,Global
+2026-06-18 11:16:26,51.450289,0.063897,60,1.0,Bexley Road (A210) → A211,Road Works,Global
+2026-06-18 11:16:26,51.448287,0.063657,60,1.11,A211 → Eltham High Street (A210) / Bexley Road (A210),Road Works,Global
+2026-06-18 11:16:26,51.649523,0.065591,60,1.0,Rectory Lane (A1168) / Wellfields → Trap's Hill,Road Closed,Global
+2026-06-18 11:16:26,51.648839,0.064634,60,1.0,Trap's Hill → Rectory Lane (A1168) / Wellfields,Road Closed,Global
+2026-06-18 11:16:26,51.434149,0.06596,60,1.4,Sidcup Bypass (A20) → Green Lane (B263),Traffic Jam,Global
+2026-06-18 11:16:26,51.557099,0.066611,60,1.63,Chapel Road → Little Ilford Lane (B165),Traffic Jam,Global
+2026-06-18 11:16:26,51.648076,0.066712,60,1.0,Spareleaze Hill → High Road (A121),Road Works,Global
+2026-06-18 11:16:26,51.490143,0.066888,60,1.25,John Wilson Street (A205) / Grand Depot Road → John Wilson Street (A205) / B210,Traffic Jam,Global
+2026-06-18 11:16:26,51.655823,0.068376,60,1.0,M11 J5 → Golding's Hill (A121) / Church Hill (A121),Road Works,Global
+2026-06-18 11:16:26,51.538489,0.067463,60,1.79,Barking and Dagenham → Newham,Traffic Jam,Global
+2026-06-18 11:16:26,51.653977,0.072139,60,1.0,A1168 → The Greens Close,Road Works,Global
+2026-06-18 11:16:26,51.655316,0.06967,60,1.0,The Greens Close → A1168,Road Works,Global
+2026-06-18 11:16:26,51.523384,0.072536,60,1.21,A1020 → A1020 / Claps Gate Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.656393,0.072901,60,1.0,Hillyfields → The Croft,Road Closed,Global
+2026-06-18 11:16:26,51.657093,0.072467,60,1.0,The Croft → Hillyfields,Road Closed,Global
+2026-06-18 11:16:26,51.656006,0.067079,60,2.0,Golding's Hill (A121) / Church Hill (A121) → M11 J5,Traffic Jam,Global
+2026-06-18 11:16:26,51.650862,0.068774,60,1.0,Church Lane → Rectory Lane (A1168),Road Closed,Global
+2026-06-18 11:16:26,51.65337,0.073442,60,1.0,Rectory Lane (A1168) → Church Lane,Road Closed,Global
+2026-06-18 11:16:26,51.652401,0.075783,60,1.0,M11 J5 → Golding's Hill (A121) / Church Hill (A121),Road Works,Global
+2026-06-18 11:16:26,51.654928,0.070655,60,1.0,Golding's Hill (A121) / Church Hill (A121) → M11 J5,Road Works,Global
+2026-06-18 11:16:26,51.655802,0.076257,60,1.13,Rectory Lane (A1168) → Chester Road / Hillyfields,Road Works,Global
+2026-06-18 11:16:26,51.657959,0.076297,60,1.29,Pyrles Green → Rectory Lane (A1168),Road Works,Global
+2026-06-18 11:16:26,51.362357,0.075955,60,1.0,Farnborough Common / High Street (B2158) → Bromley,Road Works,Global
+2026-06-18 11:16:26,51.662701,0.078177,60,1.86,Debden Lane → Loughton,Traffic Jam,Global
+2026-06-18 11:16:26,51.662701,0.078177,60,1.0,Debden Road → Debden Road,Road Closed,Global
+2026-06-18 11:16:26,51.663753,0.079786,60,1.12,Ripley View → Debden Road,Road Works,Global
+2026-06-18 11:16:26,51.663694,0.07951,60,1.0,Debden Road → Ripley View,Road Works,Global
+2026-06-18 11:16:26,51.554536,0.079244,60,1.0,Ilford Lane (A123) → Redbridge,Road Closed,Global
+2026-06-18 11:16:26,51.554731,0.080186,60,1.0,Redbridge → Ilford Lane (A123),Road Closed,Global
+2026-06-18 11:16:26,51.554043,0.080607,60,1.0,Windsor Road → Redbridge,Road Closed,Global
+2026-06-18 11:16:26,51.554711,0.080253,60,1.0,Redbridge → Windsor Road,Road Closed,Global
+2026-06-18 11:16:26,51.555018,0.081388,60,1.0,Dalkeith Road → Redbridge,Road Closed,Global
+2026-06-18 11:16:26,51.558102,0.07844,60,1.32,Richmond Road → Sunnyside Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.374766,0.081907,60,1.28,Allington Road → Andover Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.49005,0.084677,60,1.17,A206 → Pettman Crescent,Traffic Jam,Global
+2026-06-18 11:16:26,51.388634,0.089578,60,1.0,Grosvenor Road → Orpington Road,Road Works,Global
+2026-06-18 11:16:26,51.544095,0.089634,60,1.66,Hurstbourne Gardens → South Park Drive / Upney Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.550005,0.092741,60,1.0,South Park Drive → South Park Drive,Road Works,Global
+2026-06-18 11:16:26,51.439058,0.093766,60,1.19,B2214 → Annandale Road,Road Works,Global
+2026-06-18 11:16:26,51.441585,0.095869,60,1.0,White Oak Gardens → B2214,Road Works,Global
+2026-06-18 11:16:26,51.785442,0.090417,60,1.0,A414 → Burntmill Lane,Road Works,Global
+2026-06-18 11:16:26,51.554583,0.094768,60,1.0,Green Lane (A1083) / South Park Drive → Green Lane (A1083),Road Closed,Global
+2026-06-18 11:16:26,51.556195,0.09764,60,1.0,Green Lane (A1083) → Green Lane (A1083) / South Park Drive,Road Closed,Global
+2026-06-18 11:16:26,51.786327,0.097675,60,1.0,Pye Corner → A414,Road Works,Global
+2026-06-18 11:16:26,51.519915,0.09754,60,1.0,Long Reach Road → Atcost Road,Road Closed,Global
+2026-06-18 11:16:26,51.517655,0.098774,60,1.0,Atcost Road → Long Reach Road,Road Closed,Global
+2026-06-18 11:16:26,51.692205,0.099424,60,1.0,Theydon Road → High Road (B1393),Road Closed,Global
+2026-06-18 11:16:26,51.419244,0.09815,60,1.41,Frognal Corner → The Green (A2001) / Elm Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.671091,0.100414,60,1.0,Thrifts Mead → Coppice Row (B172) / Abridge Road (B172),Road Closed,Global
+2026-06-18 11:16:26,51.671428,0.100763,60,1.0,Coppice Row (B172) / Abridge Road (B172) → Thrifts Mead,Road Closed,Global
+2026-06-18 11:16:26,51.420203,0.099173,60,1.0,Frognal Corner → The Green (A2001) / Elm Road,Road Works,Global
+2026-06-18 11:16:26,51.423704,0.101045,60,1.0,The Green (A2001) / Elm Road → Frognal Corner,Road Works,Global
+2026-06-18 11:16:26,51.428229,0.101256,60,1.83,Hurst Road / Station Road (B2214) → Frognal Corner,Traffic Jam,Global
+2026-06-18 11:16:26,51.525198,0.10165,60,1.61,Crossness Road → River Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.423793,0.102537,60,1.73,Church Road / Grassington Road → Chislehurst Road (A222) / Elm Road (A222),Traffic Jam,Global
+2026-06-18 11:16:26,51.55563,0.103111,60,1.0,Gyllyngdune Gardens → Water Lane,Road Closed,Global
+2026-06-18 11:16:26,51.484924,0.105286,60,1.0,Bostall Hill (A206) → Wickham Lane (A209),Road Closed,Global
+2026-06-18 11:16:26,51.403023,0.107209,60,1.6,Broomwood Road → Curtismill Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.563669,0.107885,60,1.67,Goodmayes Road (B177) / Ashgrove Road → Seven Kings Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.487004,0.108623,60,1.0,McLeod Road (B213) → Bostall Hill (A206),Road Closed,Global
+2026-06-18 11:16:26,51.484388,0.107581,60,1.0,Bostall Hill (A206) → McLeod Road (B213),Road Closed,Global
+2026-06-18 11:16:26,51.505734,0.106077,60,1.57,Twin Tumps Way → Carlyle Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.506252,0.108033,60,1.0,Joyce Dawson Way → Carlyle Road,Road Works,Global
+2026-06-18 11:16:26,51.428322,0.109918,60,1.0,Granville Road → The Drive / Tarling Close,Road Closed,Global
+2026-06-18 11:16:26,51.428741,0.110083,60,1.0,The Drive / Tarling Close → Granville Road,Road Closed,Global
+2026-06-18 11:16:26,51.563948,0.107787,60,1.44,Goodmayes Road (B177) / Ashgrove Road → Goodmayes Road (B177),Traffic Jam,Global
+2026-06-18 11:16:26,51.396315,0.112342,60,1.0,Sevenoaks Way (A224) / Station Road (B258) → Murray Road,Road Closed,Global
+2026-06-18 11:16:26,51.39711,0.110122,60,1.0,Murray Road → Sevenoaks Way (A224) / Station Road (B258),Road Closed,Global
+2026-06-18 11:16:26,51.507278,0.11256,60,1.28,Carlyle Road → Bentham Road,Road Works,Global
+2026-06-18 11:16:26,51.46184,0.112972,60,1.34,Park View Road / School Lane → Bellegrove Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.694739,0.103748,60,2.29,High Road / Lower Bury Lane → Lindsey Street (B181),Traffic Jam,Global
+2026-06-18 11:16:26,51.701983,0.115795,60,3.16,Lindsey Street (B181) → High Road / Lower Bury Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.585319,0.117597,60,1.64,Billet Road → Eastern Avenue (A12) / B177,Traffic Jam,Global
+2026-06-18 11:16:26,51.646936,0.107983,60,2.42,Abridge Road → Lambourne,Traffic Jam,Global
+2026-06-18 11:16:26,51.649498,0.118267,60,1.31,Alderwood Drive → A113,Road Works,Global
+2026-06-18 11:16:26,51.649942,0.11649,60,1.18,Abridge Road → Ongar Road / Abridge Road (B172),Road Works,Global
+2026-06-18 11:16:26,51.654013,0.116598,60,1.84,Epping Lane → Ongar Road (A113) / Market Place (A113),Traffic Jam,Global
+2026-06-18 11:16:26,51.651498,0.118727,60,1.0,Turners Court → Lambourne,Road Works,Global
+2026-06-18 11:16:26,51.463569,0.128828,60,1.46,Basilon Road → Crook Log (A207) / Talehangers Close,Traffic Jam,Global
+2026-06-18 11:16:26,51.43486,0.126639,60,1.0,Kimberley Drive → Betterton Drive,Road Closed,Global
+2026-06-18 11:16:26,51.435232,0.129879,60,1.0,Betterton Drive → Kimberley Drive,Road Closed,Global
+2026-06-18 11:16:26,51.56895,0.129886,60,1.19,Redbridge → Valence Avenue,Road Works,Global
+2026-06-18 11:16:26,51.548623,0.13403,60,1.52,Porters Avenue (A1153) → Heathway (A1240) / Reede Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.583453,0.136975,60,1.5,Sheepcotes Road → Whalebone Lane North (A1112),Traffic Jam,Global
+2026-06-18 11:16:26,51.581926,0.141386,60,1.0,Eastern Avenue West (A12) → Bakery Close,Road Works,Global
+2026-06-18 11:16:26,51.583906,0.141618,60,1.22,Bakery Close → Eastern Avenue West (A12),Road Works,Global
+2026-06-18 11:16:26,51.527299,0.146526,60,1.0,Chequers Lane → Merrielands Crescent,Road Closed,Global
+2026-06-18 11:16:26,51.528581,0.144098,60,1.0,Merrielands Crescent → Chequers Lane,Road Closed,Global
+2026-06-18 11:16:26,51.540233,0.148126,60,1.0,Church Elm Lane / Hedgemans Road → Parsloes Avenue / Reede Road,Road Works,Global
+2026-06-18 11:16:26,51.543046,0.147888,60,1.0,Parsloes Avenue / Reede Road → Church Elm Lane / Hedgemans Road,Road Closed,Global
+2026-06-18 11:16:26,51.69077,0.153648,60,1.0,Mount End Road → Mount Road,Road Closed,Global
+2026-06-18 11:16:26,51.683334,0.147884,60,1.0,Mount Road → Mount End Road,Road Closed,Global
+2026-06-18 11:16:26,51.438185,0.154023,60,1.0,Bexley High Street → Dartford Road,Road Works,Global
+2026-06-18 11:16:26,51.598245,0.155241,60,1.27,Havering → Collier Row Road (B174),Traffic Jam,Global
+2026-06-18 11:16:26,51.785262,0.156345,60,1.0,Matching Road / Chalk Lane → Sheering Road / Windmill Fields,Road Closed,Global
+2026-06-18 11:16:26,51.784857,0.153151,60,1.0,Roden Close → Matching Road / Chalk Lane,Road Closed,Global
+2026-06-18 11:16:26,51.778682,0.154024,60,1.0,Churchgate Street / Elmbridge → Foster Street,Road Works,Global
+2026-06-18 11:16:26,51.495986,0.157065,60,1.0,A2016 → Lower Road (B213),Road Works,Global
+2026-06-18 11:16:26,51.495496,0.156947,60,1.0,Lower Road (B213) → A2016,Road Works,Global
+2026-06-18 11:16:26,51.436186,0.157971,60,1.28,Dartford Road → Bexley High Street,Road Works,Global
+2026-06-18 11:16:26,51.605346,0.15786,60,1.46,Dereham Place → Bacon Link,Traffic Jam,Global
+2026-06-18 11:16:26,51.783948,0.160861,60,1.0,Matching Road / Chalk Lane → Sheering Road / Windmill Fields,Road Closed,Global
+2026-06-18 11:16:26,51.71321,0.163078,60,1.0,Station Road → Dukes Close,Road Works,Global
+2026-06-18 11:16:26,51.714173,0.164963,60,1.1,Dukes Close → Station Road,Road Works,Global
+2026-06-18 11:16:26,51.423529,0.165697,60,1.95,Summerhouse Drive → Summerhouse Drive,Traffic Jam,Global
+2026-06-18 11:16:26,51.458979,0.167057,60,1.0,Old Barn Way → Oakwood Drive,Road Works,Global
+2026-06-18 11:16:26,51.476179,0.170091,60,1.0,Avenue Road → Bexley Road (A220),Road Closed,Global
+2026-06-18 11:16:26,51.476872,0.169591,60,1.0,Bexley Road (A220) → Avenue Road,Road Closed,Global
+2026-06-18 11:16:26,51.481329,0.170993,60,1.0,Bexley Road (A220) → Erith Road / Pembroke Road,Road Works,Global
+2026-06-18 11:16:26,51.47561,0.173621,60,1.0,Avenue Road → Frinsted Road,Road Closed,Global
+2026-06-18 11:16:26,51.47448,0.172992,60,1.0,Frinsted Road → Avenue Road,Road Closed,Global
+2026-06-18 11:16:26,51.483589,0.165528,60,1.0,Erith Road / Pembroke Road → Bexley Road (A220),Road Closed,Global
+2026-06-18 11:16:26,51.565165,0.176074,60,1.14,Rushgreen Road → Rush Green Road (A124),Traffic Jam,Global
+2026-06-18 11:16:26,51.561981,0.17551,60,1.87,Barking and Dagenham → Rush Green Road (A124),Traffic Jam,Global
+2026-06-18 11:16:26,51.452504,0.174006,60,1.54,Old Road → Crayford High Street (A2000),Traffic Jam,Global
+2026-06-18 11:16:26,51.578806,0.171643,60,1.54,Eastern Avenue West (A12) → Saint Edwards Way (A118),Traffic Jam,Global
+2026-06-18 11:16:26,51.395458,0.177023,60,1.0,B2173 → Swanley,Dangerous Conditions,Global
+2026-06-18 11:16:26,51.395554,0.176759,60,1.0,Swanley → B2173,Dangerous Conditions,Global
+2026-06-18 11:16:26,51.58017,0.179535,60,1.0,Main Road → Havering,Road Works,Global
+2026-06-18 11:16:26,51.478444,0.182149,60,1.25,Manor Road → James Watt Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.464759,0.184516,60,1.6,Lincoln Close → Whitehall Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.390898,0.188111,60,1.0,B2173 → Swanley,Road Closed,Global
+2026-06-18 11:16:26,51.39027,0.189019,60,1.0,Swanley → B2173,Road Closed,Global
+2026-06-18 11:16:26,51.522674,0.190866,60,1.11,Dovers Corner (B1335) → Dominion Way,Road Works,Global
+2026-06-18 11:16:26,51.524711,0.191919,60,1.2,Dominion Way → Dovers Corner (B1335),Road Works,Global
+2026-06-18 11:16:26,51.288183,0.193221,60,1.0,Bradbourne Vale Road (A25) → Otford Road (A225),Road Works,Global
+2026-06-18 11:16:26,51.595067,0.193846,60,1.0,Eastern Avenue East (A12) → Brook Road,Road Closed,Global
+2026-06-18 11:16:26,51.593255,0.208471,60,1.0,Eastern Avenue East (A12) → Masefield Close,Road Closed,Global
+2026-06-18 11:16:26,51.59394,0.188095,60,1.31,Rise Park Boulevard → A127,Road Works,Global
+2026-06-18 11:16:26,51.590221,0.211443,60,1.14,Beaumont Close → Main Road (A118),Road Works,Global
+2026-06-18 11:16:26,51.592643,0.212365,60,1.0,Gallows Corner Roundabout (A12) → Heath Drive,Road Closed,Global
+2026-06-18 11:16:26,51.593074,0.209831,60,1.0,A127 → Gallows Corner Roundabout (A12),Road Closed,Global
+2026-06-18 11:16:26,51.592442,0.2127,60,1.0,Gallows Corner Roundabout (A12) → Upper Brentwood Road,Road Closed,Global
+2026-06-18 11:16:26,51.592576,0.212989,60,1.0,Southend Arterial Road → A12,Road Works,Global
+2026-06-18 11:16:26,51.593204,0.213186,60,1.0,Masefield Crescent → Gallows Corner Roundabout (A12),Road Closed,Global
+2026-06-18 11:16:26,51.593276,0.213215,60,1.0,Masefield Crescent → Gallows Corner Roundabout (A12),Road Closed,Global
+2026-06-18 11:16:26,51.592933,0.213081,60,1.0,Eastern Avenue East (A12) → Colchester Road (A12),Road Closed,Global
+2026-06-18 11:16:26,51.592839,0.213236,60,1.0,Colchester Road (A12) → Colchester Road (A12),Road Closed,Global
+2026-06-18 11:16:26,51.592274,0.213382,60,1.0,A127 → Gallows Corner Roundabout (A12),Road Closed,Global
+2026-06-18 11:16:26,51.591238,0.215127,60,1.0,A127 → Gallows Corner Roundabout (A12),Road Closed,Global
+2026-06-18 11:16:26,51.593074,0.209831,60,1.0,Eastern Avenue East (A12) → Bryant Avenue,Road Works,Global
+2026-06-18 11:16:26,51.592607,0.21323,60,1.0,Gallows Corner Roundabout (A12) / Colchester Road (A12) → A127,Road Closed,Global
+2026-06-18 11:16:26,51.444774,0.21512,60,1.0,Westgate Road (A226) / Kent Road → Hythe Street (A2026) / Home Gardens (A226),Road Closed,Global
+2026-06-18 11:16:26,51.593782,0.216956,60,1.0,Bryant Avenue → Gallows Corner Roundabout,Road Closed,Global
+2026-06-18 11:16:26,51.593133,0.217381,60,1.0,Colchester Road (A12) → Colchester Road (A12),Road Closed,Global
+2026-06-18 11:16:26,51.590538,0.216836,60,1.0,Eastern Avenue East → Bryant Avenue,Road Works,Global
+2026-06-18 11:16:26,51.557732,0.212333,60,1.68,Bedford Gardens → Station Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.44519,0.212269,60,1.58,West Hill → Overy Liberty / East Hill,Traffic Jam,Global
+2026-06-18 11:16:26,51.58693,0.224007,60,1.0,Ardleigh Green Road → Eastern Avenue East,Road Closed,Global
+2026-06-18 11:16:26,51.588459,0.229951,60,1.13,Southend Arterial Road (A127) / Ardleigh Green Road → Recreation Avenue,Road Works,Global
+2026-06-18 11:16:26,51.589146,0.232627,60,1.0,Recreation Avenue → Southend Arterial Road (A127) / Ardleigh Green Road,Road Works,Global
+2026-06-18 11:16:26,51.592882,0.232661,60,1.96,Oak Road → Colchester Road (A12) / Gooshays Drive,Traffic Jam,Global
+2026-06-18 11:16:26,51.285503,0.226491,60,1.0,High Street (A25) / Park Lane → Hall Hill,Unknown Incident,Global
+2026-06-18 11:16:26,51.281359,0.232696,60,1.0,Hall Hill → High Street (A25) / Park Lane,Unknown Incident,Global
+2026-06-18 11:16:26,51.580668,0.233423,60,1.0,Southend Arterial Road (A127) → Essex Gardens,Road Works,Global
+2026-06-18 11:16:26,51.579651,0.23395,60,1.0,Essex Gardens → Southend Arterial Road (A127),Road Works,Global
+2026-06-18 11:16:26,51.397533,0.236543,60,1.0,Franks Lane → Main Road / Station Road,Road Works,Global
+2026-06-18 11:16:26,51.396736,0.236049,60,2.18,Franks Lane → Main Road / Station Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.401847,0.238592,60,1.0,Cedar Drive → Franks Lane,Road Works,Global
+2026-06-18 11:16:26,51.453655,0.241164,60,1.24,University Way (A206) → A282,Traffic Jam,Global
+2026-06-18 11:16:26,51.453364,0.241701,60,1.21,University Way (A206) → A282,Traffic Jam,Global
+2026-06-18 11:16:26,51.456407,0.238344,60,1.51,Dartford → Littlebrook Manorway,Traffic Jam,Global
+2026-06-18 11:16:26,51.426743,0.24208,60,1.58,A2 → M25,Traffic Jam,Global
+2026-06-18 11:16:26,51.418304,0.228397,60,2.16,A225 J2 → A206 J1a,Traffic Jam,Global
+2026-06-18 11:16:26,51.452854,0.24022,60,1.31,University Way (A206) → A282,Traffic Jam,Global
+2026-06-18 11:16:26,51.536657,0.23827,60,1.23,Little Gerpins Road → Aveley Road,Road Works,Global
+2026-06-18 11:16:26,51.538873,0.243984,60,1.13,Havering → Gerpins Lane,Road Works,Global
+2026-06-18 11:16:26,51.534998,0.246925,60,1.11,Bramble Lane → Gerpins Lane,Road Works,Global
+2026-06-18 11:16:26,51.40668,0.248857,60,1.0,Holmesdale Hill / Paddock Close → Devon Road,Road Closed,Global
+2026-06-18 11:16:26,51.406494,0.246942,60,1.0,Devon Road → Holmesdale Hill / Paddock Close,Road Closed,Global
+2026-06-18 11:16:26,51.508132,0.249066,60,1.28,Thurrock → Thurrock,Road Works,Global
+2026-06-18 11:16:26,51.505196,0.247654,60,1.11,B1335 → Thurrock,Road Works,Global
+2026-06-18 11:16:26,51.290758,0.248951,60,1.0,Maidstone Road (A25) → Honeypot Lane,Road Closed,Global
+2026-06-18 11:16:26,51.297045,0.249232,60,1.0,Honeypot Lane → Maidstone Road (A25),Road Closed,Global
+2026-06-18 11:16:26,51.550075,0.252148,60,1.18,B1421 / Park Drive → Corbets Tey Road (B1421) / Springfield Gardens,Traffic Jam,Global
+2026-06-18 11:16:26,51.652463,0.257589,60,1.0,Tyser Green → Snakes Hill,Road Closed,Global
+2026-06-18 11:16:26,51.651241,0.256418,60,1.0,Snakes Hill → Ongar Road (A128) / Crown Road,Road Closed,Global
+2026-06-18 11:16:26,51.480744,0.261517,60,1.38,Thurrock → Dolphin Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.479214,0.269178,60,1.0,Eastern Avenue → London Road West Thurrock,Road Closed,Global
+2026-06-18 11:16:26,51.485142,0.271713,60,1.0,West Thurrock Way (B186) → Eastern Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.613088,0.270958,60,1.48,Weald Park Way → Brook Street (A1023) / Nag's Head Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.691071,0.272887,60,1.0,Chivers Road → Mill Lane / Stondon Road,Road Closed,Global
+2026-06-18 11:16:26,51.691362,0.264919,60,1.0,Mill Lane / Stondon Road → Chivers Road,Road Closed,Global
+2026-06-18 11:16:26,51.663437,0.277056,60,1.0,Ongar Road (A128) → Stocks Lane,Road Closed,Global
+2026-06-18 11:16:26,51.663962,0.278283,60,1.0,Stocks Lane → Ongar Road (A128),Road Closed,Global
+2026-06-18 11:16:26,51.505518,0.281824,60,1.0,Thurrock → Thurrock,Road Works,Global
+2026-06-18 11:16:26,51.709771,0.283155,60,1.0,The Street → King Street,Road Works,Global
+2026-06-18 11:16:26,51.367355,0.288572,60,1.55,Manor Lane / West Yoke → Valley Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.709612,0.291143,60,1.25,Rookery Road → The Street,Road Works,Global
+2026-06-18 11:16:26,51.696239,0.295778,60,1.0,Rookery Road → Woolmonger's Lane,Road Closed,Global
+2026-06-18 11:16:26,51.693623,0.294792,60,1.0,Woolmonger's Lane → Rookery Road,Road Closed,Global
+2026-06-18 11:16:26,51.607393,0.297543,60,1.3,Warley Hill (B186) → Warley Hill (B186),Traffic Jam,Global
+2026-06-18 11:16:26,51.532853,0.299175,60,1.23,Ockendon Road → South Road / West Road,Road Works,Global
+2026-06-18 11:16:26,51.527295,0.298555,60,1.0,South Road / West Road → Ockendon Road,Road Works,Global
+2026-06-18 11:16:26,51.618553,0.312499,60,1.0,Shenfield Crescent → Ingrave Road (A128) / Middleton Hall Lane,Road Closed,Global
+2026-06-18 11:16:26,51.618564,0.31013,60,1.0,Ingrave Road (A128) / Middleton Hall Lane → Shenfield Crescent,Road Closed,Global
+2026-06-18 11:16:26,51.575085,0.312618,60,1.33,Brentwood → Little Warley Hall Lane,Traffic Jam,Global
+2026-06-18 11:16:26,51.450184,0.317492,60,1.0,Stonebridge Road / Lower Road → London Road / High Street,Road Closed,Global
+2026-06-18 11:16:26,51.450072,0.309041,60,1.0,London Road / High Street → Stonebridge Road / Lower Road,Road Closed,Global
+2026-06-18 11:16:26,51.480265,0.319452,60,1.0,Elizabeth Road → Thurrock,Road Works,Global
+2026-06-18 11:16:26,51.484825,0.319409,60,1.14,Elizabeth Road → Thurrock,Road Works,Global
+2026-06-18 11:16:26,51.44719,0.32405,60,1.0,A226 → High Street / College Road,Road Works,Global
+2026-06-18 11:16:26,51.446313,0.325805,60,1.0,High Street (B2175) / Stonebridge Road (B2175) → Stonebridge Road (A226) / Grove Road,Road Closed,Global
+2026-06-18 11:16:26,51.447361,0.326477,60,1.0,Stonebridge Road (A226) / Grove Road → High Street (B2175) / Stonebridge Road (B2175),Road Closed,Global
+2026-06-18 11:16:26,51.629279,0.322357,60,1.5,Chelmsford Road (A1023) / Shenfield Road (A1023) → Rayleigh Road / Mount Avenue,Traffic Jam,Global
+2026-06-18 11:16:26,51.428876,0.331593,60,1.63,Hall Road (B262) → Gravesend,Traffic Jam,Global
+2026-06-18 11:16:26,51.433302,0.333281,60,1.0,Camden Close → Springhead Road (B262),Road Works,Global
+2026-06-18 11:16:26,51.433337,0.332967,60,1.0,Springhead Road (B262) → Camden Close,Road Works,Global
+2026-06-18 11:16:26,51.640404,0.331631,60,1.0,Alexander Lane → A12,Road Works,Global
+2026-06-18 11:16:26,51.64154,0.33344,60,1.0,A12 → Alexander Lane,Road Works,Global
+2026-06-18 11:16:26,51.639137,0.329849,60,1.49,Alexander Lane → A12,Traffic Jam,Global
+2026-06-18 11:16:26,51.433013,0.333,60,1.1,Thames Way (A226) → Hall Road,Road Works,Global
+2026-06-18 11:16:26,51.429126,0.333476,60,1.28,Hall Road → Thames Way (A226),Road Works,Global
+2026-06-18 11:16:26,51.48466,0.342967,60,1.0,B149 → A1013,Road Closed,Global
+2026-06-18 11:16:26,51.484065,0.340386,60,1.0,A1013 → B149,Road Closed,Global
+2026-06-18 11:16:26,51.347979,0.348768,60,1.0,Chapman's Hill / Heron Hill Lane → Wrotham Road / Whitepost Lane,Road Works,Global
+2026-06-18 11:16:26,51.346064,0.34796,60,1.0,Wrotham Road / Whitepost Lane → Chapman's Hill / Heron Hill Lane,Road Works,Global
+2026-06-18 11:16:26,51.637887,0.34707,60,1.31,Arnolds Avenue → Rayleigh Road (A129) / Wash Road,Road Works,Global
+2026-06-18 11:16:26,51.458273,0.360308,60,1.15,Ferry Road → Dock Road,Road Works,Global
+2026-06-18 11:16:26,51.460074,0.357597,60,1.0,Dock Road → Ferry Road,Road Works,Global
+2026-06-18 11:16:26,51.33906,0.364345,60,1.5,Ridge Lane → Harvel Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.471725,0.366577,60,1.0,Feenan Highway → Biggin Lane,Road Works,Global
+2026-06-18 11:16:26,51.473152,0.366045,60,1.0,Biggin Lane → Handel Crescent,Road Closed,Global
+2026-06-18 11:16:26,51.470518,0.365612,60,1.0,Handel Crescent → Feenan Highway,Road Closed,Global
+2026-06-18 11:16:26,51.471725,0.366577,60,1.0,Saint Chad's Road (A126) → Millais Place,Road Closed,Global
+2026-06-18 11:16:26,51.470611,0.367748,60,1.0,Handel Crescent → Saint Chad's Road (A126),Road Closed,Global
+2026-06-18 11:16:26,51.479769,0.369029,60,1.0,Brentwood Road / Linford Road → A126,Road Works,Global
+2026-06-18 11:16:26,51.47678,0.367092,60,1.0,A126 → Brentwood Road / Linford Road,Road Works,Global
+2026-06-18 11:16:26,51.444293,0.370236,60,1.0,Bank Street / New Swan Yard → Bull Yard,Road Closed,Global
+2026-06-18 11:16:26,51.444534,0.37027,60,1.0,Bull Yard → Bank Street / New Swan Yard,Road Closed,Global
+2026-06-18 11:16:26,51.439901,0.370633,60,1.0,Lord Street (A226) → Edwin Street,Road Closed,Global
+2026-06-18 11:16:26,51.43934,0.371165,60,1.0,Edwin Street → Lord Street (A226),Road Closed,Global
+2026-06-18 11:16:26,51.50516,0.373173,60,1.14,Stanford Road (A1013) → Thurrock,Road Works,Global
+2026-06-18 11:16:26,51.508076,0.37149,60,1.3,Thurrock → Stanford Road (A1013),Road Works,Global
+2026-06-18 11:16:26,51.408795,0.386855,60,1.0,Gravesend → Mackenzie Way,Road Works,Global
+2026-06-18 11:16:26,51.411527,0.388161,60,1.0,Ifield Way → Gravesend,Road Works,Global
+2026-06-18 11:16:26,51.414198,0.386117,60,2.08,Dobson Road → Gravesend,Traffic Jam,Global
+2026-06-18 11:16:26,51.311679,0.387122,60,1.73,Roughetts Road / Woodgate Road → Birling Road / Chapel Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.221606,0.393925,60,1.0,Maidstone Road (A228) → Church Lane,Road Closed,Global
+2026-06-18 11:16:26,51.218212,0.393998,60,1.0,Church Lane → Maidstone Road (A228),Road Closed,Global
+2026-06-18 11:16:26,51.412935,0.403525,60,1.0,Shorne Ifield Road → Vigilant Way,Road Closed,Global
+2026-06-18 11:16:26,51.416032,0.402034,60,1.0,Vigilant Way → Scotland Lane,Road Closed,Global
+2026-06-18 11:16:26,51.409974,0.404047,60,1.0,Shorne Ifield Road → Scotland Lane,Road Closed,Global
+2026-06-18 11:16:26,51.664808,0.407609,60,1.0,Stock Lane → Buttsbury,Road Closed,Global
+2026-06-18 11:16:26,51.661431,0.404646,60,1.0,Buttsbury → Stock Lane,Road Closed,Global
+2026-06-18 11:16:26,51.625605,0.42998,60,1.0,Prince Edward Road → Billericay,Road Works,Global
+2026-06-18 11:16:26,51.626379,0.432564,60,1.31,Prince Edward Road → Thynne Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.727801,0.443204,60,1.0,Bridge Street / Saint John's Green → Westway (A138) / Waterhouse Lane (A138),Road Works,Global
+2026-06-18 11:16:26,51.310679,0.446053,60,1.39,New Hythe Lane → Castle Way (A228),Traffic Jam,Global
+2026-06-18 11:16:26,51.345358,0.446932,60,1.0,Halling Bypass (A228) → Britannia Close,Road Closed,Global
+2026-06-18 11:16:26,51.346353,0.4471,60,1.0,Britannia Close → Snodland Bypass (A228) / Halling Bypass (A228),Road Closed,Global
+2026-06-18 11:16:26,51.664506,0.45089,60,1.0,Falkner Close → Stock,Road Closed,Global
+2026-06-18 11:16:26,51.664778,0.453545,60,1.0,Stock → Falkner Close,Road Closed,Global
+2026-06-18 11:16:26,51.398512,0.460651,60,1.0,Parkfields → Sharfleet Drive,Road Closed,Global
+2026-06-18 11:16:26,51.397836,0.455986,60,1.0,Sharfleet Drive → Parkfields,Road Closed,Global
+2026-06-18 11:16:26,51.525436,0.461031,60,1.0,Church Road (B1420) / Lampits Hill (B1420) → The Manorway (A1014) / Springhouse Lane,Road Closed,Global
+2026-06-18 11:16:26,51.524925,0.45969,60,1.0,The Manorway (A1014) → Church Road (B1420) / Lampits Hill (B1420),Road Closed,Global
+2026-06-18 11:16:26,51.726008,0.459857,60,2.04,Writtle Road / Cherrygarden Lane → New London Road (B1007) / Anchor Street,Traffic Jam,Global
+2026-06-18 11:16:26,51.341203,0.469546,60,1.0,Rochester Road / Scarborough Lane → Knowle Road,Road Works,Global
+2026-06-18 11:16:26,51.727063,0.464196,60,2.02,A1114 / Moulsham Street → Parkway (A1060),Traffic Jam,Global
+2026-06-18 11:16:26,51.571772,0.467781,60,1.55,Thorrington Cross → Church Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.769799,0.468897,60,1.0,Church Avenue → Main Road (B1008),Road Closed,Global
+2026-06-18 11:16:26,51.769857,0.470466,60,1.0,Main Road (B1008) → Church Avenue,Road Closed,Global
+2026-06-18 11:16:26,51.343833,0.46773,60,1.0,Knowle Road → Rochester Road / Scarborough Lane,Road Closed,Global
+2026-06-18 11:16:26,51.297914,0.468035,60,1.81,The Oaks → Hall Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.578925,0.472507,60,1.53,Elmbrook Close → Whitmore Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.734804,0.473316,60,1.0,Victoria Road (A1099) / B1008 → Market Road,Road Closed,Global
+2026-06-18 11:16:26,51.734509,0.472408,60,1.0,A1099 / Duke Street → Victoria Road (A1099) / B1008,Road Closed,Global
+2026-06-18 11:16:26,51.289917,0.476073,60,1.0,London Road (A20) → Whitepost Wood Lane,Road Works,Global
+2026-06-18 11:16:26,51.57811,0.476502,60,1.6,The Fremnells → Church Road,Traffic Jam,Global
+2026-06-18 11:16:26,51.286595,0.476881,60,1.0,Whitepost Wood Lane → London Road (A20),Road Works,Global
+2026-06-18 11:16:26,51.581226,0.482246,60,1.48,Whitmore Way → Whitmore Way,Traffic Jam,Global
+2026-06-18 11:16:26,51.30396,0.482391,60,1.0,Bush Row → Mount Pleasant / Unwin Close,Road Closed,Global
+2026-06-18 11:16:26,51.305181,0.484581,60,1.0,Mount Pleasant / Unwin Close → Aylesford,Road Closed,Global
+2026-06-18 11:16:26,51.73862,0.484666,60,1.48,Lionfield Terrace → Springfield Road (B1137),Traffic Jam,Global
+2026-06-18 11:16:26,51.390029,0.484116,60,1.48,Sundridge Hill → Strood,Traffic Jam,Global
+2026-06-18 11:16:26,51.771536,0.487351,60,1.84,Chelmsford Garden → Chelmsford Garden,Traffic Jam,Global
+2026-06-18 11:16:26,51.722398,0.488033,60,2.32,Great Baddow → Army & Navy Roundabout (A138),Traffic Jam,Global
+2026-06-18 11:16:26,51.725922,0.4885,60,1.48,Southend Road (A1114) → New London Road (B1007) / Parkway (B1007),Traffic Jam,Global
+2026-06-18 11:16:26,51.453505,0.493998,60,1.0,Church Street (B2000) / Cooling Road → West Street,Road Closed,Global
+2026-06-18 11:16:26,51.453579,0.490487,60,1.0,West Street → Church Street (B2000) / Cooling Road,Road Closed,Global
+2026-06-18 11:16:26,51.398592,0.493796,60,1.0,Gun Lane (A228) / Brompton Lane → Cliffe Road (B2000),Road Closed,Global
+2026-06-18 11:16:26,51.398878,0.494343,60,1.0,Cliffe Road (B2000) → Gun Lane (A228) / Brompton Lane,Road Closed,Global
+2026-06-18 11:16:26,51.75301,0.49399,60,1.32,Crocus Way → New Bowers Way,Road Works,Global
+2026-06-18 11:16:26,51.750529,0.496085,60,1.15,Rushleydale → Springfield,Road Works,Global
+2026-06-18 11:16:26,51.636318,0.498061,60,1.0,Castledon Road / Sudbury Road → Castledon Road,Road Closed,Global
+2026-06-18 11:16:26,51.636073,0.497672,60,1.0,Castledon Road → Castledon Road / Sudbury Road,Road Closed,Global
+2026-06-18 11:16:26,51.637094,0.498888,60,1.0,Brock Hill / Hawkswood Road → Castledon Road / School Road,Road Closed,Global
+2026-06-18 11:16:26,51.354743,0.499932,60,1.25,Rochester Road (B2097) / Laker Road → Maidstone Road (B2097),Traffic Jam,Global
