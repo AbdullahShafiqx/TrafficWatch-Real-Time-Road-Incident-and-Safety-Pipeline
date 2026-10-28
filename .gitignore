@@ -44,5 +44,5 @@ Fedora_Linux - Hadoop Spark Installation ss/
 execute_trafficwatch_ss/
 
 # Original PDFs at root level (now in docs/)
-Traffic_Watch_Report.pdf
-hadoop_spark_installation_manual.pdf
+/Traffic_Watch_Report.pdf
+/hadoop_spark_installation_manual.pdf
